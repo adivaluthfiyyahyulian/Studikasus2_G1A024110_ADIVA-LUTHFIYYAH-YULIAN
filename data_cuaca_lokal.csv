@@ -1,0 +1,3001 @@
+wilayah,curah_hujan_mm,kecepatan_angin_kmh,suhu_c
+Bengkulu - Pengamatan 1,102.3,7.1,22.8
+Kota Bengkulu - Pengamatan 2,35.7,67.6,31.2
+Rejang Lebong - Pengamatan 3,142.7,12.4,25.9
+Bengkulu Utara - Pengamatan 4,4.8,23.6,27.6
+Bengkulu Selatan - Pengamatan 5,4.2,21.9,30.6
+Seluma - Pengamatan 6,87.2,23.7,29.4
+Kaur - Pengamatan 7,129.5,5.6,33.9
+Mukomuko - Pengamatan 8,111.7,33.9,20.3
+Lebong - Pengamatan 9,153.2,33.6,18.9
+Kepahiang - Pengamatan 10,15.5,77.0,29.7
+Bengkulu - Pengamatan 11,129.1,67.0,28.3
+Kota Bengkulu - Pengamatan 12,155.7,37.2,28.6
+Rejang Lebong - Pengamatan 13,132.7,57.6,35.1
+Bengkulu Utara - Pengamatan 14,92.4,64.9,18.0
+Bengkulu Selatan - Pengamatan 15,36.5,29.6,18.7
+Seluma - Pengamatan 16,37.2,13.6,22.8
+Kaur - Pengamatan 17,101.7,36.0,24.8
+Mukomuko - Pengamatan 18,33.5,27.7,36.7
+Lebong - Pengamatan 19,103.7,56.8,20.6
+Kepahiang - Pengamatan 20,116.7,18.9,25.0
+Bengkulu - Pengamatan 21,158.3,59.4,28.7
+Kota Bengkulu - Pengamatan 22,109.5,76.6,33.3
+Rejang Lebong - Pengamatan 23,36.6,7.7,23.6
+Bengkulu Utara - Pengamatan 24,42.8,22.9,36.8
+Bengkulu Selatan - Pengamatan 25,140.2,31.7,30.8
+Seluma - Pengamatan 26,63.3,82.7,26.6
+Kaur - Pengamatan 27,42.4,26.0,28.8
+Mukomuko - Pengamatan 28,42.0,54.7,35.9
+Lebong - Pengamatan 29,63.9,23.6,37.9
+Kepahiang - Pengamatan 30,81.5,12.7,18.0
+Bengkulu - Pengamatan 31,17.5,58.3,33.6
+Kota Bengkulu - Pengamatan 32,67.5,10.4,25.0
+Rejang Lebong - Pengamatan 33,159.4,50.0,37.4
+Bengkulu Utara - Pengamatan 34,137.7,6.0,32.1
+Bengkulu Selatan - Pengamatan 35,109.1,50.6,22.6
+Seluma - Pengamatan 36,102.6,14.5,26.1
+Kaur - Pengamatan 37,72.6,86.1,35.4
+Mukomuko - Pengamatan 38,42.1,47.5,20.8
+Lebong - Pengamatan 39,146.0,79.0,23.3
+Kepahiang - Pengamatan 40,102.2,56.8,20.2
+Bengkulu - Pengamatan 41,122.0,50.8,33.4
+Kota Bengkulu - Pengamatan 42,84.9,5.0,23.8
+Rejang Lebong - Pengamatan 43,3.1,84.0,35.5
+Bengkulu Utara - Pengamatan 44,133.1,31.1,18.2
+Bengkulu Selatan - Pengamatan 45,140.5,85.5,18.8
+Seluma - Pengamatan 46,77.8,10.9,33.0
+Kaur - Pengamatan 47,122.5,15.9,27.0
+Mukomuko - Pengamatan 48,88.0,27.5,35.3
+Lebong - Pengamatan 49,67.7,23.0,28.3
+Kepahiang - Pengamatan 50,116.8,22.1,23.5
+Bengkulu - Pengamatan 51,159.2,60.2,26.2
+Kota Bengkulu - Pengamatan 52,82.8,15.3,21.7
+Rejang Lebong - Pengamatan 53,54.1,55.0,21.8
+Bengkulu Utara - Pengamatan 54,35.2,11.0,30.3
+Bengkulu Selatan - Pengamatan 55,36.6,82.0,35.1
+Seluma - Pengamatan 56,11.3,25.2,31.0
+Kaur - Pengamatan 57,34.3,16.2,36.6
+Mukomuko - Pengamatan 58,91.4,45.2,33.5
+Lebong - Pengamatan 59,129.2,21.2,19.0
+Kepahiang - Pengamatan 60,69.0,41.0,26.8
+Bengkulu - Pengamatan 61,116.7,62.2,37.7
+Kota Bengkulu - Pengamatan 62,15.7,39.2,24.1
+Rejang Lebong - Pengamatan 63,137.9,26.1,21.0
+Bengkulu Utara - Pengamatan 64,71.8,40.9,22.8
+Bengkulu Selatan - Pengamatan 65,40.0,83.5,26.3
+Seluma - Pengamatan 66,137.8,51.8,18.1
+Kaur - Pengamatan 67,159.9,76.1,37.3
+Mukomuko - Pengamatan 68,148.2,77.1,20.5
+Lebong - Pengamatan 69,77.7,23.2,25.4
+Kepahiang - Pengamatan 70,9.4,37.2,37.7
+Bengkulu - Pengamatan 71,42.4,71.6,26.6
+Kota Bengkulu - Pengamatan 72,67.7,86.4,37.9
+Rejang Lebong - Pengamatan 73,88.9,66.1,20.3
+Bengkulu Utara - Pengamatan 74,47.5,87.3,29.2
+Bengkulu Selatan - Pengamatan 75,86.8,68.6,18.2
+Seluma - Pengamatan 76,93.5,47.7,34.9
+Kaur - Pengamatan 77,25.2,86.7,18.7
+Mukomuko - Pengamatan 78,29.7,55.6,31.2
+Lebong - Pengamatan 79,37.6,15.2,35.7
+Kepahiang - Pengamatan 80,39.4,55.5,30.0
+Bengkulu - Pengamatan 81,67.1,54.6,28.0
+Kota Bengkulu - Pengamatan 82,149.6,22.4,32.0
+Rejang Lebong - Pengamatan 83,38.2,38.6,31.1
+Bengkulu Utara - Pengamatan 84,48.0,31.9,32.8
+Bengkulu Selatan - Pengamatan 85,11.6,44.0,38.0
+Seluma - Pengamatan 86,159.4,11.2,21.5
+Kaur - Pengamatan 87,42.4,84.3,35.5
+Mukomuko - Pengamatan 88,140.7,36.4,20.3
+Lebong - Pengamatan 89,133.4,64.8,29.8
+Kepahiang - Pengamatan 90,158.0,60.6,17.2
+Bengkulu - Pengamatan 91,130.7,30.4,30.9
+Kota Bengkulu - Pengamatan 92,150.2,16.4,19.4
+Rejang Lebong - Pengamatan 93,17.1,52.0,22.7
+Bengkulu Utara - Pengamatan 94,96.8,66.0,21.3
+Bengkulu Selatan - Pengamatan 95,101.5,27.4,27.3
+Seluma - Pengamatan 96,144.9,76.9,18.9
+Kaur - Pengamatan 97,67.8,28.5,17.1
+Mukomuko - Pengamatan 98,123.4,59.2,22.5
+Lebong - Pengamatan 99,118.6,51.9,26.0
+Kepahiang - Pengamatan 100,1.5,11.4,35.5
+Bengkulu - Pengamatan 101,144.6,51.4,34.5
+Kota Bengkulu - Pengamatan 102,93.2,17.6,19.7
+Rejang Lebong - Pengamatan 103,49.3,81.4,33.7
+Bengkulu Utara - Pengamatan 104,137.7,81.4,21.4
+Bengkulu Selatan - Pengamatan 105,39.9,13.7,33.4
+Seluma - Pengamatan 106,141.5,39.5,30.0
+Kaur - Pengamatan 107,24.7,84.0,35.2
+Mukomuko - Pengamatan 108,156.2,73.9,35.5
+Lebong - Pengamatan 109,4.0,67.6,24.0
+Kepahiang - Pengamatan 110,148.9,73.2,35.1
+Bengkulu - Pengamatan 111,129.7,27.7,33.5
+Kota Bengkulu - Pengamatan 112,17.3,79.1,35.0
+Rejang Lebong - Pengamatan 113,35.6,74.4,26.7
+Bengkulu Utara - Pengamatan 114,48.8,72.6,21.8
+Bengkulu Selatan - Pengamatan 115,3.8,21.4,23.9
+Seluma - Pengamatan 116,138.3,87.2,22.9
+Kaur - Pengamatan 117,102.6,39.0,37.6
+Mukomuko - Pengamatan 118,85.8,84.8,19.4
+Lebong - Pengamatan 119,155.3,20.2,37.2
+Kepahiang - Pengamatan 120,42.5,14.2,26.1
+Bengkulu - Pengamatan 121,116.6,31.7,29.7
+Kota Bengkulu - Pengamatan 122,81.8,37.7,29.1
+Rejang Lebong - Pengamatan 123,40.8,65.2,17.0
+Bengkulu Utara - Pengamatan 124,148.1,50.8,32.1
+Bengkulu Selatan - Pengamatan 125,118.7,62.0,24.6
+Seluma - Pengamatan 126,11.2,61.5,23.9
+Kaur - Pengamatan 127,50.2,77.1,32.1
+Mukomuko - Pengamatan 128,48.1,31.3,25.6
+Lebong - Pengamatan 129,64.4,30.1,19.7
+Kepahiang - Pengamatan 130,67.3,84.9,31.2
+Bengkulu - Pengamatan 131,144.4,57.3,23.3
+Kota Bengkulu - Pengamatan 132,87.7,5.0,23.0
+Rejang Lebong - Pengamatan 133,68.8,54.3,30.7
+Bengkulu Utara - Pengamatan 134,74.4,42.6,21.5
+Bengkulu Selatan - Pengamatan 135,75.7,81.6,33.7
+Seluma - Pengamatan 136,27.2,12.2,27.8
+Kaur - Pengamatan 137,101.3,33.5,34.2
+Mukomuko - Pengamatan 138,120.2,62.2,21.7
+Lebong - Pengamatan 139,31.9,7.1,22.1
+Kepahiang - Pengamatan 140,76.0,77.2,18.5
+Bengkulu - Pengamatan 141,66.3,58.5,21.1
+Kota Bengkulu - Pengamatan 142,111.4,47.0,22.1
+Rejang Lebong - Pengamatan 143,105.0,5.5,32.8
+Bengkulu Utara - Pengamatan 144,123.2,14.1,25.9
+Bengkulu Selatan - Pengamatan 145,28.1,86.4,27.9
+Seluma - Pengamatan 146,8.0,26.2,34.8
+Kaur - Pengamatan 147,73.0,73.1,31.0
+Mukomuko - Pengamatan 148,158.1,55.6,37.0
+Lebong - Pengamatan 149,142.6,57.1,32.1
+Kepahiang - Pengamatan 150,80.8,75.6,28.5
+Bengkulu - Pengamatan 151,143.6,68.2,27.0
+Kota Bengkulu - Pengamatan 152,41.5,26.0,30.4
+Rejang Lebong - Pengamatan 153,122.5,49.3,30.2
+Bengkulu Utara - Pengamatan 154,43.9,11.6,23.0
+Bengkulu Selatan - Pengamatan 155,43.5,32.2,28.3
+Seluma - Pengamatan 156,22.1,24.7,31.6
+Kaur - Pengamatan 157,113.0,10.5,25.6
+Mukomuko - Pengamatan 158,86.8,40.3,21.3
+Lebong - Pengamatan 159,67.2,81.9,29.3
+Kepahiang - Pengamatan 160,111.3,77.8,33.1
+Bengkulu - Pengamatan 161,60.9,5.5,24.4
+Kota Bengkulu - Pengamatan 162,120.6,77.5,37.0
+Rejang Lebong - Pengamatan 163,67.0,68.5,28.5
+Bengkulu Utara - Pengamatan 164,96.5,23.7,21.6
+Bengkulu Selatan - Pengamatan 165,69.7,7.5,24.1
+Seluma - Pengamatan 166,108.7,39.4,20.5
+Kaur - Pengamatan 167,74.8,15.8,30.1
+Mukomuko - Pengamatan 168,4.3,38.5,28.9
+Lebong - Pengamatan 169,4.3,59.6,19.8
+Kepahiang - Pengamatan 170,73.9,9.3,25.0
+Bengkulu - Pengamatan 171,33.9,32.8,33.0
+Kota Bengkulu - Pengamatan 172,60.7,68.9,34.5
+Rejang Lebong - Pengamatan 173,40.4,12.0,17.4
+Bengkulu Utara - Pengamatan 174,86.3,90.0,24.3
+Bengkulu Selatan - Pengamatan 175,104.0,71.4,30.7
+Seluma - Pengamatan 176,120.7,85.7,21.2
+Kaur - Pengamatan 177,3.3,18.0,19.7
+Mukomuko - Pengamatan 178,107.1,52.9,21.6
+Lebong - Pengamatan 179,111.9,70.2,20.5
+Kepahiang - Pengamatan 180,97.2,68.6,19.4
+Bengkulu - Pengamatan 181,131.1,87.0,19.3
+Kota Bengkulu - Pengamatan 182,4.1,31.5,31.2
+Rejang Lebong - Pengamatan 183,153.3,38.7,32.0
+Bengkulu Utara - Pengamatan 184,12.2,63.7,30.2
+Bengkulu Selatan - Pengamatan 185,16.3,70.7,34.9
+Seluma - Pengamatan 186,96.1,15.3,37.7
+Kaur - Pengamatan 187,125.2,34.5,26.0
+Mukomuko - Pengamatan 188,59.3,48.0,24.2
+Lebong - Pengamatan 189,135.9,74.9,19.2
+Kepahiang - Pengamatan 190,153.7,59.0,34.4
+Bengkulu - Pengamatan 191,113.2,42.0,32.4
+Kota Bengkulu - Pengamatan 192,154.5,28.0,34.0
+Rejang Lebong - Pengamatan 193,86.1,46.1,26.1
+Bengkulu Utara - Pengamatan 194,117.0,27.8,34.9
+Bengkulu Selatan - Pengamatan 195,132.9,12.4,35.5
+Seluma - Pengamatan 196,39.0,44.5,29.8
+Kaur - Pengamatan 197,60.6,7.4,34.9
+Mukomuko - Pengamatan 198,29.1,23.0,33.8
+Lebong - Pengamatan 199,54.5,79.8,31.7
+Kepahiang - Pengamatan 200,44.2,5.9,36.9
+Bengkulu - Pengamatan 201,13.7,66.2,27.3
+Kota Bengkulu - Pengamatan 202,121.3,63.7,30.6
+Rejang Lebong - Pengamatan 203,78.5,72.4,19.0
+Bengkulu Utara - Pengamatan 204,35.5,63.8,23.4
+Bengkulu Selatan - Pengamatan 205,93.0,45.2,28.1
+Seluma - Pengamatan 206,68.1,68.4,23.9
+Kaur - Pengamatan 207,112.5,28.0,22.3
+Mukomuko - Pengamatan 208,19.3,21.4,19.5
+Lebong - Pengamatan 209,85.7,69.8,20.9
+Kepahiang - Pengamatan 210,34.6,46.2,32.2
+Bengkulu - Pengamatan 211,156.3,49.6,22.9
+Kota Bengkulu - Pengamatan 212,16.1,21.5,21.8
+Rejang Lebong - Pengamatan 213,28.7,6.2,28.2
+Bengkulu Utara - Pengamatan 214,43.9,87.8,28.6
+Bengkulu Selatan - Pengamatan 215,111.6,15.7,35.2
+Seluma - Pengamatan 216,78.5,79.2,29.1
+Kaur - Pengamatan 217,75.1,42.4,20.9
+Mukomuko - Pengamatan 218,8.2,85.0,27.0
+Lebong - Pengamatan 219,131.5,39.1,18.6
+Kepahiang - Pengamatan 220,100.7,9.6,20.1
+Bengkulu - Pengamatan 221,90.1,30.8,37.9
+Kota Bengkulu - Pengamatan 222,19.0,70.0,29.7
+Rejang Lebong - Pengamatan 223,126.5,24.2,28.0
+Bengkulu Utara - Pengamatan 224,72.1,42.6,35.1
+Bengkulu Selatan - Pengamatan 225,158.4,31.0,30.0
+Seluma - Pengamatan 226,97.5,67.9,36.9
+Kaur - Pengamatan 227,33.2,22.9,30.9
+Mukomuko - Pengamatan 228,25.1,19.8,18.6
+Lebong - Pengamatan 229,0.4,43.3,29.5
+Kepahiang - Pengamatan 230,46.6,24.7,31.8
+Bengkulu - Pengamatan 231,112.5,43.6,31.4
+Kota Bengkulu - Pengamatan 232,147.8,72.0,30.1
+Rejang Lebong - Pengamatan 233,105.8,84.4,25.9
+Bengkulu Utara - Pengamatan 234,87.1,60.0,36.1
+Bengkulu Selatan - Pengamatan 235,132.3,11.1,20.5
+Seluma - Pengamatan 236,49.2,68.7,29.0
+Kaur - Pengamatan 237,46.2,15.6,31.5
+Mukomuko - Pengamatan 238,112.0,85.1,27.5
+Lebong - Pengamatan 239,79.0,11.8,17.8
+Kepahiang - Pengamatan 240,69.1,32.4,22.3
+Bengkulu - Pengamatan 241,14.6,86.8,34.6
+Kota Bengkulu - Pengamatan 242,92.0,85.8,38.0
+Rejang Lebong - Pengamatan 243,107.6,27.9,17.8
+Bengkulu Utara - Pengamatan 244,121.0,45.0,30.7
+Bengkulu Selatan - Pengamatan 245,146.6,20.4,29.3
+Seluma - Pengamatan 246,101.6,46.8,18.9
+Kaur - Pengamatan 247,55.7,33.3,31.1
+Mukomuko - Pengamatan 248,137.2,33.0,31.6
+Lebong - Pengamatan 249,46.1,85.3,34.1
+Kepahiang - Pengamatan 250,88.0,43.7,23.6
+Bengkulu - Pengamatan 251,51.7,87.5,25.5
+Kota Bengkulu - Pengamatan 252,82.3,89.0,30.8
+Rejang Lebong - Pengamatan 253,86.8,40.1,20.9
+Bengkulu Utara - Pengamatan 254,57.9,69.3,30.1
+Bengkulu Selatan - Pengamatan 255,121.6,22.3,28.5
+Seluma - Pengamatan 256,148.4,42.2,31.7
+Kaur - Pengamatan 257,19.4,87.7,29.8
+Mukomuko - Pengamatan 258,38.3,18.5,28.6
+Lebong - Pengamatan 259,88.4,12.9,37.8
+Kepahiang - Pengamatan 260,146.1,44.2,19.5
+Bengkulu - Pengamatan 261,133.1,47.4,32.0
+Kota Bengkulu - Pengamatan 262,81.4,28.2,34.5
+Rejang Lebong - Pengamatan 263,156.8,25.7,28.6
+Bengkulu Utara - Pengamatan 264,61.4,83.4,27.7
+Bengkulu Selatan - Pengamatan 265,140.7,78.4,22.8
+Seluma - Pengamatan 266,126.4,40.3,36.6
+Kaur - Pengamatan 267,81.2,74.7,22.9
+Mukomuko - Pengamatan 268,47.8,54.9,38.0
+Lebong - Pengamatan 269,78.3,17.6,28.3
+Kepahiang - Pengamatan 270,55.2,51.9,28.4
+Bengkulu - Pengamatan 271,72.9,32.4,21.0
+Kota Bengkulu - Pengamatan 272,111.6,53.6,21.9
+Rejang Lebong - Pengamatan 273,124.1,8.7,32.6
+Bengkulu Utara - Pengamatan 274,112.8,74.0,25.1
+Bengkulu Selatan - Pengamatan 275,106.2,74.8,37.6
+Seluma - Pengamatan 276,79.3,8.1,27.5
+Kaur - Pengamatan 277,94.4,78.9,35.4
+Mukomuko - Pengamatan 278,70.4,49.7,26.6
+Lebong - Pengamatan 279,115.6,39.8,30.8
+Kepahiang - Pengamatan 280,24.7,44.9,37.4
+Bengkulu - Pengamatan 281,54.2,63.9,30.6
+Kota Bengkulu - Pengamatan 282,136.3,77.4,35.0
+Rejang Lebong - Pengamatan 283,60.8,31.9,32.1
+Bengkulu Utara - Pengamatan 284,121.5,79.2,17.8
+Bengkulu Selatan - Pengamatan 285,10.9,58.6,36.3
+Seluma - Pengamatan 286,159.6,68.5,26.1
+Kaur - Pengamatan 287,15.8,58.9,35.3
+Mukomuko - Pengamatan 288,71.0,64.0,36.0
+Lebong - Pengamatan 289,7.4,72.7,23.2
+Kepahiang - Pengamatan 290,60.0,17.4,28.2
+Bengkulu - Pengamatan 291,90.5,72.4,20.6
+Kota Bengkulu - Pengamatan 292,12.6,79.0,30.0
+Rejang Lebong - Pengamatan 293,38.5,82.6,20.0
+Bengkulu Utara - Pengamatan 294,73.8,26.6,22.4
+Bengkulu Selatan - Pengamatan 295,1.5,73.4,35.9
+Seluma - Pengamatan 296,108.4,18.4,26.3
+Kaur - Pengamatan 297,55.3,54.9,30.4
+Mukomuko - Pengamatan 298,67.9,26.3,34.8
+Lebong - Pengamatan 299,31.9,37.7,27.1
+Kepahiang - Pengamatan 300,38.0,53.6,29.1
+Bengkulu - Pengamatan 301,158.8,30.1,37.5
+Kota Bengkulu - Pengamatan 302,105.3,28.3,28.9
+Rejang Lebong - Pengamatan 303,109.7,68.3,18.0
+Bengkulu Utara - Pengamatan 304,97.0,47.2,36.0
+Bengkulu Selatan - Pengamatan 305,45.8,72.9,29.7
+Seluma - Pengamatan 306,56.4,59.1,30.0
+Kaur - Pengamatan 307,108.4,66.3,30.8
+Mukomuko - Pengamatan 308,134.1,58.4,36.0
+Lebong - Pengamatan 309,103.4,31.3,26.3
+Kepahiang - Pengamatan 310,92.7,67.3,18.9
+Bengkulu - Pengamatan 311,47.2,68.5,20.7
+Kota Bengkulu - Pengamatan 312,21.1,50.8,37.4
+Rejang Lebong - Pengamatan 313,84.9,82.6,34.4
+Bengkulu Utara - Pengamatan 314,41.1,75.1,27.1
+Bengkulu Selatan - Pengamatan 315,129.0,68.5,24.1
+Seluma - Pengamatan 316,18.4,86.8,20.0
+Kaur - Pengamatan 317,154.6,78.1,32.2
+Mukomuko - Pengamatan 318,156.8,87.2,33.9
+Lebong - Pengamatan 319,58.5,72.2,17.3
+Kepahiang - Pengamatan 320,85.9,43.7,31.1
+Bengkulu - Pengamatan 321,107.6,54.7,34.3
+Kota Bengkulu - Pengamatan 322,150.4,14.2,21.9
+Rejang Lebong - Pengamatan 323,4.0,80.2,28.8
+Bengkulu Utara - Pengamatan 324,146.4,23.8,18.3
+Bengkulu Selatan - Pengamatan 325,131.8,82.3,23.3
+Seluma - Pengamatan 326,65.3,16.9,36.9
+Kaur - Pengamatan 327,48.7,46.9,19.0
+Mukomuko - Pengamatan 328,142.0,16.5,26.5
+Lebong - Pengamatan 329,107.3,68.2,36.9
+Kepahiang - Pengamatan 330,67.1,68.1,20.2
+Bengkulu - Pengamatan 331,66.4,13.4,27.3
+Kota Bengkulu - Pengamatan 332,65.3,85.9,17.7
+Rejang Lebong - Pengamatan 333,59.3,42.7,37.0
+Bengkulu Utara - Pengamatan 334,136.9,13.4,31.4
+Bengkulu Selatan - Pengamatan 335,87.1,88.1,24.5
+Seluma - Pengamatan 336,63.7,21.1,19.6
+Kaur - Pengamatan 337,135.7,43.7,30.9
+Mukomuko - Pengamatan 338,102.7,55.8,17.4
+Lebong - Pengamatan 339,125.9,25.7,19.6
+Kepahiang - Pengamatan 340,90.3,10.8,33.1
+Bengkulu - Pengamatan 341,33.1,23.4,35.3
+Kota Bengkulu - Pengamatan 342,52.6,17.5,35.9
+Rejang Lebong - Pengamatan 343,0.5,78.0,20.0
+Bengkulu Utara - Pengamatan 344,20.8,26.3,20.7
+Bengkulu Selatan - Pengamatan 345,105.8,7.2,17.3
+Seluma - Pengamatan 346,126.4,25.2,23.8
+Kaur - Pengamatan 347,27.9,9.5,32.6
+Mukomuko - Pengamatan 348,84.2,68.4,27.0
+Lebong - Pengamatan 349,124.5,48.6,19.3
+Kepahiang - Pengamatan 350,80.6,85.4,17.9
+Bengkulu - Pengamatan 351,125.3,78.7,28.0
+Kota Bengkulu - Pengamatan 352,73.3,86.9,18.3
+Rejang Lebong - Pengamatan 353,76.6,39.1,31.4
+Bengkulu Utara - Pengamatan 354,78.4,82.3,18.5
+Bengkulu Selatan - Pengamatan 355,12.9,56.7,18.4
+Seluma - Pengamatan 356,44.0,58.8,28.5
+Kaur - Pengamatan 357,52.0,89.5,28.1
+Mukomuko - Pengamatan 358,72.6,56.5,19.1
+Lebong - Pengamatan 359,112.3,77.5,30.7
+Kepahiang - Pengamatan 360,123.0,66.3,21.5
+Bengkulu - Pengamatan 361,72.2,24.4,24.1
+Kota Bengkulu - Pengamatan 362,72.6,40.4,19.0
+Rejang Lebong - Pengamatan 363,68.3,61.5,24.9
+Bengkulu Utara - Pengamatan 364,24.4,83.5,18.4
+Bengkulu Selatan - Pengamatan 365,133.1,12.9,19.0
+Seluma - Pengamatan 366,118.2,74.0,28.7
+Kaur - Pengamatan 367,93.8,52.7,23.9
+Mukomuko - Pengamatan 368,19.6,35.1,31.0
+Lebong - Pengamatan 369,120.0,78.8,32.1
+Kepahiang - Pengamatan 370,154.9,56.0,24.4
+Bengkulu - Pengamatan 371,92.5,23.1,30.8
+Kota Bengkulu - Pengamatan 372,35.9,14.2,34.8
+Rejang Lebong - Pengamatan 373,58.8,69.8,29.1
+Bengkulu Utara - Pengamatan 374,129.2,76.8,37.5
+Bengkulu Selatan - Pengamatan 375,130.9,57.2,30.5
+Seluma - Pengamatan 376,4.2,84.0,34.4
+Kaur - Pengamatan 377,42.8,20.3,31.8
+Mukomuko - Pengamatan 378,49.4,33.9,17.1
+Lebong - Pengamatan 379,139.2,53.1,25.4
+Kepahiang - Pengamatan 380,22.7,58.8,17.6
+Bengkulu - Pengamatan 381,119.4,23.3,25.8
+Kota Bengkulu - Pengamatan 382,54.5,36.5,32.2
+Rejang Lebong - Pengamatan 383,124.3,53.2,18.8
+Bengkulu Utara - Pengamatan 384,8.4,18.4,30.0
+Bengkulu Selatan - Pengamatan 385,107.8,28.1,30.9
+Seluma - Pengamatan 386,77.7,42.6,22.7
+Kaur - Pengamatan 387,120.8,14.7,26.0
+Mukomuko - Pengamatan 388,45.3,62.7,27.2
+Lebong - Pengamatan 389,106.7,8.9,25.3
+Kepahiang - Pengamatan 390,95.9,5.7,23.3
+Bengkulu - Pengamatan 391,33.8,16.7,22.4
+Kota Bengkulu - Pengamatan 392,52.5,5.7,32.7
+Rejang Lebong - Pengamatan 393,28.1,37.3,31.8
+Bengkulu Utara - Pengamatan 394,80.0,75.8,33.9
+Bengkulu Selatan - Pengamatan 395,11.5,78.2,17.9
+Seluma - Pengamatan 396,3.0,83.3,35.1
+Kaur - Pengamatan 397,92.1,53.7,31.9
+Mukomuko - Pengamatan 398,66.8,14.8,17.4
+Lebong - Pengamatan 399,52.0,73.1,30.0
+Kepahiang - Pengamatan 400,133.1,83.2,18.9
+Bengkulu - Pengamatan 401,135.1,25.7,29.4
+Kota Bengkulu - Pengamatan 402,83.8,38.6,23.5
+Rejang Lebong - Pengamatan 403,54.3,33.3,20.5
+Bengkulu Utara - Pengamatan 404,81.7,14.7,27.7
+Bengkulu Selatan - Pengamatan 405,144.9,34.7,32.3
+Seluma - Pengamatan 406,131.0,74.3,22.0
+Kaur - Pengamatan 407,23.4,21.8,29.7
+Mukomuko - Pengamatan 408,121.6,60.7,20.7
+Lebong - Pengamatan 409,123.7,47.0,32.8
+Kepahiang - Pengamatan 410,121.6,43.2,36.4
+Bengkulu - Pengamatan 411,90.3,59.0,30.1
+Kota Bengkulu - Pengamatan 412,138.3,58.3,20.2
+Rejang Lebong - Pengamatan 413,10.9,42.6,23.4
+Bengkulu Utara - Pengamatan 414,43.9,9.8,27.7
+Bengkulu Selatan - Pengamatan 415,49.7,43.4,18.2
+Seluma - Pengamatan 416,133.1,11.5,35.1
+Kaur - Pengamatan 417,136.8,57.3,27.6
+Mukomuko - Pengamatan 418,74.0,52.1,33.6
+Lebong - Pengamatan 419,143.3,43.2,34.0
+Kepahiang - Pengamatan 420,104.3,32.3,27.0
+Bengkulu - Pengamatan 421,24.1,10.3,19.2
+Kota Bengkulu - Pengamatan 422,143.9,34.2,32.0
+Rejang Lebong - Pengamatan 423,80.7,19.7,22.2
+Bengkulu Utara - Pengamatan 424,70.0,42.4,28.0
+Bengkulu Selatan - Pengamatan 425,25.4,36.7,22.9
+Seluma - Pengamatan 426,65.4,33.8,29.6
+Kaur - Pengamatan 427,126.3,60.0,18.4
+Mukomuko - Pengamatan 428,15.1,62.7,23.0
+Lebong - Pengamatan 429,115.8,60.8,36.0
+Kepahiang - Pengamatan 430,139.7,33.3,29.2
+Bengkulu - Pengamatan 431,22.6,34.7,37.3
+Kota Bengkulu - Pengamatan 432,111.8,38.3,29.5
+Rejang Lebong - Pengamatan 433,150.1,31.3,24.9
+Bengkulu Utara - Pengamatan 434,126.7,74.1,31.1
+Bengkulu Selatan - Pengamatan 435,132.6,67.8,31.4
+Seluma - Pengamatan 436,84.2,59.9,25.9
+Kaur - Pengamatan 437,57.9,35.8,20.8
+Mukomuko - Pengamatan 438,34.3,85.6,27.2
+Lebong - Pengamatan 439,36.2,16.7,18.6
+Kepahiang - Pengamatan 440,135.1,13.6,33.2
+Bengkulu - Pengamatan 441,133.6,80.1,17.8
+Kota Bengkulu - Pengamatan 442,53.9,70.1,19.8
+Rejang Lebong - Pengamatan 443,60.3,18.8,34.5
+Bengkulu Utara - Pengamatan 444,123.4,73.8,20.5
+Bengkulu Selatan - Pengamatan 445,70.0,39.9,31.2
+Seluma - Pengamatan 446,38.0,42.8,23.0
+Kaur - Pengamatan 447,119.8,43.2,28.2
+Mukomuko - Pengamatan 448,49.5,73.7,26.8
+Lebong - Pengamatan 449,133.6,36.3,36.9
+Kepahiang - Pengamatan 450,157.5,44.2,22.9
+Bengkulu - Pengamatan 451,61.1,49.8,37.3
+Kota Bengkulu - Pengamatan 452,130.7,73.1,19.9
+Rejang Lebong - Pengamatan 453,40.0,59.5,35.4
+Bengkulu Utara - Pengamatan 454,88.7,13.7,34.8
+Bengkulu Selatan - Pengamatan 455,136.2,29.2,33.0
+Seluma - Pengamatan 456,43.6,82.0,20.1
+Kaur - Pengamatan 457,70.0,85.4,21.7
+Mukomuko - Pengamatan 458,72.2,34.7,17.6
+Lebong - Pengamatan 459,8.5,47.7,22.0
+Kepahiang - Pengamatan 460,159.1,36.9,17.6
+Bengkulu - Pengamatan 461,148.9,76.3,30.6
+Kota Bengkulu - Pengamatan 462,126.6,16.7,23.0
+Rejang Lebong - Pengamatan 463,132.8,64.2,19.9
+Bengkulu Utara - Pengamatan 464,112.9,43.1,17.1
+Bengkulu Selatan - Pengamatan 465,12.7,26.8,34.5
+Seluma - Pengamatan 466,87.8,66.8,28.1
+Kaur - Pengamatan 467,17.8,29.5,23.3
+Mukomuko - Pengamatan 468,7.6,40.7,33.7
+Lebong - Pengamatan 469,73.1,14.4,36.0
+Kepahiang - Pengamatan 470,95.5,6.4,27.8
+Bengkulu - Pengamatan 471,38.7,17.2,26.0
+Kota Bengkulu - Pengamatan 472,98.4,25.4,25.7
+Rejang Lebong - Pengamatan 473,106.3,12.3,37.5
+Bengkulu Utara - Pengamatan 474,10.8,49.7,27.7
+Bengkulu Selatan - Pengamatan 475,158.1,52.1,25.2
+Seluma - Pengamatan 476,75.2,59.0,37.6
+Kaur - Pengamatan 477,40.6,6.4,33.6
+Mukomuko - Pengamatan 478,55.2,67.3,30.2
+Lebong - Pengamatan 479,123.4,67.5,24.0
+Kepahiang - Pengamatan 480,7.1,51.4,34.1
+Bengkulu - Pengamatan 481,28.0,71.2,26.8
+Kota Bengkulu - Pengamatan 482,111.3,58.7,34.0
+Rejang Lebong - Pengamatan 483,10.1,71.0,26.6
+Bengkulu Utara - Pengamatan 484,47.0,8.7,21.2
+Bengkulu Selatan - Pengamatan 485,6.7,84.3,27.8
+Seluma - Pengamatan 486,158.3,51.2,22.3
+Kaur - Pengamatan 487,120.5,21.2,24.5
+Mukomuko - Pengamatan 488,124.9,78.6,24.0
+Lebong - Pengamatan 489,19.9,36.3,35.7
+Kepahiang - Pengamatan 490,118.9,81.0,25.1
+Bengkulu - Pengamatan 491,155.8,47.2,27.4
+Kota Bengkulu - Pengamatan 492,147.9,49.1,33.8
+Rejang Lebong - Pengamatan 493,116.3,11.7,29.7
+Bengkulu Utara - Pengamatan 494,131.6,51.4,23.7
+Bengkulu Selatan - Pengamatan 495,12.8,61.2,23.4
+Seluma - Pengamatan 496,96.4,41.2,31.5
+Kaur - Pengamatan 497,56.2,8.6,35.3
+Mukomuko - Pengamatan 498,56.4,89.8,22.8
+Lebong - Pengamatan 499,156.8,85.6,18.6
+Kepahiang - Pengamatan 500,102.0,35.9,33.8
+Bengkulu - Pengamatan 501,108.7,86.0,20.0
+Kota Bengkulu - Pengamatan 502,97.2,71.4,17.7
+Rejang Lebong - Pengamatan 503,10.8,71.2,24.7
+Bengkulu Utara - Pengamatan 504,61.3,53.2,29.7
+Bengkulu Selatan - Pengamatan 505,108.6,85.6,24.8
+Seluma - Pengamatan 506,122.1,53.8,28.1
+Kaur - Pengamatan 507,63.7,60.2,22.2
+Mukomuko - Pengamatan 508,18.2,67.5,27.5
+Lebong - Pengamatan 509,61.9,52.7,22.5
+Kepahiang - Pengamatan 510,41.6,42.9,37.9
+Bengkulu - Pengamatan 511,45.7,82.9,27.3
+Kota Bengkulu - Pengamatan 512,19.6,77.5,26.5
+Rejang Lebong - Pengamatan 513,143.8,42.8,18.8
+Bengkulu Utara - Pengamatan 514,109.1,76.9,23.7
+Bengkulu Selatan - Pengamatan 515,55.6,10.5,28.4
+Seluma - Pengamatan 516,142.6,77.4,31.9
+Kaur - Pengamatan 517,148.4,59.2,33.7
+Mukomuko - Pengamatan 518,81.4,15.3,21.2
+Lebong - Pengamatan 519,22.2,72.2,17.6
+Kepahiang - Pengamatan 520,88.6,36.4,33.9
+Bengkulu - Pengamatan 521,88.3,57.0,18.8
+Kota Bengkulu - Pengamatan 522,49.5,90.0,32.1
+Rejang Lebong - Pengamatan 523,84.1,70.4,34.3
+Bengkulu Utara - Pengamatan 524,11.8,87.7,30.5
+Bengkulu Selatan - Pengamatan 525,72.0,62.8,24.2
+Seluma - Pengamatan 526,140.5,71.3,30.4
+Kaur - Pengamatan 527,29.1,87.1,26.1
+Mukomuko - Pengamatan 528,145.7,9.7,19.6
+Lebong - Pengamatan 529,24.5,19.0,23.8
+Kepahiang - Pengamatan 530,113.5,34.4,36.8
+Bengkulu - Pengamatan 531,143.2,76.9,22.3
+Kota Bengkulu - Pengamatan 532,101.6,51.8,19.6
+Rejang Lebong - Pengamatan 533,48.5,50.3,27.6
+Bengkulu Utara - Pengamatan 534,27.0,85.0,20.2
+Bengkulu Selatan - Pengamatan 535,105.4,66.3,29.7
+Seluma - Pengamatan 536,134.8,52.9,34.3
+Kaur - Pengamatan 537,4.5,8.9,30.5
+Mukomuko - Pengamatan 538,92.3,60.3,33.1
+Lebong - Pengamatan 539,66.7,59.3,27.5
+Kepahiang - Pengamatan 540,100.3,29.6,37.1
+Bengkulu - Pengamatan 541,77.3,73.4,31.4
+Kota Bengkulu - Pengamatan 542,47.6,11.2,18.3
+Rejang Lebong - Pengamatan 543,70.3,46.2,21.3
+Bengkulu Utara - Pengamatan 544,97.1,31.6,32.1
+Bengkulu Selatan - Pengamatan 545,117.5,78.2,37.5
+Seluma - Pengamatan 546,20.9,36.5,28.8
+Kaur - Pengamatan 547,51.1,44.7,22.6
+Mukomuko - Pengamatan 548,39.7,13.2,23.1
+Lebong - Pengamatan 549,61.5,57.3,22.2
+Kepahiang - Pengamatan 550,138.4,18.6,23.9
+Bengkulu - Pengamatan 551,92.4,31.6,33.0
+Kota Bengkulu - Pengamatan 552,79.7,48.8,27.5
+Rejang Lebong - Pengamatan 553,49.4,7.0,36.8
+Bengkulu Utara - Pengamatan 554,80.9,87.2,21.5
+Bengkulu Selatan - Pengamatan 555,56.5,9.3,27.4
+Seluma - Pengamatan 556,141.2,60.6,26.9
+Kaur - Pengamatan 557,85.9,77.0,26.0
+Mukomuko - Pengamatan 558,141.2,66.8,33.0
+Lebong - Pengamatan 559,58.5,39.0,29.0
+Kepahiang - Pengamatan 560,31.1,52.0,18.5
+Bengkulu - Pengamatan 561,80.7,70.0,22.9
+Kota Bengkulu - Pengamatan 562,158.3,62.8,19.5
+Rejang Lebong - Pengamatan 563,156.0,38.5,33.7
+Bengkulu Utara - Pengamatan 564,54.3,84.8,32.9
+Bengkulu Selatan - Pengamatan 565,31.8,48.3,27.5
+Seluma - Pengamatan 566,7.2,16.6,24.0
+Kaur - Pengamatan 567,75.8,43.8,29.7
+Mukomuko - Pengamatan 568,82.5,32.9,29.9
+Lebong - Pengamatan 569,26.0,89.2,32.5
+Kepahiang - Pengamatan 570,47.9,33.6,34.4
+Bengkulu - Pengamatan 571,85.2,65.2,23.3
+Kota Bengkulu - Pengamatan 572,130.5,36.3,31.1
+Rejang Lebong - Pengamatan 573,156.8,54.6,33.7
+Bengkulu Utara - Pengamatan 574,116.1,63.5,17.6
+Bengkulu Selatan - Pengamatan 575,75.9,87.2,33.4
+Seluma - Pengamatan 576,124.2,54.1,32.1
+Kaur - Pengamatan 577,93.4,19.5,30.2
+Mukomuko - Pengamatan 578,99.2,76.5,20.1
+Lebong - Pengamatan 579,108.9,7.7,36.9
+Kepahiang - Pengamatan 580,17.6,6.6,23.6
+Bengkulu - Pengamatan 581,24.2,63.7,25.6
+Kota Bengkulu - Pengamatan 582,124.0,83.2,35.3
+Rejang Lebong - Pengamatan 583,117.7,10.3,19.9
+Bengkulu Utara - Pengamatan 584,33.2,32.6,30.9
+Bengkulu Selatan - Pengamatan 585,84.1,31.7,20.6
+Seluma - Pengamatan 586,145.9,34.1,24.4
+Kaur - Pengamatan 587,123.5,66.3,30.5
+Mukomuko - Pengamatan 588,110.9,56.9,21.0
+Lebong - Pengamatan 589,39.4,52.4,21.7
+Kepahiang - Pengamatan 590,155.7,30.3,23.1
+Bengkulu - Pengamatan 591,33.2,64.9,23.7
+Kota Bengkulu - Pengamatan 592,55.8,84.4,33.7
+Rejang Lebong - Pengamatan 593,43.8,15.4,31.2
+Bengkulu Utara - Pengamatan 594,60.8,88.3,34.2
+Bengkulu Selatan - Pengamatan 595,152.7,73.4,23.1
+Seluma - Pengamatan 596,46.0,65.7,24.3
+Kaur - Pengamatan 597,70.8,26.8,27.1
+Mukomuko - Pengamatan 598,32.3,50.8,36.6
+Lebong - Pengamatan 599,111.4,16.7,29.9
+Kepahiang - Pengamatan 600,93.9,25.6,31.1
+Bengkulu - Pengamatan 601,85.0,59.2,18.1
+Kota Bengkulu - Pengamatan 602,66.1,66.0,19.1
+Rejang Lebong - Pengamatan 603,123.3,5.4,28.6
+Bengkulu Utara - Pengamatan 604,148.7,39.6,36.6
+Bengkulu Selatan - Pengamatan 605,140.5,45.6,21.2
+Seluma - Pengamatan 606,154.2,32.3,30.6
+Kaur - Pengamatan 607,145.3,12.6,29.1
+Mukomuko - Pengamatan 608,85.6,66.5,36.7
+Lebong - Pengamatan 609,146.1,19.9,35.5
+Kepahiang - Pengamatan 610,28.1,83.2,37.9
+Bengkulu - Pengamatan 611,63.5,47.1,36.7
+Kota Bengkulu - Pengamatan 612,153.9,83.7,35.4
+Rejang Lebong - Pengamatan 613,1.5,53.3,19.3
+Bengkulu Utara - Pengamatan 614,157.3,29.2,37.8
+Bengkulu Selatan - Pengamatan 615,86.9,47.0,36.7
+Seluma - Pengamatan 616,136.2,44.8,21.0
+Kaur - Pengamatan 617,18.0,18.8,26.6
+Mukomuko - Pengamatan 618,41.2,20.8,32.5
+Lebong - Pengamatan 619,126.5,53.3,32.9
+Kepahiang - Pengamatan 620,28.1,77.8,35.8
+Bengkulu - Pengamatan 621,132.3,48.8,18.8
+Kota Bengkulu - Pengamatan 622,107.1,20.7,20.0
+Rejang Lebong - Pengamatan 623,51.8,26.1,22.5
+Bengkulu Utara - Pengamatan 624,37.7,69.1,37.0
+Bengkulu Selatan - Pengamatan 625,48.3,66.4,17.2
+Seluma - Pengamatan 626,104.6,63.9,18.3
+Kaur - Pengamatan 627,18.9,31.1,25.5
+Mukomuko - Pengamatan 628,80.4,81.1,31.8
+Lebong - Pengamatan 629,49.8,15.0,36.2
+Kepahiang - Pengamatan 630,47.2,57.2,21.6
+Bengkulu - Pengamatan 631,21.4,18.0,32.7
+Kota Bengkulu - Pengamatan 632,96.9,40.3,28.5
+Rejang Lebong - Pengamatan 633,75.3,50.7,30.9
+Bengkulu Utara - Pengamatan 634,34.9,26.0,32.8
+Bengkulu Selatan - Pengamatan 635,139.7,12.0,26.4
+Seluma - Pengamatan 636,112.6,11.6,28.8
+Kaur - Pengamatan 637,9.9,51.6,27.6
+Mukomuko - Pengamatan 638,91.6,17.7,23.9
+Lebong - Pengamatan 639,83.3,14.9,21.3
+Kepahiang - Pengamatan 640,93.3,12.7,27.7
+Bengkulu - Pengamatan 641,129.4,43.5,27.8
+Kota Bengkulu - Pengamatan 642,73.1,9.9,26.7
+Rejang Lebong - Pengamatan 643,129.1,66.5,25.3
+Bengkulu Utara - Pengamatan 644,130.6,68.4,29.1
+Bengkulu Selatan - Pengamatan 645,7.2,34.3,18.3
+Seluma - Pengamatan 646,159.1,84.4,18.4
+Kaur - Pengamatan 647,149.4,7.7,25.6
+Mukomuko - Pengamatan 648,123.0,70.1,37.5
+Lebong - Pengamatan 649,103.3,40.7,37.8
+Kepahiang - Pengamatan 650,61.2,78.9,36.0
+Bengkulu - Pengamatan 651,60.1,63.0,30.9
+Kota Bengkulu - Pengamatan 652,86.3,60.6,24.3
+Rejang Lebong - Pengamatan 653,28.6,50.7,28.1
+Bengkulu Utara - Pengamatan 654,116.5,23.9,17.1
+Bengkulu Selatan - Pengamatan 655,3.6,30.4,31.1
+Seluma - Pengamatan 656,87.1,50.2,34.3
+Kaur - Pengamatan 657,39.6,34.4,22.8
+Mukomuko - Pengamatan 658,150.0,66.6,19.4
+Lebong - Pengamatan 659,129.5,40.6,33.1
+Kepahiang - Pengamatan 660,141.4,6.3,21.3
+Bengkulu - Pengamatan 661,16.1,7.9,29.6
+Kota Bengkulu - Pengamatan 662,112.5,9.1,32.6
+Rejang Lebong - Pengamatan 663,64.4,24.9,21.6
+Bengkulu Utara - Pengamatan 664,138.2,9.8,27.6
+Bengkulu Selatan - Pengamatan 665,46.3,74.3,32.4
+Seluma - Pengamatan 666,51.0,55.8,31.1
+Kaur - Pengamatan 667,51.3,30.6,20.0
+Mukomuko - Pengamatan 668,105.6,23.8,23.3
+Lebong - Pengamatan 669,9.8,85.6,35.5
+Kepahiang - Pengamatan 670,145.9,58.2,26.0
+Bengkulu - Pengamatan 671,79.3,87.6,36.8
+Kota Bengkulu - Pengamatan 672,107.4,71.8,23.7
+Rejang Lebong - Pengamatan 673,66.6,17.7,24.9
+Bengkulu Utara - Pengamatan 674,120.7,45.2,34.8
+Bengkulu Selatan - Pengamatan 675,48.1,65.1,33.9
+Seluma - Pengamatan 676,146.4,52.8,37.3
+Kaur - Pengamatan 677,89.2,16.4,22.1
+Mukomuko - Pengamatan 678,32.5,60.0,36.4
+Lebong - Pengamatan 679,135.5,12.9,32.2
+Kepahiang - Pengamatan 680,30.5,27.8,31.1
+Bengkulu - Pengamatan 681,96.5,79.3,21.0
+Kota Bengkulu - Pengamatan 682,121.9,66.6,28.7
+Rejang Lebong - Pengamatan 683,76.7,78.9,24.0
+Bengkulu Utara - Pengamatan 684,153.1,6.3,36.7
+Bengkulu Selatan - Pengamatan 685,153.9,15.0,38.0
+Seluma - Pengamatan 686,76.6,25.6,29.7
+Kaur - Pengamatan 687,32.7,82.8,28.6
+Mukomuko - Pengamatan 688,124.1,37.4,28.2
+Lebong - Pengamatan 689,57.5,27.2,27.8
+Kepahiang - Pengamatan 690,79.6,13.4,37.6
+Bengkulu - Pengamatan 691,75.1,76.4,36.2
+Kota Bengkulu - Pengamatan 692,59.3,40.2,28.8
+Rejang Lebong - Pengamatan 693,35.4,17.4,22.5
+Bengkulu Utara - Pengamatan 694,149.6,54.2,25.8
+Bengkulu Selatan - Pengamatan 695,24.4,33.0,25.0
+Seluma - Pengamatan 696,133.3,47.4,30.7
+Kaur - Pengamatan 697,109.6,26.9,34.3
+Mukomuko - Pengamatan 698,154.6,59.5,27.3
+Lebong - Pengamatan 699,26.9,72.6,20.6
+Kepahiang - Pengamatan 700,115.3,46.5,36.3
+Bengkulu - Pengamatan 701,86.7,59.6,18.2
+Kota Bengkulu - Pengamatan 702,5.4,77.0,36.8
+Rejang Lebong - Pengamatan 703,106.9,70.0,25.7
+Bengkulu Utara - Pengamatan 704,134.8,24.7,31.9
+Bengkulu Selatan - Pengamatan 705,1.5,48.0,24.8
+Seluma - Pengamatan 706,98.9,61.7,29.9
+Kaur - Pengamatan 707,77.3,46.5,17.1
+Mukomuko - Pengamatan 708,88.3,6.0,28.1
+Lebong - Pengamatan 709,44.0,88.1,17.4
+Kepahiang - Pengamatan 710,130.1,62.3,33.9
+Bengkulu - Pengamatan 711,145.6,14.1,19.0
+Kota Bengkulu - Pengamatan 712,23.8,21.3,28.1
+Rejang Lebong - Pengamatan 713,130.4,27.7,25.3
+Bengkulu Utara - Pengamatan 714,59.7,39.5,28.9
+Bengkulu Selatan - Pengamatan 715,158.4,24.2,31.4
+Seluma - Pengamatan 716,135.7,60.6,35.0
+Kaur - Pengamatan 717,121.5,12.9,25.0
+Mukomuko - Pengamatan 718,88.4,9.8,17.2
+Lebong - Pengamatan 719,27.4,47.5,26.1
+Kepahiang - Pengamatan 720,125.5,53.1,35.0
+Bengkulu - Pengamatan 721,15.3,49.9,17.9
+Kota Bengkulu - Pengamatan 722,33.8,78.8,35.6
+Rejang Lebong - Pengamatan 723,76.1,9.0,18.6
+Bengkulu Utara - Pengamatan 724,148.1,81.4,28.8
+Bengkulu Selatan - Pengamatan 725,5.3,83.9,23.6
+Seluma - Pengamatan 726,153.8,54.9,32.8
+Kaur - Pengamatan 727,114.0,38.9,18.6
+Mukomuko - Pengamatan 728,26.0,25.4,34.5
+Lebong - Pengamatan 729,62.3,81.2,24.0
+Kepahiang - Pengamatan 730,120.9,16.9,37.8
+Bengkulu - Pengamatan 731,115.9,47.6,37.5
+Kota Bengkulu - Pengamatan 732,8.6,42.2,34.6
+Rejang Lebong - Pengamatan 733,54.5,70.4,37.1
+Bengkulu Utara - Pengamatan 734,63.5,70.8,17.6
+Bengkulu Selatan - Pengamatan 735,43.7,89.4,27.3
+Seluma - Pengamatan 736,56.9,85.0,26.1
+Kaur - Pengamatan 737,108.8,61.2,18.8
+Mukomuko - Pengamatan 738,99.0,72.8,32.0
+Lebong - Pengamatan 739,13.1,18.1,31.9
+Kepahiang - Pengamatan 740,101.4,67.9,23.7
+Bengkulu - Pengamatan 741,17.0,5.4,23.5
+Kota Bengkulu - Pengamatan 742,57.6,27.9,19.8
+Rejang Lebong - Pengamatan 743,30.0,43.2,28.6
+Bengkulu Utara - Pengamatan 744,65.3,7.2,24.4
+Bengkulu Selatan - Pengamatan 745,14.9,55.8,23.8
+Seluma - Pengamatan 746,61.6,29.8,25.1
+Kaur - Pengamatan 747,13.6,81.6,36.0
+Mukomuko - Pengamatan 748,156.5,53.6,20.6
+Lebong - Pengamatan 749,60.9,16.8,23.3
+Kepahiang - Pengamatan 750,78.9,10.4,26.1
+Bengkulu - Pengamatan 751,67.4,46.2,18.6
+Kota Bengkulu - Pengamatan 752,40.3,26.0,30.1
+Rejang Lebong - Pengamatan 753,95.0,21.6,19.2
+Bengkulu Utara - Pengamatan 754,48.7,85.6,24.0
+Bengkulu Selatan - Pengamatan 755,99.2,73.3,23.9
+Seluma - Pengamatan 756,53.6,74.3,35.0
+Kaur - Pengamatan 757,155.9,16.6,23.7
+Mukomuko - Pengamatan 758,151.6,22.1,23.6
+Lebong - Pengamatan 759,154.3,87.3,23.1
+Kepahiang - Pengamatan 760,111.2,46.7,29.1
+Bengkulu - Pengamatan 761,38.8,37.0,34.1
+Kota Bengkulu - Pengamatan 762,62.9,14.7,28.8
+Rejang Lebong - Pengamatan 763,94.8,51.4,31.3
+Bengkulu Utara - Pengamatan 764,88.0,86.0,26.7
+Bengkulu Selatan - Pengamatan 765,113.3,42.3,23.1
+Seluma - Pengamatan 766,110.9,74.6,33.7
+Kaur - Pengamatan 767,65.5,47.4,30.3
+Mukomuko - Pengamatan 768,38.7,61.0,32.0
+Lebong - Pengamatan 769,126.3,11.3,37.8
+Kepahiang - Pengamatan 770,76.7,39.1,27.6
+Bengkulu - Pengamatan 771,147.3,63.8,28.4
+Kota Bengkulu - Pengamatan 772,126.5,35.6,35.8
+Rejang Lebong - Pengamatan 773,85.9,59.2,18.8
+Bengkulu Utara - Pengamatan 774,123.0,60.9,24.5
+Bengkulu Selatan - Pengamatan 775,103.5,8.8,37.7
+Seluma - Pengamatan 776,108.4,39.0,32.8
+Kaur - Pengamatan 777,154.5,41.6,17.2
+Mukomuko - Pengamatan 778,41.4,48.4,27.9
+Lebong - Pengamatan 779,92.9,53.9,26.4
+Kepahiang - Pengamatan 780,62.6,70.6,29.4
+Bengkulu - Pengamatan 781,80.1,34.3,17.5
+Kota Bengkulu - Pengamatan 782,16.7,40.4,37.2
+Rejang Lebong - Pengamatan 783,18.6,85.0,20.0
+Bengkulu Utara - Pengamatan 784,49.9,43.7,21.3
+Bengkulu Selatan - Pengamatan 785,77.3,45.5,26.2
+Seluma - Pengamatan 786,111.5,32.1,23.3
+Kaur - Pengamatan 787,129.6,14.8,34.8
+Mukomuko - Pengamatan 788,103.7,62.6,20.5
+Lebong - Pengamatan 789,157.4,25.7,20.7
+Kepahiang - Pengamatan 790,25.6,52.6,37.1
+Bengkulu - Pengamatan 791,37.1,39.4,20.9
+Kota Bengkulu - Pengamatan 792,102.5,41.7,17.6
+Rejang Lebong - Pengamatan 793,98.3,21.8,29.4
+Bengkulu Utara - Pengamatan 794,62.2,64.9,21.3
+Bengkulu Selatan - Pengamatan 795,120.4,73.7,18.3
+Seluma - Pengamatan 796,16.3,79.1,20.9
+Kaur - Pengamatan 797,52.2,43.9,22.5
+Mukomuko - Pengamatan 798,138.0,49.9,30.4
+Lebong - Pengamatan 799,95.5,57.0,29.3
+Kepahiang - Pengamatan 800,55.7,76.9,30.0
+Bengkulu - Pengamatan 801,130.2,65.0,23.2
+Kota Bengkulu - Pengamatan 802,98.3,12.2,19.8
+Rejang Lebong - Pengamatan 803,18.9,31.0,20.8
+Bengkulu Utara - Pengamatan 804,110.9,48.4,25.8
+Bengkulu Selatan - Pengamatan 805,22.1,37.6,20.9
+Seluma - Pengamatan 806,101.7,63.9,30.6
+Kaur - Pengamatan 807,160.0,52.2,27.3
+Mukomuko - Pengamatan 808,22.4,31.7,26.5
+Lebong - Pengamatan 809,8.6,35.5,17.2
+Kepahiang - Pengamatan 810,21.8,74.3,37.2
+Bengkulu - Pengamatan 811,80.9,47.1,31.4
+Kota Bengkulu - Pengamatan 812,66.5,76.4,27.3
+Rejang Lebong - Pengamatan 813,13.2,7.6,33.0
+Bengkulu Utara - Pengamatan 814,46.7,28.4,28.3
+Bengkulu Selatan - Pengamatan 815,26.9,43.9,32.6
+Seluma - Pengamatan 816,122.5,51.7,19.4
+Kaur - Pengamatan 817,18.3,70.9,34.3
+Mukomuko - Pengamatan 818,58.7,74.9,17.9
+Lebong - Pengamatan 819,115.0,51.4,37.8
+Kepahiang - Pengamatan 820,16.4,75.6,32.8
+Bengkulu - Pengamatan 821,47.6,89.9,26.4
+Kota Bengkulu - Pengamatan 822,55.8,74.4,26.2
+Rejang Lebong - Pengamatan 823,159.0,70.9,22.0
+Bengkulu Utara - Pengamatan 824,129.7,55.0,24.4
+Bengkulu Selatan - Pengamatan 825,113.7,58.8,20.5
+Seluma - Pengamatan 826,22.3,22.6,21.3
+Kaur - Pengamatan 827,9.5,34.8,22.9
+Mukomuko - Pengamatan 828,86.2,32.5,31.8
+Lebong - Pengamatan 829,46.3,27.7,35.0
+Kepahiang - Pengamatan 830,157.7,62.7,19.0
+Bengkulu - Pengamatan 831,154.0,71.8,36.3
+Kota Bengkulu - Pengamatan 832,158.8,78.7,19.7
+Rejang Lebong - Pengamatan 833,138.6,26.2,31.9
+Bengkulu Utara - Pengamatan 834,132.6,69.7,31.2
+Bengkulu Selatan - Pengamatan 835,78.3,54.1,22.6
+Seluma - Pengamatan 836,66.3,43.4,30.3
+Kaur - Pengamatan 837,140.8,12.9,27.8
+Mukomuko - Pengamatan 838,44.5,84.6,24.8
+Lebong - Pengamatan 839,152.0,32.8,17.1
+Kepahiang - Pengamatan 840,123.9,67.3,32.3
+Bengkulu - Pengamatan 841,73.4,61.5,24.5
+Kota Bengkulu - Pengamatan 842,10.1,50.4,21.6
+Rejang Lebong - Pengamatan 843,68.7,23.0,22.6
+Bengkulu Utara - Pengamatan 844,132.5,33.7,29.1
+Bengkulu Selatan - Pengamatan 845,90.6,46.3,24.2
+Seluma - Pengamatan 846,109.2,9.1,19.1
+Kaur - Pengamatan 847,125.4,44.1,19.6
+Mukomuko - Pengamatan 848,137.2,42.5,17.0
+Lebong - Pengamatan 849,153.3,22.2,31.5
+Kepahiang - Pengamatan 850,21.1,60.2,20.3
+Bengkulu - Pengamatan 851,149.2,28.3,30.7
+Kota Bengkulu - Pengamatan 852,40.1,36.6,36.0
+Rejang Lebong - Pengamatan 853,26.5,38.7,23.4
+Bengkulu Utara - Pengamatan 854,111.9,24.9,30.8
+Bengkulu Selatan - Pengamatan 855,112.6,5.1,27.0
+Seluma - Pengamatan 856,21.2,24.2,31.3
+Kaur - Pengamatan 857,1.5,64.1,34.2
+Mukomuko - Pengamatan 858,158.1,40.9,19.8
+Lebong - Pengamatan 859,11.3,37.6,32.3
+Kepahiang - Pengamatan 860,16.4,31.6,35.5
+Bengkulu - Pengamatan 861,21.9,70.7,32.8
+Kota Bengkulu - Pengamatan 862,21.3,89.4,20.0
+Rejang Lebong - Pengamatan 863,84.9,5.7,30.7
+Bengkulu Utara - Pengamatan 864,70.4,66.4,30.2
+Bengkulu Selatan - Pengamatan 865,24.2,40.0,31.4
+Seluma - Pengamatan 866,137.6,12.4,19.1
+Kaur - Pengamatan 867,120.4,55.1,25.1
+Mukomuko - Pengamatan 868,154.1,31.7,19.9
+Lebong - Pengamatan 869,44.3,12.2,28.6
+Kepahiang - Pengamatan 870,96.0,56.6,33.4
+Bengkulu - Pengamatan 871,110.5,77.1,30.8
+Kota Bengkulu - Pengamatan 872,48.3,49.0,27.7
+Rejang Lebong - Pengamatan 873,119.7,30.1,18.1
+Bengkulu Utara - Pengamatan 874,143.7,86.1,27.4
+Bengkulu Selatan - Pengamatan 875,18.0,47.5,29.5
+Seluma - Pengamatan 876,84.5,88.1,37.7
+Kaur - Pengamatan 877,149.4,16.2,35.1
+Mukomuko - Pengamatan 878,90.9,36.1,31.3
+Lebong - Pengamatan 879,122.0,86.1,33.2
+Kepahiang - Pengamatan 880,2.7,10.7,22.5
+Bengkulu - Pengamatan 881,6.4,10.1,33.6
+Kota Bengkulu - Pengamatan 882,81.1,58.4,27.5
+Rejang Lebong - Pengamatan 883,66.5,64.7,18.7
+Bengkulu Utara - Pengamatan 884,85.9,57.4,22.8
+Bengkulu Selatan - Pengamatan 885,49.6,48.5,21.3
+Seluma - Pengamatan 886,129.3,50.6,25.2
+Kaur - Pengamatan 887,101.5,75.9,31.3
+Mukomuko - Pengamatan 888,10.6,64.4,32.3
+Lebong - Pengamatan 889,135.4,9.9,18.8
+Kepahiang - Pengamatan 890,69.5,43.5,29.8
+Bengkulu - Pengamatan 891,49.5,68.0,32.6
+Kota Bengkulu - Pengamatan 892,19.1,65.2,31.7
+Rejang Lebong - Pengamatan 893,26.2,86.0,28.0
+Bengkulu Utara - Pengamatan 894,125.3,66.3,20.5
+Bengkulu Selatan - Pengamatan 895,20.3,71.4,22.6
+Seluma - Pengamatan 896,141.8,70.6,17.6
+Kaur - Pengamatan 897,129.1,28.1,18.3
+Mukomuko - Pengamatan 898,114.0,54.0,18.6
+Lebong - Pengamatan 899,72.8,35.6,27.5
+Kepahiang - Pengamatan 900,90.7,36.3,22.4
+Bengkulu - Pengamatan 901,16.5,53.8,32.2
+Kota Bengkulu - Pengamatan 902,36.5,48.3,17.9
+Rejang Lebong - Pengamatan 903,138.1,25.8,26.9
+Bengkulu Utara - Pengamatan 904,61.3,17.8,36.6
+Bengkulu Selatan - Pengamatan 905,137.2,52.0,36.2
+Seluma - Pengamatan 906,118.5,40.6,23.8
+Kaur - Pengamatan 907,66.6,66.2,22.7
+Mukomuko - Pengamatan 908,12.5,36.7,27.5
+Lebong - Pengamatan 909,144.3,20.2,33.9
+Kepahiang - Pengamatan 910,157.0,86.1,18.4
+Bengkulu - Pengamatan 911,74.4,29.0,34.7
+Kota Bengkulu - Pengamatan 912,52.4,52.0,17.2
+Rejang Lebong - Pengamatan 913,32.1,52.9,23.4
+Bengkulu Utara - Pengamatan 914,99.6,44.4,29.4
+Bengkulu Selatan - Pengamatan 915,78.9,70.7,21.1
+Seluma - Pengamatan 916,144.1,69.6,22.1
+Kaur - Pengamatan 917,1.0,39.9,21.9
+Mukomuko - Pengamatan 918,55.4,76.4,35.4
+Lebong - Pengamatan 919,152.2,5.1,30.8
+Kepahiang - Pengamatan 920,135.8,66.8,19.2
+Bengkulu - Pengamatan 921,84.8,25.2,27.3
+Kota Bengkulu - Pengamatan 922,9.6,89.7,31.9
+Rejang Lebong - Pengamatan 923,14.9,83.3,35.8
+Bengkulu Utara - Pengamatan 924,83.2,64.6,24.8
+Bengkulu Selatan - Pengamatan 925,155.9,12.2,19.0
+Seluma - Pengamatan 926,21.4,74.7,18.6
+Kaur - Pengamatan 927,90.9,42.0,37.2
+Mukomuko - Pengamatan 928,37.9,27.2,23.6
+Lebong - Pengamatan 929,128.1,64.6,32.4
+Kepahiang - Pengamatan 930,50.9,28.1,18.6
+Bengkulu - Pengamatan 931,32.4,71.3,29.3
+Kota Bengkulu - Pengamatan 932,24.9,19.0,26.8
+Rejang Lebong - Pengamatan 933,65.0,50.6,37.3
+Bengkulu Utara - Pengamatan 934,33.2,31.2,22.6
+Bengkulu Selatan - Pengamatan 935,19.2,18.4,31.4
+Seluma - Pengamatan 936,132.2,64.2,17.8
+Kaur - Pengamatan 937,133.7,32.9,18.9
+Mukomuko - Pengamatan 938,39.7,35.2,27.8
+Lebong - Pengamatan 939,108.3,27.1,37.8
+Kepahiang - Pengamatan 940,5.0,39.4,26.5
+Bengkulu - Pengamatan 941,119.7,26.2,26.7
+Kota Bengkulu - Pengamatan 942,128.6,16.9,17.3
+Rejang Lebong - Pengamatan 943,132.9,88.5,19.7
+Bengkulu Utara - Pengamatan 944,131.8,36.6,30.2
+Bengkulu Selatan - Pengamatan 945,103.1,54.5,22.4
+Seluma - Pengamatan 946,130.0,6.9,18.4
+Kaur - Pengamatan 947,144.4,42.7,19.7
+Mukomuko - Pengamatan 948,144.8,75.5,24.0
+Lebong - Pengamatan 949,6.8,44.2,20.5
+Kepahiang - Pengamatan 950,91.8,74.8,25.3
+Bengkulu - Pengamatan 951,4.7,63.1,20.6
+Kota Bengkulu - Pengamatan 952,34.4,20.9,22.9
+Rejang Lebong - Pengamatan 953,141.3,7.9,30.0
+Bengkulu Utara - Pengamatan 954,39.3,30.1,25.7
+Bengkulu Selatan - Pengamatan 955,88.1,10.2,22.9
+Seluma - Pengamatan 956,22.0,22.0,35.6
+Kaur - Pengamatan 957,84.1,58.6,33.8
+Mukomuko - Pengamatan 958,127.2,89.1,33.4
+Lebong - Pengamatan 959,57.5,51.3,27.2
+Kepahiang - Pengamatan 960,146.0,47.7,25.2
+Bengkulu - Pengamatan 961,28.8,32.1,21.6
+Kota Bengkulu - Pengamatan 962,143.3,71.2,18.2
+Rejang Lebong - Pengamatan 963,158.6,50.0,33.1
+Bengkulu Utara - Pengamatan 964,159.9,87.8,19.1
+Bengkulu Selatan - Pengamatan 965,105.1,27.7,34.1
+Seluma - Pengamatan 966,146.8,9.8,37.9
+Kaur - Pengamatan 967,35.1,77.0,33.7
+Mukomuko - Pengamatan 968,56.8,76.3,34.7
+Lebong - Pengamatan 969,28.2,55.4,33.9
+Kepahiang - Pengamatan 970,111.6,82.7,17.6
+Bengkulu - Pengamatan 971,112.1,85.5,28.8
+Kota Bengkulu - Pengamatan 972,90.1,21.0,37.7
+Rejang Lebong - Pengamatan 973,141.1,46.8,23.5
+Bengkulu Utara - Pengamatan 974,78.5,12.7,21.9
+Bengkulu Selatan - Pengamatan 975,35.0,49.7,17.0
+Seluma - Pengamatan 976,146.9,22.1,19.7
+Kaur - Pengamatan 977,114.7,83.1,34.7
+Mukomuko - Pengamatan 978,51.8,6.9,29.3
+Lebong - Pengamatan 979,146.8,70.8,34.8
+Kepahiang - Pengamatan 980,137.7,86.6,24.8
+Bengkulu - Pengamatan 981,150.7,38.6,19.1
+Kota Bengkulu - Pengamatan 982,48.3,16.6,20.3
+Rejang Lebong - Pengamatan 983,151.8,72.3,37.2
+Bengkulu Utara - Pengamatan 984,103.9,19.8,37.3
+Bengkulu Selatan - Pengamatan 985,111.0,84.0,33.5
+Seluma - Pengamatan 986,35.7,55.1,20.7
+Kaur - Pengamatan 987,49.1,63.5,19.7
+Mukomuko - Pengamatan 988,116.6,85.6,36.9
+Lebong - Pengamatan 989,62.7,89.5,37.3
+Kepahiang - Pengamatan 990,5.2,56.2,36.3
+Bengkulu - Pengamatan 991,154.8,23.8,28.9
+Kota Bengkulu - Pengamatan 992,149.9,17.0,32.7
+Rejang Lebong - Pengamatan 993,38.1,88.5,20.5
+Bengkulu Utara - Pengamatan 994,141.7,12.5,31.9
+Bengkulu Selatan - Pengamatan 995,102.3,80.4,26.4
+Seluma - Pengamatan 996,42.4,26.2,18.4
+Kaur - Pengamatan 997,41.1,14.2,17.0
+Mukomuko - Pengamatan 998,61.7,67.3,37.4
+Lebong - Pengamatan 999,141.5,46.9,25.0
+Kepahiang - Pengamatan 1000,87.4,13.6,27.1
+Bengkulu - Pengamatan 1001,138.2,60.3,31.4
+Kota Bengkulu - Pengamatan 1002,26.0,11.3,34.8
+Rejang Lebong - Pengamatan 1003,47.2,32.1,37.0
+Bengkulu Utara - Pengamatan 1004,11.9,19.5,24.9
+Bengkulu Selatan - Pengamatan 1005,117.1,51.5,35.9
+Seluma - Pengamatan 1006,14.9,55.5,29.9
+Kaur - Pengamatan 1007,77.2,7.6,36.8
+Mukomuko - Pengamatan 1008,26.4,80.6,20.3
+Lebong - Pengamatan 1009,16.2,22.5,21.0
+Kepahiang - Pengamatan 1010,111.6,66.4,32.3
+Bengkulu - Pengamatan 1011,42.4,28.9,22.0
+Kota Bengkulu - Pengamatan 1012,7.9,53.6,34.6
+Rejang Lebong - Pengamatan 1013,24.6,35.7,26.0
+Bengkulu Utara - Pengamatan 1014,47.1,61.3,29.6
+Bengkulu Selatan - Pengamatan 1015,31.9,7.2,20.6
+Seluma - Pengamatan 1016,46.7,12.0,34.7
+Kaur - Pengamatan 1017,49.3,38.8,27.3
+Mukomuko - Pengamatan 1018,105.8,12.7,28.4
+Lebong - Pengamatan 1019,29.6,80.3,24.8
+Kepahiang - Pengamatan 1020,71.3,27.4,26.8
+Bengkulu - Pengamatan 1021,36.2,27.8,18.3
+Kota Bengkulu - Pengamatan 1022,120.4,61.7,18.8
+Rejang Lebong - Pengamatan 1023,55.0,51.0,37.4
+Bengkulu Utara - Pengamatan 1024,94.4,52.1,34.7
+Bengkulu Selatan - Pengamatan 1025,130.9,40.6,28.2
+Seluma - Pengamatan 1026,138.7,45.4,35.5
+Kaur - Pengamatan 1027,76.2,11.7,36.0
+Mukomuko - Pengamatan 1028,114.3,47.7,35.9
+Lebong - Pengamatan 1029,128.1,62.6,30.0
+Kepahiang - Pengamatan 1030,19.2,69.4,20.6
+Bengkulu - Pengamatan 1031,157.5,87.6,34.0
+Kota Bengkulu - Pengamatan 1032,20.2,41.0,37.8
+Rejang Lebong - Pengamatan 1033,69.7,89.8,30.2
+Bengkulu Utara - Pengamatan 1034,133.5,26.9,36.1
+Bengkulu Selatan - Pengamatan 1035,146.3,10.7,25.2
+Seluma - Pengamatan 1036,63.6,32.7,22.8
+Kaur - Pengamatan 1037,73.3,79.2,33.5
+Mukomuko - Pengamatan 1038,99.7,49.4,25.8
+Lebong - Pengamatan 1039,66.3,17.6,29.3
+Kepahiang - Pengamatan 1040,121.3,84.9,36.4
+Bengkulu - Pengamatan 1041,90.0,13.6,23.0
+Kota Bengkulu - Pengamatan 1042,85.7,34.2,25.6
+Rejang Lebong - Pengamatan 1043,61.3,46.3,29.8
+Bengkulu Utara - Pengamatan 1044,6.0,28.4,20.0
+Bengkulu Selatan - Pengamatan 1045,97.4,64.0,17.8
+Seluma - Pengamatan 1046,142.3,33.2,22.0
+Kaur - Pengamatan 1047,119.3,83.3,35.8
+Mukomuko - Pengamatan 1048,3.2,74.5,23.4
+Lebong - Pengamatan 1049,44.9,46.8,31.6
+Kepahiang - Pengamatan 1050,15.7,78.9,19.8
+Bengkulu - Pengamatan 1051,155.9,42.7,34.3
+Kota Bengkulu - Pengamatan 1052,43.1,40.4,30.6
+Rejang Lebong - Pengamatan 1053,30.1,23.0,34.3
+Bengkulu Utara - Pengamatan 1054,118.6,69.6,35.2
+Bengkulu Selatan - Pengamatan 1055,131.4,48.8,20.3
+Seluma - Pengamatan 1056,49.8,48.1,19.8
+Kaur - Pengamatan 1057,136.2,79.7,17.6
+Mukomuko - Pengamatan 1058,30.8,75.8,34.6
+Lebong - Pengamatan 1059,39.9,43.8,36.3
+Kepahiang - Pengamatan 1060,112.7,28.3,34.3
+Bengkulu - Pengamatan 1061,80.8,59.0,19.6
+Kota Bengkulu - Pengamatan 1062,4.9,36.7,29.5
+Rejang Lebong - Pengamatan 1063,28.4,79.0,29.3
+Bengkulu Utara - Pengamatan 1064,56.0,18.9,35.8
+Bengkulu Selatan - Pengamatan 1065,119.8,63.6,23.0
+Seluma - Pengamatan 1066,61.9,18.8,29.0
+Kaur - Pengamatan 1067,154.4,77.9,30.6
+Mukomuko - Pengamatan 1068,108.4,27.9,25.6
+Lebong - Pengamatan 1069,3.2,71.3,33.1
+Kepahiang - Pengamatan 1070,1.4,82.5,30.6
+Bengkulu - Pengamatan 1071,96.2,5.7,22.3
+Kota Bengkulu - Pengamatan 1072,128.8,31.0,37.3
+Rejang Lebong - Pengamatan 1073,102.8,41.0,24.9
+Bengkulu Utara - Pengamatan 1074,55.8,26.4,26.8
+Bengkulu Selatan - Pengamatan 1075,108.4,75.1,25.3
+Seluma - Pengamatan 1076,16.4,48.5,30.9
+Kaur - Pengamatan 1077,134.9,36.8,30.6
+Mukomuko - Pengamatan 1078,97.4,30.4,19.3
+Lebong - Pengamatan 1079,10.2,89.0,30.5
+Kepahiang - Pengamatan 1080,137.8,27.2,31.9
+Bengkulu - Pengamatan 1081,142.8,30.4,20.1
+Kota Bengkulu - Pengamatan 1082,122.5,81.5,33.9
+Rejang Lebong - Pengamatan 1083,128.4,56.0,30.9
+Bengkulu Utara - Pengamatan 1084,108.9,66.3,30.8
+Bengkulu Selatan - Pengamatan 1085,159.6,27.1,25.8
+Seluma - Pengamatan 1086,62.1,8.0,31.9
+Kaur - Pengamatan 1087,91.5,21.1,32.3
+Mukomuko - Pengamatan 1088,35.6,50.4,33.5
+Lebong - Pengamatan 1089,145.0,62.1,27.7
+Kepahiang - Pengamatan 1090,135.3,76.5,35.4
+Bengkulu - Pengamatan 1091,29.0,13.3,19.7
+Kota Bengkulu - Pengamatan 1092,41.4,73.7,33.0
+Rejang Lebong - Pengamatan 1093,29.3,62.8,24.0
+Bengkulu Utara - Pengamatan 1094,14.3,35.2,32.6
+Bengkulu Selatan - Pengamatan 1095,49.1,72.0,24.0
+Seluma - Pengamatan 1096,41.7,30.0,34.9
+Kaur - Pengamatan 1097,75.3,78.6,29.3
+Mukomuko - Pengamatan 1098,151.1,11.1,35.7
+Lebong - Pengamatan 1099,80.1,78.7,25.0
+Kepahiang - Pengamatan 1100,47.7,9.6,34.9
+Bengkulu - Pengamatan 1101,22.0,22.0,25.6
+Kota Bengkulu - Pengamatan 1102,91.1,82.1,26.6
+Rejang Lebong - Pengamatan 1103,50.6,65.8,33.4
+Bengkulu Utara - Pengamatan 1104,78.0,58.6,20.7
+Bengkulu Selatan - Pengamatan 1105,101.5,5.4,22.7
+Seluma - Pengamatan 1106,121.8,19.3,33.1
+Kaur - Pengamatan 1107,78.3,69.9,18.8
+Mukomuko - Pengamatan 1108,98.3,58.8,25.5
+Lebong - Pengamatan 1109,154.5,37.6,17.8
+Kepahiang - Pengamatan 1110,31.9,36.7,17.3
+Bengkulu - Pengamatan 1111,51.6,75.8,21.0
+Kota Bengkulu - Pengamatan 1112,108.3,58.3,22.2
+Rejang Lebong - Pengamatan 1113,111.0,34.3,19.7
+Bengkulu Utara - Pengamatan 1114,61.4,55.0,20.5
+Bengkulu Selatan - Pengamatan 1115,131.8,30.3,23.1
+Seluma - Pengamatan 1116,116.5,55.7,24.1
+Kaur - Pengamatan 1117,142.1,89.6,24.2
+Mukomuko - Pengamatan 1118,144.2,35.5,21.0
+Lebong - Pengamatan 1119,151.7,83.0,25.5
+Kepahiang - Pengamatan 1120,36.5,66.8,19.8
+Bengkulu - Pengamatan 1121,117.5,55.1,20.5
+Kota Bengkulu - Pengamatan 1122,58.7,60.3,17.8
+Rejang Lebong - Pengamatan 1123,140.2,26.7,28.2
+Bengkulu Utara - Pengamatan 1124,7.8,89.5,30.9
+Bengkulu Selatan - Pengamatan 1125,104.6,6.7,31.5
+Seluma - Pengamatan 1126,66.7,37.3,28.5
+Kaur - Pengamatan 1127,75.9,18.0,31.6
+Mukomuko - Pengamatan 1128,100.8,30.6,30.9
+Lebong - Pengamatan 1129,106.0,27.9,29.7
+Kepahiang - Pengamatan 1130,21.9,75.6,19.2
+Bengkulu - Pengamatan 1131,115.0,15.0,19.4
+Kota Bengkulu - Pengamatan 1132,17.0,21.9,21.2
+Rejang Lebong - Pengamatan 1133,42.1,49.5,21.2
+Bengkulu Utara - Pengamatan 1134,112.5,30.1,17.8
+Bengkulu Selatan - Pengamatan 1135,79.4,22.7,36.6
+Seluma - Pengamatan 1136,52.9,5.2,31.1
+Kaur - Pengamatan 1137,145.1,76.0,31.0
+Mukomuko - Pengamatan 1138,23.9,12.7,27.7
+Lebong - Pengamatan 1139,115.8,13.6,22.4
+Kepahiang - Pengamatan 1140,37.0,89.0,23.2
+Bengkulu - Pengamatan 1141,74.3,13.5,20.7
+Kota Bengkulu - Pengamatan 1142,6.3,29.7,33.8
+Rejang Lebong - Pengamatan 1143,50.0,67.8,19.0
+Bengkulu Utara - Pengamatan 1144,121.3,8.9,34.9
+Bengkulu Selatan - Pengamatan 1145,106.1,19.5,24.5
+Seluma - Pengamatan 1146,70.0,57.9,35.4
+Kaur - Pengamatan 1147,14.9,74.3,20.8
+Mukomuko - Pengamatan 1148,64.1,86.8,22.7
+Lebong - Pengamatan 1149,61.7,77.3,33.8
+Kepahiang - Pengamatan 1150,103.8,72.7,19.4
+Bengkulu - Pengamatan 1151,111.4,10.0,36.8
+Kota Bengkulu - Pengamatan 1152,25.5,40.4,29.4
+Rejang Lebong - Pengamatan 1153,128.4,62.7,20.8
+Bengkulu Utara - Pengamatan 1154,60.8,35.5,17.6
+Bengkulu Selatan - Pengamatan 1155,109.5,76.3,37.4
+Seluma - Pengamatan 1156,20.9,83.2,19.4
+Kaur - Pengamatan 1157,65.8,8.9,22.5
+Mukomuko - Pengamatan 1158,50.3,64.9,31.2
+Lebong - Pengamatan 1159,122.8,54.0,28.9
+Kepahiang - Pengamatan 1160,156.5,61.9,24.1
+Bengkulu - Pengamatan 1161,83.7,64.5,19.0
+Kota Bengkulu - Pengamatan 1162,105.9,26.1,24.3
+Rejang Lebong - Pengamatan 1163,108.2,37.7,34.6
+Bengkulu Utara - Pengamatan 1164,89.3,89.0,18.1
+Bengkulu Selatan - Pengamatan 1165,102.9,18.3,34.8
+Seluma - Pengamatan 1166,136.3,78.9,18.6
+Kaur - Pengamatan 1167,78.7,25.5,37.4
+Mukomuko - Pengamatan 1168,8.1,23.9,30.5
+Lebong - Pengamatan 1169,64.5,25.0,26.6
+Kepahiang - Pengamatan 1170,128.2,43.1,35.0
+Bengkulu - Pengamatan 1171,71.5,15.1,27.4
+Kota Bengkulu - Pengamatan 1172,104.5,13.7,25.7
+Rejang Lebong - Pengamatan 1173,89.1,5.0,18.9
+Bengkulu Utara - Pengamatan 1174,96.7,57.6,23.4
+Bengkulu Selatan - Pengamatan 1175,81.3,22.6,31.1
+Seluma - Pengamatan 1176,152.1,35.9,18.1
+Kaur - Pengamatan 1177,35.7,43.6,28.8
+Mukomuko - Pengamatan 1178,99.2,45.2,30.8
+Lebong - Pengamatan 1179,114.5,14.7,32.9
+Kepahiang - Pengamatan 1180,35.5,34.0,34.4
+Bengkulu - Pengamatan 1181,154.3,29.8,28.0
+Kota Bengkulu - Pengamatan 1182,112.3,8.9,20.4
+Rejang Lebong - Pengamatan 1183,22.5,65.9,32.2
+Bengkulu Utara - Pengamatan 1184,17.1,56.9,20.9
+Bengkulu Selatan - Pengamatan 1185,148.8,38.4,26.6
+Seluma - Pengamatan 1186,125.0,65.9,19.3
+Kaur - Pengamatan 1187,66.3,83.8,34.6
+Mukomuko - Pengamatan 1188,94.2,70.6,26.5
+Lebong - Pengamatan 1189,105.4,86.3,19.8
+Kepahiang - Pengamatan 1190,79.8,50.1,18.0
+Bengkulu - Pengamatan 1191,149.6,76.3,27.1
+Kota Bengkulu - Pengamatan 1192,81.3,83.3,20.7
+Rejang Lebong - Pengamatan 1193,92.6,67.1,19.7
+Bengkulu Utara - Pengamatan 1194,62.0,56.0,35.5
+Bengkulu Selatan - Pengamatan 1195,80.7,37.7,37.6
+Seluma - Pengamatan 1196,146.5,69.8,22.7
+Kaur - Pengamatan 1197,154.2,87.5,26.5
+Mukomuko - Pengamatan 1198,21.3,40.1,31.7
+Lebong - Pengamatan 1199,119.7,30.4,31.7
+Kepahiang - Pengamatan 1200,137.7,65.5,36.6
+Bengkulu - Pengamatan 1201,101.2,22.1,30.1
+Kota Bengkulu - Pengamatan 1202,46.5,34.3,31.1
+Rejang Lebong - Pengamatan 1203,157.0,60.3,37.1
+Bengkulu Utara - Pengamatan 1204,80.6,64.0,23.8
+Bengkulu Selatan - Pengamatan 1205,18.5,34.9,27.1
+Seluma - Pengamatan 1206,91.3,61.7,25.8
+Kaur - Pengamatan 1207,119.7,76.5,23.0
+Mukomuko - Pengamatan 1208,135.6,73.7,28.0
+Lebong - Pengamatan 1209,4.0,17.4,31.1
+Kepahiang - Pengamatan 1210,32.0,68.8,20.4
+Bengkulu - Pengamatan 1211,45.9,26.3,34.6
+Kota Bengkulu - Pengamatan 1212,110.5,30.1,32.8
+Rejang Lebong - Pengamatan 1213,5.2,74.2,19.2
+Bengkulu Utara - Pengamatan 1214,138.9,67.9,35.2
+Bengkulu Selatan - Pengamatan 1215,118.8,52.7,22.0
+Seluma - Pengamatan 1216,125.5,72.9,23.0
+Kaur - Pengamatan 1217,106.3,83.8,25.1
+Mukomuko - Pengamatan 1218,153.1,87.9,23.6
+Lebong - Pengamatan 1219,88.3,6.1,22.3
+Kepahiang - Pengamatan 1220,99.3,71.4,35.3
+Bengkulu - Pengamatan 1221,132.8,82.5,31.8
+Kota Bengkulu - Pengamatan 1222,103.6,69.2,28.5
+Rejang Lebong - Pengamatan 1223,96.5,71.0,37.3
+Bengkulu Utara - Pengamatan 1224,47.1,20.1,31.3
+Bengkulu Selatan - Pengamatan 1225,29.9,19.8,27.8
+Seluma - Pengamatan 1226,60.4,41.4,28.7
+Kaur - Pengamatan 1227,20.8,54.6,22.4
+Mukomuko - Pengamatan 1228,52.9,65.3,20.3
+Lebong - Pengamatan 1229,24.6,32.4,18.1
+Kepahiang - Pengamatan 1230,149.2,57.3,30.9
+Bengkulu - Pengamatan 1231,78.5,53.7,24.5
+Kota Bengkulu - Pengamatan 1232,125.4,32.0,21.6
+Rejang Lebong - Pengamatan 1233,29.4,10.8,27.6
+Bengkulu Utara - Pengamatan 1234,66.5,50.6,18.9
+Bengkulu Selatan - Pengamatan 1235,35.4,23.1,24.0
+Seluma - Pengamatan 1236,57.7,23.6,32.8
+Kaur - Pengamatan 1237,84.9,89.7,34.3
+Mukomuko - Pengamatan 1238,157.0,5.7,31.0
+Lebong - Pengamatan 1239,71.3,81.9,29.9
+Kepahiang - Pengamatan 1240,99.4,86.5,31.3
+Bengkulu - Pengamatan 1241,51.3,82.9,36.8
+Kota Bengkulu - Pengamatan 1242,61.7,50.9,22.9
+Rejang Lebong - Pengamatan 1243,145.8,74.9,24.9
+Bengkulu Utara - Pengamatan 1244,128.5,42.9,17.9
+Bengkulu Selatan - Pengamatan 1245,143.7,21.4,27.8
+Seluma - Pengamatan 1246,151.7,19.2,37.1
+Kaur - Pengamatan 1247,86.1,5.6,18.4
+Mukomuko - Pengamatan 1248,107.3,70.8,35.2
+Lebong - Pengamatan 1249,67.9,13.8,28.3
+Kepahiang - Pengamatan 1250,112.4,88.0,33.3
+Bengkulu - Pengamatan 1251,103.4,84.9,32.7
+Kota Bengkulu - Pengamatan 1252,24.6,44.0,24.0
+Rejang Lebong - Pengamatan 1253,14.0,9.6,33.7
+Bengkulu Utara - Pengamatan 1254,89.3,53.9,21.8
+Bengkulu Selatan - Pengamatan 1255,41.4,38.0,30.2
+Seluma - Pengamatan 1256,69.3,6.4,31.1
+Kaur - Pengamatan 1257,85.6,59.5,30.0
+Mukomuko - Pengamatan 1258,121.0,54.8,31.7
+Lebong - Pengamatan 1259,11.6,83.9,19.2
+Kepahiang - Pengamatan 1260,125.9,30.6,18.8
+Bengkulu - Pengamatan 1261,122.4,42.2,25.3
+Kota Bengkulu - Pengamatan 1262,105.7,45.3,28.2
+Rejang Lebong - Pengamatan 1263,21.8,38.2,33.7
+Bengkulu Utara - Pengamatan 1264,87.3,86.6,20.0
+Bengkulu Selatan - Pengamatan 1265,108.4,82.7,33.7
+Seluma - Pengamatan 1266,116.7,36.7,36.9
+Kaur - Pengamatan 1267,88.6,52.2,19.6
+Mukomuko - Pengamatan 1268,0.8,55.7,28.3
+Lebong - Pengamatan 1269,151.5,30.9,32.7
+Kepahiang - Pengamatan 1270,144.6,34.2,25.7
+Bengkulu - Pengamatan 1271,103.3,48.6,20.4
+Kota Bengkulu - Pengamatan 1272,35.3,76.0,21.1
+Rejang Lebong - Pengamatan 1273,29.0,73.0,34.9
+Bengkulu Utara - Pengamatan 1274,136.2,84.3,37.9
+Bengkulu Selatan - Pengamatan 1275,73.8,51.7,23.1
+Seluma - Pengamatan 1276,10.8,13.3,32.2
+Kaur - Pengamatan 1277,78.0,33.1,19.7
+Mukomuko - Pengamatan 1278,104.9,13.5,30.0
+Lebong - Pengamatan 1279,144.0,32.0,26.5
+Kepahiang - Pengamatan 1280,98.6,31.0,29.3
+Bengkulu - Pengamatan 1281,90.5,36.0,23.6
+Kota Bengkulu - Pengamatan 1282,68.5,5.4,22.2
+Rejang Lebong - Pengamatan 1283,35.4,67.9,26.2
+Bengkulu Utara - Pengamatan 1284,134.4,16.4,32.4
+Bengkulu Selatan - Pengamatan 1285,140.5,44.3,24.5
+Seluma - Pengamatan 1286,48.9,51.9,20.7
+Kaur - Pengamatan 1287,97.1,76.6,35.0
+Mukomuko - Pengamatan 1288,22.4,50.8,22.5
+Lebong - Pengamatan 1289,141.8,11.5,18.6
+Kepahiang - Pengamatan 1290,3.0,48.1,17.7
+Bengkulu - Pengamatan 1291,93.1,39.4,29.4
+Kota Bengkulu - Pengamatan 1292,145.0,51.9,28.4
+Rejang Lebong - Pengamatan 1293,159.8,45.1,33.3
+Bengkulu Utara - Pengamatan 1294,58.5,24.0,33.2
+Bengkulu Selatan - Pengamatan 1295,117.3,29.7,26.8
+Seluma - Pengamatan 1296,81.7,38.7,27.5
+Kaur - Pengamatan 1297,106.0,77.1,33.9
+Mukomuko - Pengamatan 1298,98.2,19.1,27.8
+Lebong - Pengamatan 1299,71.4,20.2,36.9
+Kepahiang - Pengamatan 1300,105.5,87.3,32.5
+Bengkulu - Pengamatan 1301,77.4,35.5,21.6
+Kota Bengkulu - Pengamatan 1302,78.0,10.3,24.8
+Rejang Lebong - Pengamatan 1303,6.8,22.6,36.1
+Bengkulu Utara - Pengamatan 1304,57.8,44.9,26.5
+Bengkulu Selatan - Pengamatan 1305,7.4,88.4,23.8
+Seluma - Pengamatan 1306,112.6,49.3,34.4
+Kaur - Pengamatan 1307,133.6,27.4,28.4
+Mukomuko - Pengamatan 1308,27.8,60.6,24.7
+Lebong - Pengamatan 1309,104.5,76.0,27.8
+Kepahiang - Pengamatan 1310,60.2,82.1,27.8
+Bengkulu - Pengamatan 1311,56.5,78.8,27.2
+Kota Bengkulu - Pengamatan 1312,77.1,56.4,27.5
+Rejang Lebong - Pengamatan 1313,22.2,19.1,18.6
+Bengkulu Utara - Pengamatan 1314,103.0,23.0,20.9
+Bengkulu Selatan - Pengamatan 1315,58.0,66.0,19.5
+Seluma - Pengamatan 1316,36.9,73.9,32.1
+Kaur - Pengamatan 1317,77.0,45.7,21.4
+Mukomuko - Pengamatan 1318,25.8,75.8,17.5
+Lebong - Pengamatan 1319,6.9,53.7,20.4
+Kepahiang - Pengamatan 1320,100.7,8.3,29.0
+Bengkulu - Pengamatan 1321,8.9,27.0,20.8
+Kota Bengkulu - Pengamatan 1322,153.3,55.9,28.8
+Rejang Lebong - Pengamatan 1323,3.0,66.2,30.9
+Bengkulu Utara - Pengamatan 1324,45.4,12.3,26.4
+Bengkulu Selatan - Pengamatan 1325,158.8,78.7,20.6
+Seluma - Pengamatan 1326,132.9,56.1,33.7
+Kaur - Pengamatan 1327,131.3,20.5,30.9
+Mukomuko - Pengamatan 1328,42.3,66.6,24.2
+Lebong - Pengamatan 1329,72.6,55.2,21.8
+Kepahiang - Pengamatan 1330,61.7,14.2,21.2
+Bengkulu - Pengamatan 1331,137.5,47.9,25.8
+Kota Bengkulu - Pengamatan 1332,23.9,13.2,27.0
+Rejang Lebong - Pengamatan 1333,98.4,8.3,33.5
+Bengkulu Utara - Pengamatan 1334,80.5,15.0,27.1
+Bengkulu Selatan - Pengamatan 1335,20.9,56.3,34.4
+Seluma - Pengamatan 1336,143.5,70.9,30.6
+Kaur - Pengamatan 1337,83.5,36.5,17.9
+Mukomuko - Pengamatan 1338,84.8,24.5,33.8
+Lebong - Pengamatan 1339,126.3,37.4,29.4
+Kepahiang - Pengamatan 1340,118.6,69.7,31.6
+Bengkulu - Pengamatan 1341,15.6,16.4,27.0
+Kota Bengkulu - Pengamatan 1342,37.2,78.0,22.9
+Rejang Lebong - Pengamatan 1343,140.3,39.7,21.0
+Bengkulu Utara - Pengamatan 1344,113.5,72.1,29.1
+Bengkulu Selatan - Pengamatan 1345,18.9,5.6,30.7
+Seluma - Pengamatan 1346,110.0,31.9,24.6
+Kaur - Pengamatan 1347,24.8,60.4,22.3
+Mukomuko - Pengamatan 1348,136.8,41.0,24.7
+Lebong - Pengamatan 1349,44.1,62.9,32.9
+Kepahiang - Pengamatan 1350,66.1,71.6,27.1
+Bengkulu - Pengamatan 1351,59.2,52.2,22.3
+Kota Bengkulu - Pengamatan 1352,49.1,34.3,31.8
+Rejang Lebong - Pengamatan 1353,117.7,77.7,30.8
+Bengkulu Utara - Pengamatan 1354,119.7,43.0,31.7
+Bengkulu Selatan - Pengamatan 1355,25.9,23.2,25.4
+Seluma - Pengamatan 1356,54.2,51.8,31.6
+Kaur - Pengamatan 1357,113.1,18.7,37.3
+Mukomuko - Pengamatan 1358,0.8,12.7,20.1
+Lebong - Pengamatan 1359,148.1,42.0,18.3
+Kepahiang - Pengamatan 1360,35.5,11.8,17.8
+Bengkulu - Pengamatan 1361,61.5,88.7,29.9
+Kota Bengkulu - Pengamatan 1362,83.4,65.5,29.5
+Rejang Lebong - Pengamatan 1363,151.3,74.7,30.4
+Bengkulu Utara - Pengamatan 1364,70.2,22.1,30.8
+Bengkulu Selatan - Pengamatan 1365,128.6,29.3,17.7
+Seluma - Pengamatan 1366,95.9,48.8,21.9
+Kaur - Pengamatan 1367,27.1,8.1,22.0
+Mukomuko - Pengamatan 1368,0.0,18.4,37.9
+Lebong - Pengamatan 1369,124.7,35.0,25.3
+Kepahiang - Pengamatan 1370,93.8,49.0,32.5
+Bengkulu - Pengamatan 1371,11.0,12.7,23.0
+Kota Bengkulu - Pengamatan 1372,132.8,82.8,24.3
+Rejang Lebong - Pengamatan 1373,154.1,28.5,29.7
+Bengkulu Utara - Pengamatan 1374,31.1,84.0,29.1
+Bengkulu Selatan - Pengamatan 1375,41.8,39.6,19.2
+Seluma - Pengamatan 1376,11.6,30.0,36.9
+Kaur - Pengamatan 1377,128.5,86.3,35.4
+Mukomuko - Pengamatan 1378,130.1,53.9,31.6
+Lebong - Pengamatan 1379,154.6,52.9,33.2
+Kepahiang - Pengamatan 1380,121.2,86.7,26.6
+Bengkulu - Pengamatan 1381,73.7,54.9,17.6
+Kota Bengkulu - Pengamatan 1382,18.6,10.7,30.3
+Rejang Lebong - Pengamatan 1383,159.1,62.5,21.8
+Bengkulu Utara - Pengamatan 1384,50.5,86.2,27.8
+Bengkulu Selatan - Pengamatan 1385,1.6,75.7,22.2
+Seluma - Pengamatan 1386,14.9,62.3,34.2
+Kaur - Pengamatan 1387,12.2,84.2,27.0
+Mukomuko - Pengamatan 1388,56.6,81.0,22.7
+Lebong - Pengamatan 1389,151.5,63.1,36.1
+Kepahiang - Pengamatan 1390,79.8,22.0,32.4
+Bengkulu - Pengamatan 1391,139.6,22.6,21.3
+Kota Bengkulu - Pengamatan 1392,40.0,57.6,20.3
+Rejang Lebong - Pengamatan 1393,17.1,83.2,31.2
+Bengkulu Utara - Pengamatan 1394,106.1,57.2,33.0
+Bengkulu Selatan - Pengamatan 1395,86.6,8.6,27.1
+Seluma - Pengamatan 1396,99.3,46.8,37.7
+Kaur - Pengamatan 1397,143.5,78.8,27.3
+Mukomuko - Pengamatan 1398,157.5,82.9,22.9
+Lebong - Pengamatan 1399,35.5,54.0,18.1
+Kepahiang - Pengamatan 1400,127.9,45.7,28.4
+Bengkulu - Pengamatan 1401,80.4,38.5,31.4
+Kota Bengkulu - Pengamatan 1402,28.0,88.0,31.7
+Rejang Lebong - Pengamatan 1403,73.6,63.6,17.2
+Bengkulu Utara - Pengamatan 1404,33.7,54.4,23.8
+Bengkulu Selatan - Pengamatan 1405,98.0,27.1,28.5
+Seluma - Pengamatan 1406,37.9,45.1,29.9
+Kaur - Pengamatan 1407,58.5,47.4,21.4
+Mukomuko - Pengamatan 1408,112.1,36.6,34.9
+Lebong - Pengamatan 1409,44.7,20.3,19.8
+Kepahiang - Pengamatan 1410,92.1,24.4,19.1
+Bengkulu - Pengamatan 1411,43.2,25.0,26.1
+Kota Bengkulu - Pengamatan 1412,60.9,17.4,37.1
+Rejang Lebong - Pengamatan 1413,23.9,73.5,20.7
+Bengkulu Utara - Pengamatan 1414,79.9,89.6,34.8
+Bengkulu Selatan - Pengamatan 1415,82.7,66.2,33.5
+Seluma - Pengamatan 1416,48.0,52.8,28.9
+Kaur - Pengamatan 1417,63.7,63.7,18.3
+Mukomuko - Pengamatan 1418,130.2,45.5,30.2
+Lebong - Pengamatan 1419,72.0,33.4,24.6
+Kepahiang - Pengamatan 1420,89.7,84.2,22.4
+Bengkulu - Pengamatan 1421,3.2,15.3,35.2
+Kota Bengkulu - Pengamatan 1422,154.1,21.9,29.1
+Rejang Lebong - Pengamatan 1423,103.9,19.8,33.4
+Bengkulu Utara - Pengamatan 1424,56.8,62.2,27.2
+Bengkulu Selatan - Pengamatan 1425,117.8,80.6,25.0
+Seluma - Pengamatan 1426,45.8,58.7,20.0
+Kaur - Pengamatan 1427,26.8,73.7,24.1
+Mukomuko - Pengamatan 1428,101.0,53.6,34.8
+Lebong - Pengamatan 1429,11.4,18.8,21.8
+Kepahiang - Pengamatan 1430,50.7,29.8,22.6
+Bengkulu - Pengamatan 1431,103.1,28.1,26.3
+Kota Bengkulu - Pengamatan 1432,138.0,35.9,29.3
+Rejang Lebong - Pengamatan 1433,154.5,40.2,20.9
+Bengkulu Utara - Pengamatan 1434,3.7,66.9,30.9
+Bengkulu Selatan - Pengamatan 1435,150.5,64.6,18.7
+Seluma - Pengamatan 1436,26.7,13.8,18.3
+Kaur - Pengamatan 1437,140.6,51.6,17.6
+Mukomuko - Pengamatan 1438,63.5,70.0,18.7
+Lebong - Pengamatan 1439,42.0,18.2,30.8
+Kepahiang - Pengamatan 1440,141.7,31.3,22.2
+Bengkulu - Pengamatan 1441,45.5,58.3,19.8
+Kota Bengkulu - Pengamatan 1442,134.2,7.4,30.9
+Rejang Lebong - Pengamatan 1443,137.7,32.6,27.0
+Bengkulu Utara - Pengamatan 1444,156.0,50.9,22.7
+Bengkulu Selatan - Pengamatan 1445,71.2,87.4,31.7
+Seluma - Pengamatan 1446,28.3,55.8,30.3
+Kaur - Pengamatan 1447,101.7,52.9,28.0
+Mukomuko - Pengamatan 1448,102.3,31.3,24.3
+Lebong - Pengamatan 1449,86.3,73.4,26.3
+Kepahiang - Pengamatan 1450,58.5,27.1,23.4
+Bengkulu - Pengamatan 1451,0.0,74.3,34.8
+Kota Bengkulu - Pengamatan 1452,55.0,44.9,17.2
+Rejang Lebong - Pengamatan 1453,147.5,85.5,27.0
+Bengkulu Utara - Pengamatan 1454,1.5,41.6,23.2
+Bengkulu Selatan - Pengamatan 1455,37.0,5.6,24.8
+Seluma - Pengamatan 1456,65.9,52.6,25.3
+Kaur - Pengamatan 1457,26.1,67.7,25.2
+Mukomuko - Pengamatan 1458,60.5,27.4,25.9
+Lebong - Pengamatan 1459,38.3,70.0,36.1
+Kepahiang - Pengamatan 1460,129.2,63.2,23.0
+Bengkulu - Pengamatan 1461,118.9,73.7,25.7
+Kota Bengkulu - Pengamatan 1462,136.6,20.5,23.1
+Rejang Lebong - Pengamatan 1463,101.9,57.5,22.7
+Bengkulu Utara - Pengamatan 1464,99.6,21.0,17.4
+Bengkulu Selatan - Pengamatan 1465,7.9,50.5,20.9
+Seluma - Pengamatan 1466,16.4,27.9,32.0
+Kaur - Pengamatan 1467,116.3,24.8,20.2
+Mukomuko - Pengamatan 1468,79.0,34.1,23.5
+Lebong - Pengamatan 1469,127.9,89.8,26.7
+Kepahiang - Pengamatan 1470,126.6,33.1,34.7
+Bengkulu - Pengamatan 1471,152.3,9.8,33.3
+Kota Bengkulu - Pengamatan 1472,11.4,45.0,21.0
+Rejang Lebong - Pengamatan 1473,134.6,74.5,34.4
+Bengkulu Utara - Pengamatan 1474,19.5,70.3,22.2
+Bengkulu Selatan - Pengamatan 1475,123.4,42.7,32.5
+Seluma - Pengamatan 1476,5.4,44.2,33.2
+Kaur - Pengamatan 1477,83.4,88.5,26.9
+Mukomuko - Pengamatan 1478,109.0,31.5,23.8
+Lebong - Pengamatan 1479,100.7,8.6,36.7
+Kepahiang - Pengamatan 1480,83.3,26.5,30.4
+Bengkulu - Pengamatan 1481,31.8,80.4,35.1
+Kota Bengkulu - Pengamatan 1482,34.8,14.6,30.3
+Rejang Lebong - Pengamatan 1483,51.9,19.2,22.8
+Bengkulu Utara - Pengamatan 1484,19.1,72.1,17.2
+Bengkulu Selatan - Pengamatan 1485,6.7,71.6,27.0
+Seluma - Pengamatan 1486,95.4,36.6,18.9
+Kaur - Pengamatan 1487,25.2,12.8,30.0
+Mukomuko - Pengamatan 1488,148.9,89.7,30.1
+Lebong - Pengamatan 1489,9.6,59.8,31.7
+Kepahiang - Pengamatan 1490,126.6,15.7,21.9
+Bengkulu - Pengamatan 1491,157.1,72.0,32.9
+Kota Bengkulu - Pengamatan 1492,128.9,42.3,21.1
+Rejang Lebong - Pengamatan 1493,110.3,35.4,19.8
+Bengkulu Utara - Pengamatan 1494,143.8,46.3,26.2
+Bengkulu Selatan - Pengamatan 1495,47.2,64.2,21.0
+Seluma - Pengamatan 1496,29.9,34.6,32.4
+Kaur - Pengamatan 1497,44.1,75.7,36.2
+Mukomuko - Pengamatan 1498,88.7,10.9,20.3
+Lebong - Pengamatan 1499,47.3,27.4,24.7
+Kepahiang - Pengamatan 1500,0.1,59.2,25.0
+Bengkulu - Pengamatan 1501,29.7,6.6,35.0
+Kota Bengkulu - Pengamatan 1502,124.2,25.3,32.1
+Rejang Lebong - Pengamatan 1503,105.3,50.8,25.1
+Bengkulu Utara - Pengamatan 1504,83.9,47.3,28.6
+Bengkulu Selatan - Pengamatan 1505,98.1,32.4,30.5
+Seluma - Pengamatan 1506,17.7,49.5,18.4
+Kaur - Pengamatan 1507,133.6,16.0,35.3
+Mukomuko - Pengamatan 1508,32.3,46.3,19.1
+Lebong - Pengamatan 1509,91.4,76.1,30.8
+Kepahiang - Pengamatan 1510,84.1,64.6,22.4
+Bengkulu - Pengamatan 1511,58.6,56.5,18.5
+Kota Bengkulu - Pengamatan 1512,148.8,22.7,27.3
+Rejang Lebong - Pengamatan 1513,142.4,11.8,33.8
+Bengkulu Utara - Pengamatan 1514,9.7,52.4,36.7
+Bengkulu Selatan - Pengamatan 1515,66.6,36.4,31.9
+Seluma - Pengamatan 1516,131.8,27.6,17.9
+Kaur - Pengamatan 1517,11.3,30.8,36.8
+Mukomuko - Pengamatan 1518,153.7,13.3,32.2
+Lebong - Pengamatan 1519,85.1,21.1,28.1
+Kepahiang - Pengamatan 1520,39.8,58.2,20.8
+Bengkulu - Pengamatan 1521,119.9,40.3,19.2
+Kota Bengkulu - Pengamatan 1522,102.2,35.4,26.6
+Rejang Lebong - Pengamatan 1523,106.4,80.0,20.5
+Bengkulu Utara - Pengamatan 1524,28.9,39.1,24.1
+Bengkulu Selatan - Pengamatan 1525,25.3,89.9,26.3
+Seluma - Pengamatan 1526,56.4,31.8,37.8
+Kaur - Pengamatan 1527,51.9,36.6,33.0
+Mukomuko - Pengamatan 1528,68.9,66.7,29.8
+Lebong - Pengamatan 1529,90.1,23.2,33.1
+Kepahiang - Pengamatan 1530,148.2,26.6,37.2
+Bengkulu - Pengamatan 1531,71.6,38.8,32.3
+Kota Bengkulu - Pengamatan 1532,157.3,55.6,27.9
+Rejang Lebong - Pengamatan 1533,158.9,30.7,23.3
+Bengkulu Utara - Pengamatan 1534,35.5,77.7,17.5
+Bengkulu Selatan - Pengamatan 1535,131.5,63.6,22.8
+Seluma - Pengamatan 1536,88.6,52.3,36.4
+Kaur - Pengamatan 1537,24.8,8.2,24.5
+Mukomuko - Pengamatan 1538,22.1,36.2,29.2
+Lebong - Pengamatan 1539,37.3,73.9,18.9
+Kepahiang - Pengamatan 1540,64.0,83.0,32.4
+Bengkulu - Pengamatan 1541,115.8,72.4,20.6
+Kota Bengkulu - Pengamatan 1542,132.1,63.6,29.1
+Rejang Lebong - Pengamatan 1543,145.2,55.6,23.3
+Bengkulu Utara - Pengamatan 1544,116.9,54.0,18.6
+Bengkulu Selatan - Pengamatan 1545,8.9,70.5,24.3
+Seluma - Pengamatan 1546,130.7,40.4,35.2
+Kaur - Pengamatan 1547,139.2,24.3,30.7
+Mukomuko - Pengamatan 1548,96.4,6.0,33.3
+Lebong - Pengamatan 1549,61.2,30.9,17.9
+Kepahiang - Pengamatan 1550,86.4,17.7,27.6
+Bengkulu - Pengamatan 1551,35.3,9.3,32.4
+Kota Bengkulu - Pengamatan 1552,62.9,42.9,29.5
+Rejang Lebong - Pengamatan 1553,80.8,23.9,23.1
+Bengkulu Utara - Pengamatan 1554,63.1,16.2,18.7
+Bengkulu Selatan - Pengamatan 1555,91.4,9.2,25.4
+Seluma - Pengamatan 1556,13.6,47.7,33.3
+Kaur - Pengamatan 1557,20.9,16.5,28.7
+Mukomuko - Pengamatan 1558,78.1,60.4,21.1
+Lebong - Pengamatan 1559,98.6,67.5,22.2
+Kepahiang - Pengamatan 1560,11.5,71.0,23.8
+Bengkulu - Pengamatan 1561,147.9,12.6,31.1
+Kota Bengkulu - Pengamatan 1562,67.8,34.6,23.7
+Rejang Lebong - Pengamatan 1563,95.0,7.1,23.4
+Bengkulu Utara - Pengamatan 1564,158.0,57.4,37.8
+Bengkulu Selatan - Pengamatan 1565,70.8,17.4,17.9
+Seluma - Pengamatan 1566,130.9,22.0,24.9
+Kaur - Pengamatan 1567,121.2,77.5,19.4
+Mukomuko - Pengamatan 1568,8.7,85.7,36.5
+Lebong - Pengamatan 1569,139.0,74.7,17.3
+Kepahiang - Pengamatan 1570,111.0,14.5,26.5
+Bengkulu - Pengamatan 1571,3.6,22.8,28.3
+Kota Bengkulu - Pengamatan 1572,32.6,49.5,22.4
+Rejang Lebong - Pengamatan 1573,77.3,67.0,20.0
+Bengkulu Utara - Pengamatan 1574,111.8,6.6,29.2
+Bengkulu Selatan - Pengamatan 1575,106.2,8.7,20.6
+Seluma - Pengamatan 1576,45.4,72.1,30.0
+Kaur - Pengamatan 1577,8.5,60.7,17.2
+Mukomuko - Pengamatan 1578,62.2,28.1,34.9
+Lebong - Pengamatan 1579,105.6,78.5,17.4
+Kepahiang - Pengamatan 1580,138.8,60.2,21.9
+Bengkulu - Pengamatan 1581,60.9,88.0,19.1
+Kota Bengkulu - Pengamatan 1582,50.5,78.7,28.2
+Rejang Lebong - Pengamatan 1583,29.8,47.6,26.6
+Bengkulu Utara - Pengamatan 1584,148.2,6.8,22.2
+Bengkulu Selatan - Pengamatan 1585,84.7,33.4,25.3
+Seluma - Pengamatan 1586,25.1,34.5,24.4
+Kaur - Pengamatan 1587,100.0,25.1,37.5
+Mukomuko - Pengamatan 1588,80.2,74.0,30.1
+Lebong - Pengamatan 1589,140.6,80.7,34.1
+Kepahiang - Pengamatan 1590,4.7,52.2,22.9
+Bengkulu - Pengamatan 1591,24.3,81.3,30.8
+Kota Bengkulu - Pengamatan 1592,14.0,37.5,37.2
+Rejang Lebong - Pengamatan 1593,98.0,58.2,21.8
+Bengkulu Utara - Pengamatan 1594,38.5,18.0,37.4
+Bengkulu Selatan - Pengamatan 1595,145.6,33.0,28.4
+Seluma - Pengamatan 1596,33.1,16.8,28.4
+Kaur - Pengamatan 1597,128.0,78.3,23.5
+Mukomuko - Pengamatan 1598,112.8,49.5,19.8
+Lebong - Pengamatan 1599,159.3,87.9,20.0
+Kepahiang - Pengamatan 1600,149.3,83.0,23.7
+Bengkulu - Pengamatan 1601,89.2,85.6,19.5
+Kota Bengkulu - Pengamatan 1602,50.8,79.8,32.3
+Rejang Lebong - Pengamatan 1603,122.5,79.8,25.7
+Bengkulu Utara - Pengamatan 1604,65.8,42.7,36.6
+Bengkulu Selatan - Pengamatan 1605,143.1,84.3,22.7
+Seluma - Pengamatan 1606,124.7,14.1,20.9
+Kaur - Pengamatan 1607,122.0,57.0,22.6
+Mukomuko - Pengamatan 1608,90.7,24.6,21.9
+Lebong - Pengamatan 1609,110.0,35.5,31.5
+Kepahiang - Pengamatan 1610,76.3,47.7,29.7
+Bengkulu - Pengamatan 1611,113.9,36.8,34.9
+Kota Bengkulu - Pengamatan 1612,78.6,16.7,21.1
+Rejang Lebong - Pengamatan 1613,5.2,70.0,17.3
+Bengkulu Utara - Pengamatan 1614,43.2,40.1,32.6
+Bengkulu Selatan - Pengamatan 1615,158.1,69.4,18.4
+Seluma - Pengamatan 1616,148.3,88.8,35.2
+Kaur - Pengamatan 1617,78.4,32.6,26.6
+Mukomuko - Pengamatan 1618,39.5,39.4,17.9
+Lebong - Pengamatan 1619,117.7,37.3,23.6
+Kepahiang - Pengamatan 1620,97.8,68.1,29.5
+Bengkulu - Pengamatan 1621,84.0,79.4,33.5
+Kota Bengkulu - Pengamatan 1622,83.3,43.4,34.4
+Rejang Lebong - Pengamatan 1623,6.8,89.6,27.9
+Bengkulu Utara - Pengamatan 1624,63.3,67.5,28.7
+Bengkulu Selatan - Pengamatan 1625,82.6,58.6,18.0
+Seluma - Pengamatan 1626,46.6,38.8,23.4
+Kaur - Pengamatan 1627,132.4,44.2,25.9
+Mukomuko - Pengamatan 1628,98.1,9.6,27.9
+Lebong - Pengamatan 1629,22.8,75.5,26.5
+Kepahiang - Pengamatan 1630,115.6,14.6,33.4
+Bengkulu - Pengamatan 1631,150.1,64.2,19.8
+Kota Bengkulu - Pengamatan 1632,66.2,43.3,20.8
+Rejang Lebong - Pengamatan 1633,94.5,65.6,21.2
+Bengkulu Utara - Pengamatan 1634,72.7,26.3,31.5
+Bengkulu Selatan - Pengamatan 1635,145.1,72.7,32.1
+Seluma - Pengamatan 1636,19.8,14.7,26.4
+Kaur - Pengamatan 1637,58.1,49.5,25.1
+Mukomuko - Pengamatan 1638,126.6,48.5,36.9
+Lebong - Pengamatan 1639,60.6,37.4,33.1
+Kepahiang - Pengamatan 1640,146.0,53.1,30.9
+Bengkulu - Pengamatan 1641,24.0,78.8,20.8
+Kota Bengkulu - Pengamatan 1642,113.9,40.7,23.5
+Rejang Lebong - Pengamatan 1643,123.0,42.9,30.2
+Bengkulu Utara - Pengamatan 1644,18.8,16.2,21.3
+Bengkulu Selatan - Pengamatan 1645,99.6,26.5,26.6
+Seluma - Pengamatan 1646,136.9,51.2,17.1
+Kaur - Pengamatan 1647,141.2,25.2,29.4
+Mukomuko - Pengamatan 1648,76.1,39.9,18.7
+Lebong - Pengamatan 1649,96.0,25.8,28.5
+Kepahiang - Pengamatan 1650,99.2,52.4,34.3
+Bengkulu - Pengamatan 1651,7.8,17.6,30.7
+Kota Bengkulu - Pengamatan 1652,5.9,77.6,31.0
+Rejang Lebong - Pengamatan 1653,134.1,30.4,36.3
+Bengkulu Utara - Pengamatan 1654,7.8,40.4,20.7
+Bengkulu Selatan - Pengamatan 1655,107.5,56.9,31.5
+Seluma - Pengamatan 1656,95.2,71.9,20.7
+Kaur - Pengamatan 1657,72.9,54.2,36.6
+Mukomuko - Pengamatan 1658,14.9,30.4,24.7
+Lebong - Pengamatan 1659,60.6,10.8,26.0
+Kepahiang - Pengamatan 1660,88.1,29.9,19.8
+Bengkulu - Pengamatan 1661,111.1,28.3,28.1
+Kota Bengkulu - Pengamatan 1662,83.9,64.1,29.9
+Rejang Lebong - Pengamatan 1663,17.5,67.0,30.2
+Bengkulu Utara - Pengamatan 1664,158.0,46.1,31.5
+Bengkulu Selatan - Pengamatan 1665,149.4,88.8,23.0
+Seluma - Pengamatan 1666,97.4,31.9,28.0
+Kaur - Pengamatan 1667,159.2,35.1,19.7
+Mukomuko - Pengamatan 1668,90.0,49.2,30.3
+Lebong - Pengamatan 1669,78.8,20.3,29.8
+Kepahiang - Pengamatan 1670,113.4,88.2,17.0
+Bengkulu - Pengamatan 1671,3.8,58.2,19.5
+Kota Bengkulu - Pengamatan 1672,135.7,73.0,38.0
+Rejang Lebong - Pengamatan 1673,66.2,33.4,28.8
+Bengkulu Utara - Pengamatan 1674,102.0,6.0,21.2
+Bengkulu Selatan - Pengamatan 1675,45.1,72.2,23.5
+Seluma - Pengamatan 1676,81.1,32.5,17.1
+Kaur - Pengamatan 1677,109.7,34.0,32.2
+Mukomuko - Pengamatan 1678,98.6,7.5,20.7
+Lebong - Pengamatan 1679,52.9,33.7,31.1
+Kepahiang - Pengamatan 1680,146.6,72.8,30.6
+Bengkulu - Pengamatan 1681,77.0,58.3,35.7
+Kota Bengkulu - Pengamatan 1682,85.9,33.5,33.5
+Rejang Lebong - Pengamatan 1683,66.2,68.1,34.5
+Bengkulu Utara - Pengamatan 1684,47.9,66.6,23.6
+Bengkulu Selatan - Pengamatan 1685,85.7,22.7,31.4
+Seluma - Pengamatan 1686,127.9,80.5,24.4
+Kaur - Pengamatan 1687,155.1,28.8,17.7
+Mukomuko - Pengamatan 1688,157.4,58.3,34.7
+Lebong - Pengamatan 1689,91.4,38.1,29.5
+Kepahiang - Pengamatan 1690,138.3,68.9,31.8
+Bengkulu - Pengamatan 1691,50.3,7.7,25.7
+Kota Bengkulu - Pengamatan 1692,79.5,25.2,26.5
+Rejang Lebong - Pengamatan 1693,152.1,23.4,23.3
+Bengkulu Utara - Pengamatan 1694,18.0,71.7,33.3
+Bengkulu Selatan - Pengamatan 1695,146.1,42.7,17.5
+Seluma - Pengamatan 1696,77.2,47.5,21.0
+Kaur - Pengamatan 1697,147.8,67.3,28.0
+Mukomuko - Pengamatan 1698,124.1,17.2,35.3
+Lebong - Pengamatan 1699,131.5,84.7,31.2
+Kepahiang - Pengamatan 1700,21.2,66.6,26.6
+Bengkulu - Pengamatan 1701,114.2,49.4,17.1
+Kota Bengkulu - Pengamatan 1702,149.2,63.4,29.5
+Rejang Lebong - Pengamatan 1703,13.9,44.7,18.0
+Bengkulu Utara - Pengamatan 1704,83.3,61.0,23.6
+Bengkulu Selatan - Pengamatan 1705,92.4,31.5,35.7
+Seluma - Pengamatan 1706,51.3,21.4,22.8
+Kaur - Pengamatan 1707,51.1,42.5,19.5
+Mukomuko - Pengamatan 1708,23.9,28.3,17.3
+Lebong - Pengamatan 1709,99.7,48.7,21.3
+Kepahiang - Pengamatan 1710,56.1,32.1,20.0
+Bengkulu - Pengamatan 1711,112.7,29.1,22.1
+Kota Bengkulu - Pengamatan 1712,11.4,57.1,24.1
+Rejang Lebong - Pengamatan 1713,71.0,16.1,26.9
+Bengkulu Utara - Pengamatan 1714,108.1,14.0,18.1
+Bengkulu Selatan - Pengamatan 1715,68.2,20.2,29.5
+Seluma - Pengamatan 1716,94.8,76.1,31.7
+Kaur - Pengamatan 1717,98.6,31.6,34.2
+Mukomuko - Pengamatan 1718,114.1,62.0,28.2
+Lebong - Pengamatan 1719,155.8,69.2,26.8
+Kepahiang - Pengamatan 1720,21.1,74.1,36.3
+Bengkulu - Pengamatan 1721,74.9,43.7,31.4
+Kota Bengkulu - Pengamatan 1722,113.6,44.6,21.9
+Rejang Lebong - Pengamatan 1723,35.8,78.2,30.0
+Bengkulu Utara - Pengamatan 1724,146.1,38.3,31.7
+Bengkulu Selatan - Pengamatan 1725,106.4,72.0,35.5
+Seluma - Pengamatan 1726,72.5,7.6,27.0
+Kaur - Pengamatan 1727,56.2,44.2,20.6
+Mukomuko - Pengamatan 1728,122.9,56.4,19.7
+Lebong - Pengamatan 1729,16.5,74.5,33.7
+Kepahiang - Pengamatan 1730,52.1,60.2,33.6
+Bengkulu - Pengamatan 1731,85.2,39.1,25.7
+Kota Bengkulu - Pengamatan 1732,99.3,51.6,37.5
+Rejang Lebong - Pengamatan 1733,61.4,34.0,34.1
+Bengkulu Utara - Pengamatan 1734,94.6,71.7,26.1
+Bengkulu Selatan - Pengamatan 1735,126.0,51.3,22.0
+Seluma - Pengamatan 1736,106.0,11.6,36.5
+Kaur - Pengamatan 1737,91.9,46.4,29.4
+Mukomuko - Pengamatan 1738,74.1,52.2,34.3
+Lebong - Pengamatan 1739,28.2,86.3,18.5
+Kepahiang - Pengamatan 1740,17.4,74.2,33.2
+Bengkulu - Pengamatan 1741,60.6,47.0,30.9
+Kota Bengkulu - Pengamatan 1742,14.5,74.4,35.6
+Rejang Lebong - Pengamatan 1743,144.5,59.1,17.0
+Bengkulu Utara - Pengamatan 1744,23.5,17.7,28.2
+Bengkulu Selatan - Pengamatan 1745,62.4,54.1,21.1
+Seluma - Pengamatan 1746,109.0,31.9,29.0
+Kaur - Pengamatan 1747,146.1,30.9,36.8
+Mukomuko - Pengamatan 1748,69.6,88.5,24.2
+Lebong - Pengamatan 1749,14.3,5.7,37.7
+Kepahiang - Pengamatan 1750,64.7,15.8,23.2
+Bengkulu - Pengamatan 1751,59.1,51.7,18.1
+Kota Bengkulu - Pengamatan 1752,112.5,74.8,24.5
+Rejang Lebong - Pengamatan 1753,137.8,78.6,21.9
+Bengkulu Utara - Pengamatan 1754,112.4,38.5,23.7
+Bengkulu Selatan - Pengamatan 1755,61.2,37.4,28.4
+Seluma - Pengamatan 1756,106.0,45.4,21.0
+Kaur - Pengamatan 1757,61.5,83.6,34.6
+Mukomuko - Pengamatan 1758,24.7,89.8,31.1
+Lebong - Pengamatan 1759,21.5,11.1,17.3
+Kepahiang - Pengamatan 1760,115.4,46.4,26.2
+Bengkulu - Pengamatan 1761,158.4,12.2,30.5
+Kota Bengkulu - Pengamatan 1762,66.5,43.8,33.6
+Rejang Lebong - Pengamatan 1763,96.7,41.2,20.8
+Bengkulu Utara - Pengamatan 1764,81.5,51.9,26.5
+Bengkulu Selatan - Pengamatan 1765,56.8,20.8,29.7
+Seluma - Pengamatan 1766,92.5,77.0,22.0
+Kaur - Pengamatan 1767,80.3,39.9,28.5
+Mukomuko - Pengamatan 1768,58.7,88.1,28.9
+Lebong - Pengamatan 1769,112.8,14.6,27.1
+Kepahiang - Pengamatan 1770,110.5,17.1,32.4
+Bengkulu - Pengamatan 1771,157.4,88.6,33.4
+Kota Bengkulu - Pengamatan 1772,74.4,11.6,35.7
+Rejang Lebong - Pengamatan 1773,14.2,45.2,32.6
+Bengkulu Utara - Pengamatan 1774,153.7,11.6,30.3
+Bengkulu Selatan - Pengamatan 1775,127.7,31.6,18.1
+Seluma - Pengamatan 1776,55.0,71.2,26.8
+Kaur - Pengamatan 1777,82.0,44.9,32.4
+Mukomuko - Pengamatan 1778,67.4,86.6,33.8
+Lebong - Pengamatan 1779,46.3,8.0,36.4
+Kepahiang - Pengamatan 1780,119.9,66.8,28.8
+Bengkulu - Pengamatan 1781,9.8,45.2,20.6
+Kota Bengkulu - Pengamatan 1782,8.3,89.2,34.0
+Rejang Lebong - Pengamatan 1783,99.9,29.4,18.7
+Bengkulu Utara - Pengamatan 1784,80.9,77.4,22.8
+Bengkulu Selatan - Pengamatan 1785,21.2,28.9,35.0
+Seluma - Pengamatan 1786,2.3,14.5,20.7
+Kaur - Pengamatan 1787,94.7,17.8,26.4
+Mukomuko - Pengamatan 1788,129.3,27.2,31.7
+Lebong - Pengamatan 1789,77.6,72.9,35.1
+Kepahiang - Pengamatan 1790,54.9,12.2,20.0
+Bengkulu - Pengamatan 1791,149.4,18.1,27.4
+Kota Bengkulu - Pengamatan 1792,159.0,70.5,22.0
+Rejang Lebong - Pengamatan 1793,70.4,59.2,21.4
+Bengkulu Utara - Pengamatan 1794,117.5,34.3,30.5
+Bengkulu Selatan - Pengamatan 1795,120.9,14.9,20.5
+Seluma - Pengamatan 1796,63.8,30.6,32.7
+Kaur - Pengamatan 1797,120.4,50.3,25.0
+Mukomuko - Pengamatan 1798,112.9,45.3,20.0
+Lebong - Pengamatan 1799,139.2,6.0,36.5
+Kepahiang - Pengamatan 1800,71.8,62.7,37.2
+Bengkulu - Pengamatan 1801,109.3,8.5,36.3
+Kota Bengkulu - Pengamatan 1802,102.0,86.3,26.1
+Rejang Lebong - Pengamatan 1803,146.9,78.0,24.0
+Bengkulu Utara - Pengamatan 1804,42.7,13.4,30.7
+Bengkulu Selatan - Pengamatan 1805,62.6,70.7,32.7
+Seluma - Pengamatan 1806,117.5,55.0,21.1
+Kaur - Pengamatan 1807,54.0,63.7,20.8
+Mukomuko - Pengamatan 1808,87.6,62.2,34.5
+Lebong - Pengamatan 1809,1.9,13.3,19.2
+Kepahiang - Pengamatan 1810,71.4,23.7,22.9
+Bengkulu - Pengamatan 1811,30.9,7.0,18.9
+Kota Bengkulu - Pengamatan 1812,150.2,60.8,34.5
+Rejang Lebong - Pengamatan 1813,152.1,59.2,31.9
+Bengkulu Utara - Pengamatan 1814,19.2,77.8,19.7
+Bengkulu Selatan - Pengamatan 1815,105.0,81.5,28.9
+Seluma - Pengamatan 1816,154.7,81.2,31.6
+Kaur - Pengamatan 1817,40.5,44.7,36.7
+Mukomuko - Pengamatan 1818,102.2,83.4,22.8
+Lebong - Pengamatan 1819,68.3,81.8,33.2
+Kepahiang - Pengamatan 1820,51.7,18.8,18.6
+Bengkulu - Pengamatan 1821,124.3,37.5,24.0
+Kota Bengkulu - Pengamatan 1822,9.6,86.2,22.6
+Rejang Lebong - Pengamatan 1823,70.5,46.8,36.5
+Bengkulu Utara - Pengamatan 1824,97.6,20.2,27.3
+Bengkulu Selatan - Pengamatan 1825,23.0,70.3,21.6
+Seluma - Pengamatan 1826,102.9,82.6,32.0
+Kaur - Pengamatan 1827,16.5,11.2,29.0
+Mukomuko - Pengamatan 1828,40.1,42.9,35.8
+Lebong - Pengamatan 1829,23.8,59.4,36.6
+Kepahiang - Pengamatan 1830,106.3,27.6,31.7
+Bengkulu - Pengamatan 1831,144.7,53.8,27.8
+Kota Bengkulu - Pengamatan 1832,150.4,46.7,26.2
+Rejang Lebong - Pengamatan 1833,135.0,71.4,33.5
+Bengkulu Utara - Pengamatan 1834,86.4,5.3,37.0
+Bengkulu Selatan - Pengamatan 1835,130.9,46.0,28.9
+Seluma - Pengamatan 1836,149.6,35.5,31.3
+Kaur - Pengamatan 1837,64.1,58.7,37.1
+Mukomuko - Pengamatan 1838,14.5,50.4,37.2
+Lebong - Pengamatan 1839,12.9,44.1,33.1
+Kepahiang - Pengamatan 1840,103.6,20.0,17.8
+Bengkulu - Pengamatan 1841,61.5,21.2,31.6
+Kota Bengkulu - Pengamatan 1842,143.4,58.6,24.5
+Rejang Lebong - Pengamatan 1843,13.6,58.8,32.4
+Bengkulu Utara - Pengamatan 1844,22.4,21.4,32.1
+Bengkulu Selatan - Pengamatan 1845,94.9,46.6,18.3
+Seluma - Pengamatan 1846,86.5,31.2,28.2
+Kaur - Pengamatan 1847,133.5,43.2,37.9
+Mukomuko - Pengamatan 1848,5.9,9.8,33.5
+Lebong - Pengamatan 1849,6.9,15.0,33.9
+Kepahiang - Pengamatan 1850,106.8,44.0,31.2
+Bengkulu - Pengamatan 1851,139.9,17.7,29.2
+Kota Bengkulu - Pengamatan 1852,148.0,8.1,20.0
+Rejang Lebong - Pengamatan 1853,104.6,45.1,36.3
+Bengkulu Utara - Pengamatan 1854,7.3,64.6,19.7
+Bengkulu Selatan - Pengamatan 1855,27.6,9.2,23.5
+Seluma - Pengamatan 1856,127.0,43.8,20.6
+Kaur - Pengamatan 1857,94.6,74.5,19.2
+Mukomuko - Pengamatan 1858,79.5,72.9,21.6
+Lebong - Pengamatan 1859,128.7,41.2,34.0
+Kepahiang - Pengamatan 1860,157.2,62.7,23.8
+Bengkulu - Pengamatan 1861,156.1,54.0,19.9
+Kota Bengkulu - Pengamatan 1862,133.8,72.4,33.0
+Rejang Lebong - Pengamatan 1863,94.9,33.5,19.5
+Bengkulu Utara - Pengamatan 1864,22.6,40.3,31.6
+Bengkulu Selatan - Pengamatan 1865,88.5,42.3,36.4
+Seluma - Pengamatan 1866,6.5,13.5,34.8
+Kaur - Pengamatan 1867,98.0,71.1,17.3
+Mukomuko - Pengamatan 1868,77.9,5.5,20.8
+Lebong - Pengamatan 1869,14.3,60.4,35.6
+Kepahiang - Pengamatan 1870,66.6,73.6,33.2
+Bengkulu - Pengamatan 1871,110.8,22.5,30.4
+Kota Bengkulu - Pengamatan 1872,83.7,40.0,36.7
+Rejang Lebong - Pengamatan 1873,97.7,8.2,20.8
+Bengkulu Utara - Pengamatan 1874,80.0,85.8,30.2
+Bengkulu Selatan - Pengamatan 1875,125.2,34.6,17.1
+Seluma - Pengamatan 1876,37.7,15.0,28.1
+Kaur - Pengamatan 1877,15.3,35.8,33.0
+Mukomuko - Pengamatan 1878,86.4,23.6,33.2
+Lebong - Pengamatan 1879,105.5,28.5,21.1
+Kepahiang - Pengamatan 1880,127.5,63.2,37.3
+Bengkulu - Pengamatan 1881,75.9,20.0,31.1
+Kota Bengkulu - Pengamatan 1882,6.9,59.8,23.0
+Rejang Lebong - Pengamatan 1883,69.5,33.4,33.9
+Bengkulu Utara - Pengamatan 1884,121.3,8.7,32.5
+Bengkulu Selatan - Pengamatan 1885,148.0,20.0,33.5
+Seluma - Pengamatan 1886,77.6,14.9,35.8
+Kaur - Pengamatan 1887,115.4,55.4,23.8
+Mukomuko - Pengamatan 1888,31.8,62.5,23.8
+Lebong - Pengamatan 1889,124.6,32.7,19.1
+Kepahiang - Pengamatan 1890,118.0,78.9,24.9
+Bengkulu - Pengamatan 1891,35.3,45.0,27.2
+Kota Bengkulu - Pengamatan 1892,142.5,17.3,36.5
+Rejang Lebong - Pengamatan 1893,72.8,37.9,19.9
+Bengkulu Utara - Pengamatan 1894,115.2,58.7,37.5
+Bengkulu Selatan - Pengamatan 1895,32.4,15.8,31.5
+Seluma - Pengamatan 1896,9.5,16.6,34.9
+Kaur - Pengamatan 1897,73.4,19.6,24.2
+Mukomuko - Pengamatan 1898,141.8,56.3,33.6
+Lebong - Pengamatan 1899,102.1,57.0,20.6
+Kepahiang - Pengamatan 1900,155.2,77.7,18.8
+Bengkulu - Pengamatan 1901,137.1,46.6,37.9
+Kota Bengkulu - Pengamatan 1902,94.7,76.1,22.9
+Rejang Lebong - Pengamatan 1903,116.8,67.6,22.2
+Bengkulu Utara - Pengamatan 1904,52.4,54.3,35.7
+Bengkulu Selatan - Pengamatan 1905,94.7,17.7,29.0
+Seluma - Pengamatan 1906,0.8,88.3,17.8
+Kaur - Pengamatan 1907,75.3,70.3,17.7
+Mukomuko - Pengamatan 1908,85.0,45.7,33.8
+Lebong - Pengamatan 1909,131.4,43.5,22.1
+Kepahiang - Pengamatan 1910,89.4,6.1,32.4
+Bengkulu - Pengamatan 1911,152.0,16.3,23.2
+Kota Bengkulu - Pengamatan 1912,103.6,12.7,27.1
+Rejang Lebong - Pengamatan 1913,48.8,64.8,35.0
+Bengkulu Utara - Pengamatan 1914,119.6,7.1,26.6
+Bengkulu Selatan - Pengamatan 1915,123.5,79.3,25.5
+Seluma - Pengamatan 1916,126.4,36.5,26.8
+Kaur - Pengamatan 1917,101.3,78.1,18.5
+Mukomuko - Pengamatan 1918,142.9,33.3,17.7
+Lebong - Pengamatan 1919,68.1,27.9,36.9
+Kepahiang - Pengamatan 1920,86.8,72.5,33.5
+Bengkulu - Pengamatan 1921,13.0,79.9,32.5
+Kota Bengkulu - Pengamatan 1922,8.8,85.4,31.2
+Rejang Lebong - Pengamatan 1923,142.1,14.4,24.7
+Bengkulu Utara - Pengamatan 1924,99.1,36.1,20.7
+Bengkulu Selatan - Pengamatan 1925,89.4,10.7,31.9
+Seluma - Pengamatan 1926,32.8,88.4,22.0
+Kaur - Pengamatan 1927,18.2,45.7,36.7
+Mukomuko - Pengamatan 1928,92.8,86.5,21.4
+Lebong - Pengamatan 1929,119.2,24.2,24.4
+Kepahiang - Pengamatan 1930,42.8,62.8,22.8
+Bengkulu - Pengamatan 1931,10.1,34.3,27.2
+Kota Bengkulu - Pengamatan 1932,84.3,15.4,31.9
+Rejang Lebong - Pengamatan 1933,108.5,50.3,23.1
+Bengkulu Utara - Pengamatan 1934,99.4,73.0,36.9
+Bengkulu Selatan - Pengamatan 1935,129.4,85.0,18.4
+Seluma - Pengamatan 1936,142.7,43.9,18.7
+Kaur - Pengamatan 1937,143.7,29.5,37.1
+Mukomuko - Pengamatan 1938,17.5,28.5,31.6
+Lebong - Pengamatan 1939,79.4,79.4,27.9
+Kepahiang - Pengamatan 1940,100.4,29.9,37.4
+Bengkulu - Pengamatan 1941,86.6,16.2,24.3
+Kota Bengkulu - Pengamatan 1942,71.0,59.8,23.1
+Rejang Lebong - Pengamatan 1943,10.1,79.1,21.9
+Bengkulu Utara - Pengamatan 1944,151.6,59.8,25.6
+Bengkulu Selatan - Pengamatan 1945,54.8,59.9,23.9
+Seluma - Pengamatan 1946,94.9,64.2,34.7
+Kaur - Pengamatan 1947,71.2,30.8,19.8
+Mukomuko - Pengamatan 1948,126.3,19.6,22.5
+Lebong - Pengamatan 1949,77.5,87.5,33.2
+Kepahiang - Pengamatan 1950,7.6,35.0,26.6
+Bengkulu - Pengamatan 1951,26.6,83.6,31.9
+Kota Bengkulu - Pengamatan 1952,45.6,87.7,34.6
+Rejang Lebong - Pengamatan 1953,110.9,61.6,20.2
+Bengkulu Utara - Pengamatan 1954,38.1,8.5,23.6
+Bengkulu Selatan - Pengamatan 1955,20.2,27.1,20.9
+Seluma - Pengamatan 1956,90.0,7.9,23.7
+Kaur - Pengamatan 1957,55.0,36.7,28.3
+Mukomuko - Pengamatan 1958,26.0,30.6,36.3
+Lebong - Pengamatan 1959,64.7,47.5,20.1
+Kepahiang - Pengamatan 1960,73.3,32.2,17.1
+Bengkulu - Pengamatan 1961,118.2,87.9,24.0
+Kota Bengkulu - Pengamatan 1962,112.9,45.3,23.1
+Rejang Lebong - Pengamatan 1963,151.0,88.4,29.0
+Bengkulu Utara - Pengamatan 1964,23.5,53.0,36.0
+Bengkulu Selatan - Pengamatan 1965,70.7,63.6,32.4
+Seluma - Pengamatan 1966,144.0,16.9,28.6
+Kaur - Pengamatan 1967,49.3,39.1,34.7
+Mukomuko - Pengamatan 1968,71.4,12.9,18.2
+Lebong - Pengamatan 1969,102.6,54.6,21.7
+Kepahiang - Pengamatan 1970,149.7,28.6,17.5
+Bengkulu - Pengamatan 1971,86.1,42.9,31.1
+Kota Bengkulu - Pengamatan 1972,14.0,48.5,21.1
+Rejang Lebong - Pengamatan 1973,50.8,56.4,36.8
+Bengkulu Utara - Pengamatan 1974,145.4,35.7,20.1
+Bengkulu Selatan - Pengamatan 1975,136.6,36.4,24.8
+Seluma - Pengamatan 1976,45.5,34.9,37.5
+Kaur - Pengamatan 1977,139.9,12.4,32.3
+Mukomuko - Pengamatan 1978,71.1,89.4,33.9
+Lebong - Pengamatan 1979,46.2,73.5,37.4
+Kepahiang - Pengamatan 1980,67.8,81.2,19.9
+Bengkulu - Pengamatan 1981,93.9,12.3,21.4
+Kota Bengkulu - Pengamatan 1982,75.9,78.7,37.7
+Rejang Lebong - Pengamatan 1983,10.6,86.6,32.9
+Bengkulu Utara - Pengamatan 1984,14.2,39.8,36.2
+Bengkulu Selatan - Pengamatan 1985,66.3,52.2,31.9
+Seluma - Pengamatan 1986,120.8,16.6,20.9
+Kaur - Pengamatan 1987,61.1,52.1,17.9
+Mukomuko - Pengamatan 1988,132.2,75.9,23.4
+Lebong - Pengamatan 1989,89.5,44.4,17.6
+Kepahiang - Pengamatan 1990,0.4,27.3,37.1
+Bengkulu - Pengamatan 1991,133.5,45.2,30.7
+Kota Bengkulu - Pengamatan 1992,142.8,40.5,27.3
+Rejang Lebong - Pengamatan 1993,110.1,25.8,19.5
+Bengkulu Utara - Pengamatan 1994,44.4,89.5,18.4
+Bengkulu Selatan - Pengamatan 1995,119.3,54.4,28.9
+Seluma - Pengamatan 1996,138.9,58.4,27.0
+Kaur - Pengamatan 1997,111.1,15.2,27.8
+Mukomuko - Pengamatan 1998,92.0,76.8,20.4
+Lebong - Pengamatan 1999,9.4,32.2,35.4
+Kepahiang - Pengamatan 2000,21.7,18.9,22.7
+Bengkulu - Pengamatan 2001,67.1,82.5,24.5
+Kota Bengkulu - Pengamatan 2002,46.4,50.0,36.7
+Rejang Lebong - Pengamatan 2003,82.2,70.1,20.8
+Bengkulu Utara - Pengamatan 2004,15.1,69.0,28.4
+Bengkulu Selatan - Pengamatan 2005,139.6,75.3,31.4
+Seluma - Pengamatan 2006,48.2,63.3,31.5
+Kaur - Pengamatan 2007,15.3,54.3,34.3
+Mukomuko - Pengamatan 2008,2.1,49.0,24.8
+Lebong - Pengamatan 2009,77.6,33.9,36.1
+Kepahiang - Pengamatan 2010,16.4,18.1,21.6
+Bengkulu - Pengamatan 2011,30.1,81.2,29.9
+Kota Bengkulu - Pengamatan 2012,133.0,49.7,28.2
+Rejang Lebong - Pengamatan 2013,88.2,69.3,19.4
+Bengkulu Utara - Pengamatan 2014,73.7,11.5,34.2
+Bengkulu Selatan - Pengamatan 2015,147.7,45.8,23.5
+Seluma - Pengamatan 2016,58.0,74.4,35.7
+Kaur - Pengamatan 2017,95.6,69.9,24.2
+Mukomuko - Pengamatan 2018,113.6,7.4,34.1
+Lebong - Pengamatan 2019,35.6,77.8,20.0
+Kepahiang - Pengamatan 2020,36.3,15.7,19.7
+Bengkulu - Pengamatan 2021,12.6,63.7,33.5
+Kota Bengkulu - Pengamatan 2022,12.4,70.8,32.9
+Rejang Lebong - Pengamatan 2023,6.8,14.2,33.7
+Bengkulu Utara - Pengamatan 2024,82.2,10.0,19.5
+Bengkulu Selatan - Pengamatan 2025,40.5,10.6,31.0
+Seluma - Pengamatan 2026,120.7,71.5,36.3
+Kaur - Pengamatan 2027,32.9,81.6,20.9
+Mukomuko - Pengamatan 2028,56.2,12.7,34.8
+Lebong - Pengamatan 2029,150.7,85.6,24.3
+Kepahiang - Pengamatan 2030,25.7,47.6,32.3
+Bengkulu - Pengamatan 2031,38.7,53.5,19.1
+Kota Bengkulu - Pengamatan 2032,92.5,6.2,21.6
+Rejang Lebong - Pengamatan 2033,30.6,29.0,35.9
+Bengkulu Utara - Pengamatan 2034,85.9,87.8,19.1
+Bengkulu Selatan - Pengamatan 2035,34.2,47.9,31.9
+Seluma - Pengamatan 2036,58.6,55.1,26.2
+Kaur - Pengamatan 2037,153.2,20.4,24.5
+Mukomuko - Pengamatan 2038,60.7,23.2,21.8
+Lebong - Pengamatan 2039,18.1,88.7,19.6
+Kepahiang - Pengamatan 2040,17.7,16.6,33.0
+Bengkulu - Pengamatan 2041,112.8,52.4,17.9
+Kota Bengkulu - Pengamatan 2042,52.5,14.8,23.0
+Rejang Lebong - Pengamatan 2043,96.1,31.5,37.5
+Bengkulu Utara - Pengamatan 2044,71.0,52.1,23.1
+Bengkulu Selatan - Pengamatan 2045,136.9,21.0,18.5
+Seluma - Pengamatan 2046,134.6,45.4,31.3
+Kaur - Pengamatan 2047,28.7,89.9,27.3
+Mukomuko - Pengamatan 2048,16.8,42.2,30.8
+Lebong - Pengamatan 2049,13.6,17.2,25.4
+Kepahiang - Pengamatan 2050,94.5,13.6,36.4
+Bengkulu - Pengamatan 2051,156.5,10.5,37.5
+Kota Bengkulu - Pengamatan 2052,54.2,55.6,37.8
+Rejang Lebong - Pengamatan 2053,19.6,76.2,32.2
+Bengkulu Utara - Pengamatan 2054,44.6,65.6,29.2
+Bengkulu Selatan - Pengamatan 2055,43.7,72.1,30.5
+Seluma - Pengamatan 2056,64.0,45.4,29.7
+Kaur - Pengamatan 2057,64.7,46.2,22.9
+Mukomuko - Pengamatan 2058,122.9,14.2,22.3
+Lebong - Pengamatan 2059,79.6,58.4,19.8
+Kepahiang - Pengamatan 2060,15.9,9.5,18.4
+Bengkulu - Pengamatan 2061,108.5,87.6,25.0
+Kota Bengkulu - Pengamatan 2062,108.7,18.0,30.1
+Rejang Lebong - Pengamatan 2063,15.4,11.5,32.8
+Bengkulu Utara - Pengamatan 2064,122.8,72.4,21.2
+Bengkulu Selatan - Pengamatan 2065,105.9,46.7,22.5
+Seluma - Pengamatan 2066,55.0,78.1,28.5
+Kaur - Pengamatan 2067,152.4,7.7,26.0
+Mukomuko - Pengamatan 2068,146.4,37.6,23.6
+Lebong - Pengamatan 2069,60.2,44.1,17.7
+Kepahiang - Pengamatan 2070,89.1,78.1,23.4
+Bengkulu - Pengamatan 2071,113.0,46.8,19.8
+Kota Bengkulu - Pengamatan 2072,114.5,46.4,19.3
+Rejang Lebong - Pengamatan 2073,108.0,61.1,31.4
+Bengkulu Utara - Pengamatan 2074,91.6,45.5,34.9
+Bengkulu Selatan - Pengamatan 2075,81.1,38.3,27.4
+Seluma - Pengamatan 2076,155.3,57.4,24.4
+Kaur - Pengamatan 2077,156.4,32.2,17.6
+Mukomuko - Pengamatan 2078,7.2,76.1,24.3
+Lebong - Pengamatan 2079,118.7,7.3,35.7
+Kepahiang - Pengamatan 2080,54.6,13.3,24.2
+Bengkulu - Pengamatan 2081,57.2,34.9,30.9
+Kota Bengkulu - Pengamatan 2082,39.6,60.1,29.4
+Rejang Lebong - Pengamatan 2083,145.7,10.6,23.4
+Bengkulu Utara - Pengamatan 2084,54.0,6.7,23.8
+Bengkulu Selatan - Pengamatan 2085,73.7,78.4,28.9
+Seluma - Pengamatan 2086,144.2,27.7,31.6
+Kaur - Pengamatan 2087,94.1,88.8,24.9
+Mukomuko - Pengamatan 2088,62.4,53.7,34.0
+Lebong - Pengamatan 2089,16.0,62.4,24.1
+Kepahiang - Pengamatan 2090,80.4,70.0,24.1
+Bengkulu - Pengamatan 2091,98.4,35.9,26.2
+Kota Bengkulu - Pengamatan 2092,79.5,77.0,33.5
+Rejang Lebong - Pengamatan 2093,134.5,50.5,23.0
+Bengkulu Utara - Pengamatan 2094,7.6,89.7,25.4
+Bengkulu Selatan - Pengamatan 2095,36.1,68.1,18.9
+Seluma - Pengamatan 2096,135.1,13.1,24.1
+Kaur - Pengamatan 2097,10.8,73.1,27.0
+Mukomuko - Pengamatan 2098,33.6,72.6,30.7
+Lebong - Pengamatan 2099,48.3,73.4,26.1
+Kepahiang - Pengamatan 2100,86.4,22.0,25.4
+Bengkulu - Pengamatan 2101,100.0,43.5,33.0
+Kota Bengkulu - Pengamatan 2102,28.9,6.6,31.8
+Rejang Lebong - Pengamatan 2103,138.0,54.0,21.5
+Bengkulu Utara - Pengamatan 2104,153.9,68.1,26.8
+Bengkulu Selatan - Pengamatan 2105,149.9,50.3,29.9
+Seluma - Pengamatan 2106,123.1,41.9,28.9
+Kaur - Pengamatan 2107,100.3,49.4,24.6
+Mukomuko - Pengamatan 2108,23.6,17.8,31.4
+Lebong - Pengamatan 2109,48.0,42.0,23.7
+Kepahiang - Pengamatan 2110,132.8,10.5,21.3
+Bengkulu - Pengamatan 2111,66.0,75.0,30.6
+Kota Bengkulu - Pengamatan 2112,41.0,56.1,25.5
+Rejang Lebong - Pengamatan 2113,18.2,21.3,22.2
+Bengkulu Utara - Pengamatan 2114,132.4,44.5,28.8
+Bengkulu Selatan - Pengamatan 2115,69.8,60.0,17.8
+Seluma - Pengamatan 2116,25.5,16.6,22.4
+Kaur - Pengamatan 2117,128.6,61.0,20.7
+Mukomuko - Pengamatan 2118,136.4,86.9,27.2
+Lebong - Pengamatan 2119,3.2,78.1,18.8
+Kepahiang - Pengamatan 2120,96.3,78.7,35.9
+Bengkulu - Pengamatan 2121,65.1,35.9,30.8
+Kota Bengkulu - Pengamatan 2122,14.4,85.2,32.2
+Rejang Lebong - Pengamatan 2123,22.5,14.5,32.4
+Bengkulu Utara - Pengamatan 2124,149.3,49.4,34.4
+Bengkulu Selatan - Pengamatan 2125,151.9,84.2,22.3
+Seluma - Pengamatan 2126,141.5,25.2,19.6
+Kaur - Pengamatan 2127,129.1,33.0,29.3
+Mukomuko - Pengamatan 2128,62.4,68.6,22.0
+Lebong - Pengamatan 2129,67.7,17.3,20.7
+Kepahiang - Pengamatan 2130,155.2,42.4,22.3
+Bengkulu - Pengamatan 2131,94.3,46.7,24.9
+Kota Bengkulu - Pengamatan 2132,151.8,31.9,25.9
+Rejang Lebong - Pengamatan 2133,109.2,86.9,35.5
+Bengkulu Utara - Pengamatan 2134,149.9,35.9,32.0
+Bengkulu Selatan - Pengamatan 2135,131.4,6.8,37.3
+Seluma - Pengamatan 2136,96.9,76.5,30.9
+Kaur - Pengamatan 2137,150.5,63.7,33.6
+Mukomuko - Pengamatan 2138,38.3,52.0,23.5
+Lebong - Pengamatan 2139,153.4,35.8,34.1
+Kepahiang - Pengamatan 2140,19.5,78.7,35.0
+Bengkulu - Pengamatan 2141,62.2,82.3,25.3
+Kota Bengkulu - Pengamatan 2142,156.5,26.7,18.9
+Rejang Lebong - Pengamatan 2143,131.6,25.0,21.4
+Bengkulu Utara - Pengamatan 2144,142.4,82.9,30.3
+Bengkulu Selatan - Pengamatan 2145,140.7,70.2,25.5
+Seluma - Pengamatan 2146,5.4,78.6,34.3
+Kaur - Pengamatan 2147,150.5,45.0,25.7
+Mukomuko - Pengamatan 2148,134.6,66.0,35.4
+Lebong - Pengamatan 2149,131.2,75.1,31.7
+Kepahiang - Pengamatan 2150,81.0,34.9,29.6
+Bengkulu - Pengamatan 2151,130.1,67.7,26.5
+Kota Bengkulu - Pengamatan 2152,4.4,9.4,30.5
+Rejang Lebong - Pengamatan 2153,100.8,72.2,19.9
+Bengkulu Utara - Pengamatan 2154,64.1,58.4,23.6
+Bengkulu Selatan - Pengamatan 2155,13.2,18.4,27.8
+Seluma - Pengamatan 2156,155.1,75.6,33.0
+Kaur - Pengamatan 2157,135.5,63.3,33.6
+Mukomuko - Pengamatan 2158,51.1,45.7,32.4
+Lebong - Pengamatan 2159,41.7,63.4,34.4
+Kepahiang - Pengamatan 2160,127.9,21.9,25.7
+Bengkulu - Pengamatan 2161,29.1,79.5,36.8
+Kota Bengkulu - Pengamatan 2162,141.5,24.1,36.9
+Rejang Lebong - Pengamatan 2163,147.7,60.0,30.2
+Bengkulu Utara - Pengamatan 2164,145.1,87.8,21.2
+Bengkulu Selatan - Pengamatan 2165,112.2,19.3,25.4
+Seluma - Pengamatan 2166,68.6,27.1,18.9
+Kaur - Pengamatan 2167,58.9,85.5,19.5
+Mukomuko - Pengamatan 2168,115.0,42.0,36.3
+Lebong - Pengamatan 2169,72.6,62.3,19.5
+Kepahiang - Pengamatan 2170,114.2,21.2,35.1
+Bengkulu - Pengamatan 2171,125.1,29.5,27.4
+Kota Bengkulu - Pengamatan 2172,20.8,77.8,29.6
+Rejang Lebong - Pengamatan 2173,159.2,29.1,31.2
+Bengkulu Utara - Pengamatan 2174,66.9,39.7,20.1
+Bengkulu Selatan - Pengamatan 2175,46.4,27.3,30.0
+Seluma - Pengamatan 2176,145.2,36.4,31.4
+Kaur - Pengamatan 2177,73.3,5.9,19.8
+Mukomuko - Pengamatan 2178,51.7,63.9,31.4
+Lebong - Pengamatan 2179,114.1,65.2,32.5
+Kepahiang - Pengamatan 2180,41.0,13.1,18.2
+Bengkulu - Pengamatan 2181,53.3,25.0,36.1
+Kota Bengkulu - Pengamatan 2182,159.5,84.8,37.3
+Rejang Lebong - Pengamatan 2183,95.7,68.6,18.0
+Bengkulu Utara - Pengamatan 2184,40.6,57.7,23.4
+Bengkulu Selatan - Pengamatan 2185,63.2,36.5,37.3
+Seluma - Pengamatan 2186,89.5,54.3,22.5
+Kaur - Pengamatan 2187,80.6,84.1,35.4
+Mukomuko - Pengamatan 2188,21.1,32.0,28.1
+Lebong - Pengamatan 2189,22.7,14.9,17.9
+Kepahiang - Pengamatan 2190,20.5,79.1,34.5
+Bengkulu - Pengamatan 2191,119.7,83.7,22.9
+Kota Bengkulu - Pengamatan 2192,140.3,57.1,33.0
+Rejang Lebong - Pengamatan 2193,42.2,31.6,35.7
+Bengkulu Utara - Pengamatan 2194,50.5,89.5,33.0
+Bengkulu Selatan - Pengamatan 2195,24.2,77.5,30.8
+Seluma - Pengamatan 2196,127.7,9.5,20.1
+Kaur - Pengamatan 2197,36.8,8.0,22.5
+Mukomuko - Pengamatan 2198,113.0,42.1,37.9
+Lebong - Pengamatan 2199,148.4,8.5,24.5
+Kepahiang - Pengamatan 2200,113.4,46.2,27.4
+Bengkulu - Pengamatan 2201,135.3,78.7,19.6
+Kota Bengkulu - Pengamatan 2202,15.0,78.8,20.8
+Rejang Lebong - Pengamatan 2203,26.9,48.2,22.7
+Bengkulu Utara - Pengamatan 2204,142.5,54.8,29.3
+Bengkulu Selatan - Pengamatan 2205,155.5,49.7,29.0
+Seluma - Pengamatan 2206,66.6,11.5,33.1
+Kaur - Pengamatan 2207,108.3,80.4,17.5
+Mukomuko - Pengamatan 2208,109.0,62.9,25.3
+Lebong - Pengamatan 2209,94.5,85.9,34.6
+Kepahiang - Pengamatan 2210,24.6,11.9,34.4
+Bengkulu - Pengamatan 2211,105.5,43.6,37.1
+Kota Bengkulu - Pengamatan 2212,95.1,5.5,37.4
+Rejang Lebong - Pengamatan 2213,105.0,85.8,23.8
+Bengkulu Utara - Pengamatan 2214,117.0,67.4,37.1
+Bengkulu Selatan - Pengamatan 2215,91.1,23.0,18.0
+Seluma - Pengamatan 2216,103.0,32.5,18.2
+Kaur - Pengamatan 2217,11.3,85.9,25.0
+Mukomuko - Pengamatan 2218,63.8,20.1,37.3
+Lebong - Pengamatan 2219,138.5,12.6,34.9
+Kepahiang - Pengamatan 2220,26.1,71.3,23.0
+Bengkulu - Pengamatan 2221,120.4,60.6,19.5
+Kota Bengkulu - Pengamatan 2222,78.5,41.8,33.9
+Rejang Lebong - Pengamatan 2223,49.6,63.2,19.8
+Bengkulu Utara - Pengamatan 2224,106.5,75.7,27.8
+Bengkulu Selatan - Pengamatan 2225,78.3,80.3,27.0
+Seluma - Pengamatan 2226,90.1,41.0,32.9
+Kaur - Pengamatan 2227,129.8,57.2,26.1
+Mukomuko - Pengamatan 2228,68.2,8.4,24.2
+Lebong - Pengamatan 2229,74.2,24.1,31.4
+Kepahiang - Pengamatan 2230,24.8,47.1,30.2
+Bengkulu - Pengamatan 2231,83.9,29.7,26.2
+Kota Bengkulu - Pengamatan 2232,145.2,45.6,20.1
+Rejang Lebong - Pengamatan 2233,20.4,81.7,34.7
+Bengkulu Utara - Pengamatan 2234,83.7,30.1,18.0
+Bengkulu Selatan - Pengamatan 2235,12.2,8.8,19.3
+Seluma - Pengamatan 2236,68.0,13.0,30.9
+Kaur - Pengamatan 2237,91.0,26.5,22.4
+Mukomuko - Pengamatan 2238,13.1,47.8,19.4
+Lebong - Pengamatan 2239,105.9,20.3,20.8
+Kepahiang - Pengamatan 2240,62.9,12.1,35.4
+Bengkulu - Pengamatan 2241,47.6,54.9,26.6
+Kota Bengkulu - Pengamatan 2242,107.2,58.0,22.6
+Rejang Lebong - Pengamatan 2243,154.7,79.1,20.9
+Bengkulu Utara - Pengamatan 2244,29.6,68.5,29.7
+Bengkulu Selatan - Pengamatan 2245,139.5,14.0,28.2
+Seluma - Pengamatan 2246,0.9,14.9,20.6
+Kaur - Pengamatan 2247,76.3,63.8,35.2
+Mukomuko - Pengamatan 2248,154.5,56.2,27.2
+Lebong - Pengamatan 2249,99.0,87.8,24.6
+Kepahiang - Pengamatan 2250,107.8,63.7,25.3
+Bengkulu - Pengamatan 2251,48.4,15.6,17.3
+Kota Bengkulu - Pengamatan 2252,17.9,6.4,37.4
+Rejang Lebong - Pengamatan 2253,137.4,22.8,30.6
+Bengkulu Utara - Pengamatan 2254,104.0,42.0,30.1
+Bengkulu Selatan - Pengamatan 2255,126.4,21.2,23.3
+Seluma - Pengamatan 2256,74.1,45.3,17.5
+Kaur - Pengamatan 2257,26.6,18.0,31.8
+Mukomuko - Pengamatan 2258,154.2,45.1,35.1
+Lebong - Pengamatan 2259,93.6,22.1,29.0
+Kepahiang - Pengamatan 2260,133.4,9.3,17.2
+Bengkulu - Pengamatan 2261,100.9,65.6,37.6
+Kota Bengkulu - Pengamatan 2262,135.8,67.7,29.5
+Rejang Lebong - Pengamatan 2263,88.7,29.7,27.2
+Bengkulu Utara - Pengamatan 2264,77.8,55.2,29.8
+Bengkulu Selatan - Pengamatan 2265,108.6,74.4,27.2
+Seluma - Pengamatan 2266,114.3,49.9,25.9
+Kaur - Pengamatan 2267,50.5,10.4,35.8
+Mukomuko - Pengamatan 2268,66.7,45.2,27.4
+Lebong - Pengamatan 2269,150.2,34.5,31.6
+Kepahiang - Pengamatan 2270,3.3,29.5,21.0
+Bengkulu - Pengamatan 2271,55.0,24.7,21.6
+Kota Bengkulu - Pengamatan 2272,145.5,33.8,29.6
+Rejang Lebong - Pengamatan 2273,134.8,60.8,19.8
+Bengkulu Utara - Pengamatan 2274,46.9,65.5,37.2
+Bengkulu Selatan - Pengamatan 2275,133.3,62.2,32.4
+Seluma - Pengamatan 2276,127.4,73.0,34.7
+Kaur - Pengamatan 2277,99.5,29.0,32.7
+Mukomuko - Pengamatan 2278,106.7,16.0,21.2
+Lebong - Pengamatan 2279,96.9,13.6,25.7
+Kepahiang - Pengamatan 2280,159.0,30.8,21.4
+Bengkulu - Pengamatan 2281,7.5,6.5,35.5
+Kota Bengkulu - Pengamatan 2282,57.1,18.5,34.4
+Rejang Lebong - Pengamatan 2283,143.1,7.7,18.3
+Bengkulu Utara - Pengamatan 2284,68.9,57.5,19.5
+Bengkulu Selatan - Pengamatan 2285,35.9,26.9,24.1
+Seluma - Pengamatan 2286,56.8,9.0,35.4
+Kaur - Pengamatan 2287,42.8,17.9,31.5
+Mukomuko - Pengamatan 2288,82.5,61.9,31.8
+Lebong - Pengamatan 2289,148.3,42.2,26.6
+Kepahiang - Pengamatan 2290,134.7,14.4,19.2
+Bengkulu - Pengamatan 2291,97.7,71.5,36.9
+Kota Bengkulu - Pengamatan 2292,131.8,8.6,19.2
+Rejang Lebong - Pengamatan 2293,100.8,79.0,36.1
+Bengkulu Utara - Pengamatan 2294,25.1,29.8,26.3
+Bengkulu Selatan - Pengamatan 2295,80.9,67.3,19.1
+Seluma - Pengamatan 2296,103.5,33.4,19.9
+Kaur - Pengamatan 2297,135.8,42.3,25.7
+Mukomuko - Pengamatan 2298,123.0,25.9,34.0
+Lebong - Pengamatan 2299,54.6,47.9,18.8
+Kepahiang - Pengamatan 2300,59.6,69.2,24.6
+Bengkulu - Pengamatan 2301,106.4,17.9,32.8
+Kota Bengkulu - Pengamatan 2302,67.5,24.4,33.8
+Rejang Lebong - Pengamatan 2303,66.1,39.8,26.6
+Bengkulu Utara - Pengamatan 2304,136.4,72.5,24.6
+Bengkulu Selatan - Pengamatan 2305,4.8,17.4,17.2
+Seluma - Pengamatan 2306,129.0,85.2,18.8
+Kaur - Pengamatan 2307,50.4,88.5,20.5
+Mukomuko - Pengamatan 2308,9.8,69.5,30.9
+Lebong - Pengamatan 2309,102.6,81.7,18.2
+Kepahiang - Pengamatan 2310,101.1,65.6,30.9
+Bengkulu - Pengamatan 2311,83.2,30.1,25.4
+Kota Bengkulu - Pengamatan 2312,108.9,52.1,23.4
+Rejang Lebong - Pengamatan 2313,118.8,82.3,17.2
+Bengkulu Utara - Pengamatan 2314,44.8,49.9,36.3
+Bengkulu Selatan - Pengamatan 2315,112.0,42.9,21.3
+Seluma - Pengamatan 2316,87.1,72.0,30.7
+Kaur - Pengamatan 2317,111.6,80.5,33.4
+Mukomuko - Pengamatan 2318,64.7,21.8,23.3
+Lebong - Pengamatan 2319,5.9,33.4,32.2
+Kepahiang - Pengamatan 2320,118.4,15.7,37.8
+Bengkulu - Pengamatan 2321,45.4,12.9,28.6
+Kota Bengkulu - Pengamatan 2322,83.4,69.3,20.4
+Rejang Lebong - Pengamatan 2323,4.5,72.7,29.4
+Bengkulu Utara - Pengamatan 2324,38.6,70.8,32.3
+Bengkulu Selatan - Pengamatan 2325,157.9,14.4,18.3
+Seluma - Pengamatan 2326,59.7,58.3,24.4
+Kaur - Pengamatan 2327,7.6,60.3,19.6
+Mukomuko - Pengamatan 2328,47.7,67.6,26.5
+Lebong - Pengamatan 2329,157.3,73.5,37.8
+Kepahiang - Pengamatan 2330,90.5,81.0,30.2
+Bengkulu - Pengamatan 2331,85.3,55.6,24.4
+Kota Bengkulu - Pengamatan 2332,45.5,71.7,32.0
+Rejang Lebong - Pengamatan 2333,107.6,65.7,27.9
+Bengkulu Utara - Pengamatan 2334,39.6,32.9,29.2
+Bengkulu Selatan - Pengamatan 2335,131.7,35.7,19.1
+Seluma - Pengamatan 2336,113.9,75.4,18.7
+Kaur - Pengamatan 2337,10.0,80.5,27.0
+Mukomuko - Pengamatan 2338,71.4,36.4,28.1
+Lebong - Pengamatan 2339,94.1,49.1,25.3
+Kepahiang - Pengamatan 2340,42.2,47.4,25.9
+Bengkulu - Pengamatan 2341,70.4,84.1,27.3
+Kota Bengkulu - Pengamatan 2342,155.7,75.0,20.0
+Rejang Lebong - Pengamatan 2343,20.3,65.4,19.7
+Bengkulu Utara - Pengamatan 2344,112.7,78.4,19.5
+Bengkulu Selatan - Pengamatan 2345,34.0,45.2,32.7
+Seluma - Pengamatan 2346,151.1,36.4,37.0
+Kaur - Pengamatan 2347,96.3,39.7,19.5
+Mukomuko - Pengamatan 2348,91.5,8.4,20.2
+Lebong - Pengamatan 2349,59.4,89.2,23.4
+Kepahiang - Pengamatan 2350,77.7,72.3,20.0
+Bengkulu - Pengamatan 2351,94.3,9.1,35.8
+Kota Bengkulu - Pengamatan 2352,142.2,23.3,34.2
+Rejang Lebong - Pengamatan 2353,78.2,15.4,24.3
+Bengkulu Utara - Pengamatan 2354,139.3,40.5,29.0
+Bengkulu Selatan - Pengamatan 2355,90.5,81.5,33.4
+Seluma - Pengamatan 2356,76.0,66.2,29.7
+Kaur - Pengamatan 2357,121.9,47.9,26.7
+Mukomuko - Pengamatan 2358,72.0,43.2,35.2
+Lebong - Pengamatan 2359,52.0,73.0,31.0
+Kepahiang - Pengamatan 2360,65.5,24.8,25.3
+Bengkulu - Pengamatan 2361,86.6,86.4,35.7
+Kota Bengkulu - Pengamatan 2362,117.7,59.9,35.2
+Rejang Lebong - Pengamatan 2363,113.2,53.6,33.7
+Bengkulu Utara - Pengamatan 2364,113.2,52.7,19.6
+Bengkulu Selatan - Pengamatan 2365,89.5,21.4,30.0
+Seluma - Pengamatan 2366,92.3,9.5,29.0
+Kaur - Pengamatan 2367,30.3,45.4,35.8
+Mukomuko - Pengamatan 2368,19.2,84.6,20.8
+Lebong - Pengamatan 2369,3.0,71.9,22.2
+Kepahiang - Pengamatan 2370,112.9,80.5,26.3
+Bengkulu - Pengamatan 2371,129.1,56.6,25.4
+Kota Bengkulu - Pengamatan 2372,7.2,78.3,17.5
+Rejang Lebong - Pengamatan 2373,69.9,40.3,35.1
+Bengkulu Utara - Pengamatan 2374,50.8,26.9,19.4
+Bengkulu Selatan - Pengamatan 2375,15.9,19.3,20.0
+Seluma - Pengamatan 2376,40.9,12.6,23.4
+Kaur - Pengamatan 2377,65.2,19.4,29.9
+Mukomuko - Pengamatan 2378,52.0,7.3,18.2
+Lebong - Pengamatan 2379,62.4,32.2,25.7
+Kepahiang - Pengamatan 2380,51.9,36.9,34.4
+Bengkulu - Pengamatan 2381,19.4,22.2,32.8
+Kota Bengkulu - Pengamatan 2382,93.8,46.9,32.8
+Rejang Lebong - Pengamatan 2383,61.6,14.8,18.3
+Bengkulu Utara - Pengamatan 2384,74.4,39.6,27.2
+Bengkulu Selatan - Pengamatan 2385,65.2,24.9,35.6
+Seluma - Pengamatan 2386,43.1,86.9,31.2
+Kaur - Pengamatan 2387,39.4,52.2,33.5
+Mukomuko - Pengamatan 2388,48.7,39.6,18.8
+Lebong - Pengamatan 2389,101.7,22.3,37.3
+Kepahiang - Pengamatan 2390,59.7,88.8,33.4
+Bengkulu - Pengamatan 2391,86.0,41.0,36.1
+Kota Bengkulu - Pengamatan 2392,72.3,5.1,26.8
+Rejang Lebong - Pengamatan 2393,132.7,29.6,37.4
+Bengkulu Utara - Pengamatan 2394,0.1,84.3,27.1
+Bengkulu Selatan - Pengamatan 2395,95.7,76.4,25.0
+Seluma - Pengamatan 2396,56.2,58.7,29.3
+Kaur - Pengamatan 2397,81.7,8.9,32.5
+Mukomuko - Pengamatan 2398,90.1,30.6,25.3
+Lebong - Pengamatan 2399,19.7,16.9,28.7
+Kepahiang - Pengamatan 2400,44.7,41.7,29.8
+Bengkulu - Pengamatan 2401,153.2,32.1,31.3
+Kota Bengkulu - Pengamatan 2402,54.8,27.2,32.8
+Rejang Lebong - Pengamatan 2403,72.4,25.9,37.6
+Bengkulu Utara - Pengamatan 2404,54.7,44.1,29.6
+Bengkulu Selatan - Pengamatan 2405,2.5,63.8,30.6
+Seluma - Pengamatan 2406,0.3,45.5,35.9
+Kaur - Pengamatan 2407,107.6,40.1,35.8
+Mukomuko - Pengamatan 2408,112.5,69.8,28.3
+Lebong - Pengamatan 2409,126.0,60.2,18.6
+Kepahiang - Pengamatan 2410,5.0,75.7,31.1
+Bengkulu - Pengamatan 2411,107.6,35.0,34.1
+Kota Bengkulu - Pengamatan 2412,132.4,35.4,20.7
+Rejang Lebong - Pengamatan 2413,122.9,64.2,17.2
+Bengkulu Utara - Pengamatan 2414,74.0,84.6,26.3
+Bengkulu Selatan - Pengamatan 2415,35.4,6.7,22.9
+Seluma - Pengamatan 2416,147.4,35.4,18.9
+Kaur - Pengamatan 2417,98.2,30.8,32.1
+Mukomuko - Pengamatan 2418,37.5,47.0,24.6
+Lebong - Pengamatan 2419,44.9,81.9,31.8
+Kepahiang - Pengamatan 2420,33.5,21.7,34.2
+Bengkulu - Pengamatan 2421,63.4,78.9,29.0
+Kota Bengkulu - Pengamatan 2422,79.0,51.9,30.9
+Rejang Lebong - Pengamatan 2423,90.5,63.0,28.9
+Bengkulu Utara - Pengamatan 2424,10.5,15.9,18.4
+Bengkulu Selatan - Pengamatan 2425,41.5,53.4,21.8
+Seluma - Pengamatan 2426,83.7,71.5,21.0
+Kaur - Pengamatan 2427,108.5,89.3,31.6
+Mukomuko - Pengamatan 2428,85.3,26.5,28.8
+Lebong - Pengamatan 2429,72.6,84.7,30.5
+Kepahiang - Pengamatan 2430,150.9,9.4,36.7
+Bengkulu - Pengamatan 2431,69.2,89.6,22.8
+Kota Bengkulu - Pengamatan 2432,108.8,44.7,24.6
+Rejang Lebong - Pengamatan 2433,121.4,80.1,21.7
+Bengkulu Utara - Pengamatan 2434,44.5,40.7,26.4
+Bengkulu Selatan - Pengamatan 2435,0.8,21.5,18.7
+Seluma - Pengamatan 2436,91.5,7.2,32.5
+Kaur - Pengamatan 2437,156.5,41.0,18.6
+Mukomuko - Pengamatan 2438,40.0,19.0,23.5
+Lebong - Pengamatan 2439,100.2,13.2,27.1
+Kepahiang - Pengamatan 2440,129.3,55.4,30.2
+Bengkulu - Pengamatan 2441,53.5,26.3,19.3
+Kota Bengkulu - Pengamatan 2442,38.1,34.0,18.1
+Rejang Lebong - Pengamatan 2443,53.4,72.5,36.8
+Bengkulu Utara - Pengamatan 2444,124.1,57.7,33.0
+Bengkulu Selatan - Pengamatan 2445,100.1,54.2,18.8
+Seluma - Pengamatan 2446,9.7,7.8,23.6
+Kaur - Pengamatan 2447,135.6,10.5,19.7
+Mukomuko - Pengamatan 2448,147.1,42.6,23.3
+Lebong - Pengamatan 2449,100.2,10.6,31.2
+Kepahiang - Pengamatan 2450,89.5,30.1,25.0
+Bengkulu - Pengamatan 2451,15.3,68.9,21.9
+Kota Bengkulu - Pengamatan 2452,95.9,61.1,17.2
+Rejang Lebong - Pengamatan 2453,61.4,72.6,35.5
+Bengkulu Utara - Pengamatan 2454,99.1,33.9,36.7
+Bengkulu Selatan - Pengamatan 2455,125.3,43.6,23.9
+Seluma - Pengamatan 2456,30.8,13.7,29.5
+Kaur - Pengamatan 2457,10.8,72.1,21.1
+Mukomuko - Pengamatan 2458,91.7,59.2,22.4
+Lebong - Pengamatan 2459,67.4,66.6,26.3
+Kepahiang - Pengamatan 2460,38.9,72.7,18.3
+Bengkulu - Pengamatan 2461,49.9,42.0,37.2
+Kota Bengkulu - Pengamatan 2462,120.7,31.5,35.6
+Rejang Lebong - Pengamatan 2463,124.1,17.5,23.5
+Bengkulu Utara - Pengamatan 2464,54.9,36.4,17.2
+Bengkulu Selatan - Pengamatan 2465,93.8,62.7,18.2
+Seluma - Pengamatan 2466,81.1,76.0,35.0
+Kaur - Pengamatan 2467,67.5,21.6,21.2
+Mukomuko - Pengamatan 2468,145.4,71.7,24.2
+Lebong - Pengamatan 2469,106.9,64.1,37.6
+Kepahiang - Pengamatan 2470,96.0,33.1,29.1
+Bengkulu - Pengamatan 2471,154.1,57.4,25.8
+Kota Bengkulu - Pengamatan 2472,26.0,43.6,33.6
+Rejang Lebong - Pengamatan 2473,6.8,23.6,17.1
+Bengkulu Utara - Pengamatan 2474,35.7,24.6,30.1
+Bengkulu Selatan - Pengamatan 2475,38.2,67.4,37.0
+Seluma - Pengamatan 2476,53.0,67.9,21.3
+Kaur - Pengamatan 2477,29.5,89.1,24.6
+Mukomuko - Pengamatan 2478,11.8,7.6,19.4
+Lebong - Pengamatan 2479,46.5,21.5,29.3
+Kepahiang - Pengamatan 2480,122.5,8.7,17.6
+Bengkulu - Pengamatan 2481,31.7,19.8,35.6
+Kota Bengkulu - Pengamatan 2482,115.0,33.9,28.6
+Rejang Lebong - Pengamatan 2483,28.6,6.8,34.7
+Bengkulu Utara - Pengamatan 2484,145.7,6.8,31.2
+Bengkulu Selatan - Pengamatan 2485,60.6,71.9,19.3
+Seluma - Pengamatan 2486,149.8,30.9,22.0
+Kaur - Pengamatan 2487,129.5,61.2,36.8
+Mukomuko - Pengamatan 2488,156.3,89.8,35.5
+Lebong - Pengamatan 2489,140.5,10.6,20.0
+Kepahiang - Pengamatan 2490,147.9,72.6,21.0
+Bengkulu - Pengamatan 2491,60.5,36.8,29.6
+Kota Bengkulu - Pengamatan 2492,156.3,25.8,18.0
+Rejang Lebong - Pengamatan 2493,98.6,21.1,28.2
+Bengkulu Utara - Pengamatan 2494,126.3,32.9,18.1
+Bengkulu Selatan - Pengamatan 2495,127.3,79.2,34.9
+Seluma - Pengamatan 2496,154.9,80.3,21.4
+Kaur - Pengamatan 2497,13.0,45.0,30.9
+Mukomuko - Pengamatan 2498,10.4,48.2,32.8
+Lebong - Pengamatan 2499,103.2,48.3,27.5
+Kepahiang - Pengamatan 2500,74.3,32.4,24.9
+Bengkulu - Pengamatan 2501,111.1,65.8,27.4
+Kota Bengkulu - Pengamatan 2502,42.9,39.1,36.3
+Rejang Lebong - Pengamatan 2503,93.4,8.1,21.6
+Bengkulu Utara - Pengamatan 2504,32.5,78.4,25.3
+Bengkulu Selatan - Pengamatan 2505,49.0,80.5,29.0
+Seluma - Pengamatan 2506,149.7,36.8,28.6
+Kaur - Pengamatan 2507,21.5,12.1,26.3
+Mukomuko - Pengamatan 2508,56.3,54.6,26.8
+Lebong - Pengamatan 2509,99.4,41.2,26.8
+Kepahiang - Pengamatan 2510,65.4,73.4,23.7
+Bengkulu - Pengamatan 2511,61.2,20.3,21.9
+Kota Bengkulu - Pengamatan 2512,103.3,35.5,18.7
+Rejang Lebong - Pengamatan 2513,134.8,48.6,30.5
+Bengkulu Utara - Pengamatan 2514,125.7,83.8,19.1
+Bengkulu Selatan - Pengamatan 2515,11.4,8.3,21.2
+Seluma - Pengamatan 2516,31.5,33.0,23.4
+Kaur - Pengamatan 2517,130.5,63.1,22.8
+Mukomuko - Pengamatan 2518,112.9,89.8,38.0
+Lebong - Pengamatan 2519,120.4,67.9,36.2
+Kepahiang - Pengamatan 2520,1.4,30.5,34.3
+Bengkulu - Pengamatan 2521,125.3,39.3,25.5
+Kota Bengkulu - Pengamatan 2522,92.8,60.7,26.9
+Rejang Lebong - Pengamatan 2523,82.0,69.7,20.1
+Bengkulu Utara - Pengamatan 2524,63.6,24.3,32.7
+Bengkulu Selatan - Pengamatan 2525,75.9,48.8,33.5
+Seluma - Pengamatan 2526,121.2,66.4,26.7
+Kaur - Pengamatan 2527,126.7,31.6,20.9
+Mukomuko - Pengamatan 2528,123.2,64.3,21.4
+Lebong - Pengamatan 2529,72.0,52.5,24.9
+Kepahiang - Pengamatan 2530,92.4,15.9,36.8
+Bengkulu - Pengamatan 2531,1.5,73.9,34.5
+Kota Bengkulu - Pengamatan 2532,54.4,40.6,31.4
+Rejang Lebong - Pengamatan 2533,64.5,71.2,28.3
+Bengkulu Utara - Pengamatan 2534,52.2,7.0,33.5
+Bengkulu Selatan - Pengamatan 2535,147.5,18.1,37.0
+Seluma - Pengamatan 2536,52.8,58.5,29.7
+Kaur - Pengamatan 2537,97.3,78.7,37.6
+Mukomuko - Pengamatan 2538,32.7,38.2,28.2
+Lebong - Pengamatan 2539,30.1,14.2,29.0
+Kepahiang - Pengamatan 2540,72.2,81.1,19.0
+Bengkulu - Pengamatan 2541,16.7,52.0,17.7
+Kota Bengkulu - Pengamatan 2542,110.2,46.5,20.9
+Rejang Lebong - Pengamatan 2543,11.1,86.9,23.0
+Bengkulu Utara - Pengamatan 2544,37.3,61.1,18.5
+Bengkulu Selatan - Pengamatan 2545,9.2,49.1,20.6
+Seluma - Pengamatan 2546,137.6,39.9,20.3
+Kaur - Pengamatan 2547,17.7,50.6,27.0
+Mukomuko - Pengamatan 2548,11.0,86.2,35.2
+Lebong - Pengamatan 2549,20.8,22.5,26.1
+Kepahiang - Pengamatan 2550,113.5,45.4,29.7
+Bengkulu - Pengamatan 2551,150.3,54.9,27.6
+Kota Bengkulu - Pengamatan 2552,109.6,28.4,17.2
+Rejang Lebong - Pengamatan 2553,22.8,10.4,25.4
+Bengkulu Utara - Pengamatan 2554,129.2,49.7,36.1
+Bengkulu Selatan - Pengamatan 2555,140.7,44.1,29.1
+Seluma - Pengamatan 2556,118.0,29.5,35.5
+Kaur - Pengamatan 2557,73.0,64.5,31.9
+Mukomuko - Pengamatan 2558,47.6,57.1,34.0
+Lebong - Pengamatan 2559,28.0,26.2,35.9
+Kepahiang - Pengamatan 2560,117.3,43.9,36.1
+Bengkulu - Pengamatan 2561,29.4,53.3,25.3
+Kota Bengkulu - Pengamatan 2562,151.3,25.4,35.3
+Rejang Lebong - Pengamatan 2563,43.8,58.4,23.1
+Bengkulu Utara - Pengamatan 2564,146.6,64.3,32.2
+Bengkulu Selatan - Pengamatan 2565,34.8,46.9,37.8
+Seluma - Pengamatan 2566,88.5,89.6,18.6
+Kaur - Pengamatan 2567,16.8,70.2,23.8
+Mukomuko - Pengamatan 2568,72.1,26.5,27.6
+Lebong - Pengamatan 2569,73.9,11.2,31.6
+Kepahiang - Pengamatan 2570,120.0,37.4,32.7
+Bengkulu - Pengamatan 2571,136.9,38.7,17.2
+Kota Bengkulu - Pengamatan 2572,18.3,83.0,23.9
+Rejang Lebong - Pengamatan 2573,119.8,46.2,18.4
+Bengkulu Utara - Pengamatan 2574,87.7,25.6,37.0
+Bengkulu Selatan - Pengamatan 2575,22.4,74.7,34.7
+Seluma - Pengamatan 2576,27.3,6.5,19.1
+Kaur - Pengamatan 2577,47.1,50.4,25.2
+Mukomuko - Pengamatan 2578,12.4,69.9,31.2
+Lebong - Pengamatan 2579,24.6,35.4,21.6
+Kepahiang - Pengamatan 2580,5.5,62.4,21.5
+Bengkulu - Pengamatan 2581,111.5,76.1,34.0
+Kota Bengkulu - Pengamatan 2582,102.6,65.9,35.8
+Rejang Lebong - Pengamatan 2583,62.5,31.2,18.1
+Bengkulu Utara - Pengamatan 2584,0.7,70.7,33.1
+Bengkulu Selatan - Pengamatan 2585,148.6,36.8,22.0
+Seluma - Pengamatan 2586,14.6,40.8,37.8
+Kaur - Pengamatan 2587,53.9,21.3,31.0
+Mukomuko - Pengamatan 2588,35.3,80.0,33.7
+Lebong - Pengamatan 2589,132.9,19.3,20.5
+Kepahiang - Pengamatan 2590,66.5,14.2,23.9
+Bengkulu - Pengamatan 2591,89.9,21.1,21.3
+Kota Bengkulu - Pengamatan 2592,86.7,84.8,19.5
+Rejang Lebong - Pengamatan 2593,34.2,35.3,20.6
+Bengkulu Utara - Pengamatan 2594,64.3,31.9,25.2
+Bengkulu Selatan - Pengamatan 2595,73.4,10.6,34.1
+Seluma - Pengamatan 2596,104.0,36.4,18.4
+Kaur - Pengamatan 2597,35.0,30.6,29.6
+Mukomuko - Pengamatan 2598,157.3,13.7,28.3
+Lebong - Pengamatan 2599,158.5,77.3,20.6
+Kepahiang - Pengamatan 2600,153.4,56.0,37.6
+Bengkulu - Pengamatan 2601,111.4,62.6,37.4
+Kota Bengkulu - Pengamatan 2602,111.0,33.2,30.3
+Rejang Lebong - Pengamatan 2603,141.4,32.0,34.9
+Bengkulu Utara - Pengamatan 2604,77.1,33.5,29.8
+Bengkulu Selatan - Pengamatan 2605,93.6,37.5,30.5
+Seluma - Pengamatan 2606,37.2,54.9,37.8
+Kaur - Pengamatan 2607,37.2,57.4,35.8
+Mukomuko - Pengamatan 2608,49.4,67.7,32.9
+Lebong - Pengamatan 2609,99.2,10.1,24.9
+Kepahiang - Pengamatan 2610,47.5,17.9,21.3
+Bengkulu - Pengamatan 2611,6.1,83.5,29.6
+Kota Bengkulu - Pengamatan 2612,151.3,67.8,23.9
+Rejang Lebong - Pengamatan 2613,44.5,59.7,33.0
+Bengkulu Utara - Pengamatan 2614,83.3,88.1,30.6
+Bengkulu Selatan - Pengamatan 2615,46.2,7.0,34.8
+Seluma - Pengamatan 2616,53.0,25.6,28.3
+Kaur - Pengamatan 2617,145.1,61.5,22.2
+Mukomuko - Pengamatan 2618,110.0,66.2,29.8
+Lebong - Pengamatan 2619,61.0,32.3,26.3
+Kepahiang - Pengamatan 2620,1.0,78.9,18.5
+Bengkulu - Pengamatan 2621,30.8,58.9,20.0
+Kota Bengkulu - Pengamatan 2622,32.7,12.8,29.4
+Rejang Lebong - Pengamatan 2623,133.0,84.2,22.0
+Bengkulu Utara - Pengamatan 2624,12.5,66.6,23.5
+Bengkulu Selatan - Pengamatan 2625,115.5,25.8,20.7
+Seluma - Pengamatan 2626,39.8,29.3,26.4
+Kaur - Pengamatan 2627,101.7,28.1,33.4
+Mukomuko - Pengamatan 2628,12.8,87.7,25.4
+Lebong - Pengamatan 2629,26.8,42.5,27.6
+Kepahiang - Pengamatan 2630,117.6,69.6,34.2
+Bengkulu - Pengamatan 2631,127.0,6.7,25.0
+Kota Bengkulu - Pengamatan 2632,136.6,69.5,36.4
+Rejang Lebong - Pengamatan 2633,95.2,18.0,32.3
+Bengkulu Utara - Pengamatan 2634,41.2,44.4,26.5
+Bengkulu Selatan - Pengamatan 2635,60.0,56.5,18.5
+Seluma - Pengamatan 2636,21.9,44.9,20.2
+Kaur - Pengamatan 2637,30.3,6.1,27.5
+Mukomuko - Pengamatan 2638,116.1,46.8,36.4
+Lebong - Pengamatan 2639,150.4,87.5,24.8
+Kepahiang - Pengamatan 2640,78.3,59.5,29.4
+Bengkulu - Pengamatan 2641,65.4,8.3,36.4
+Kota Bengkulu - Pengamatan 2642,61.6,53.1,21.1
+Rejang Lebong - Pengamatan 2643,69.8,26.7,36.2
+Bengkulu Utara - Pengamatan 2644,115.6,48.3,27.3
+Bengkulu Selatan - Pengamatan 2645,110.2,64.2,30.7
+Seluma - Pengamatan 2646,148.2,67.5,22.1
+Kaur - Pengamatan 2647,5.5,74.1,30.3
+Mukomuko - Pengamatan 2648,108.2,64.3,30.6
+Lebong - Pengamatan 2649,41.8,43.7,31.3
+Kepahiang - Pengamatan 2650,40.7,56.2,37.0
+Bengkulu - Pengamatan 2651,134.6,6.0,33.2
+Kota Bengkulu - Pengamatan 2652,103.1,82.9,25.4
+Rejang Lebong - Pengamatan 2653,93.8,81.6,27.9
+Bengkulu Utara - Pengamatan 2654,30.2,41.0,34.4
+Bengkulu Selatan - Pengamatan 2655,40.5,30.7,37.3
+Seluma - Pengamatan 2656,105.4,37.5,23.5
+Kaur - Pengamatan 2657,65.9,79.5,32.3
+Mukomuko - Pengamatan 2658,14.2,59.1,33.3
+Lebong - Pengamatan 2659,55.1,17.1,32.7
+Kepahiang - Pengamatan 2660,148.8,38.8,23.5
+Bengkulu - Pengamatan 2661,157.9,74.4,17.0
+Kota Bengkulu - Pengamatan 2662,11.2,64.2,28.0
+Rejang Lebong - Pengamatan 2663,104.7,67.3,20.6
+Bengkulu Utara - Pengamatan 2664,59.9,64.8,21.2
+Bengkulu Selatan - Pengamatan 2665,29.1,85.6,26.5
+Seluma - Pengamatan 2666,130.3,20.8,18.2
+Kaur - Pengamatan 2667,29.2,69.5,22.4
+Mukomuko - Pengamatan 2668,144.4,39.7,30.2
+Lebong - Pengamatan 2669,99.9,78.8,20.5
+Kepahiang - Pengamatan 2670,46.9,37.1,22.8
+Bengkulu - Pengamatan 2671,54.7,54.8,27.0
+Kota Bengkulu - Pengamatan 2672,107.6,13.6,18.3
+Rejang Lebong - Pengamatan 2673,120.3,5.6,29.2
+Bengkulu Utara - Pengamatan 2674,158.0,13.2,28.0
+Bengkulu Selatan - Pengamatan 2675,1.2,56.3,37.7
+Seluma - Pengamatan 2676,121.8,84.2,26.9
+Kaur - Pengamatan 2677,53.9,41.5,24.8
+Mukomuko - Pengamatan 2678,142.4,90.0,34.2
+Lebong - Pengamatan 2679,150.6,61.5,24.9
+Kepahiang - Pengamatan 2680,9.2,35.3,23.9
+Bengkulu - Pengamatan 2681,16.0,43.8,31.7
+Kota Bengkulu - Pengamatan 2682,116.0,80.5,19.9
+Rejang Lebong - Pengamatan 2683,96.3,78.9,22.9
+Bengkulu Utara - Pengamatan 2684,111.9,74.3,24.7
+Bengkulu Selatan - Pengamatan 2685,98.9,61.0,27.0
+Seluma - Pengamatan 2686,66.1,21.0,37.7
+Kaur - Pengamatan 2687,153.2,74.1,17.3
+Mukomuko - Pengamatan 2688,57.6,8.9,34.0
+Lebong - Pengamatan 2689,52.1,42.8,29.7
+Kepahiang - Pengamatan 2690,64.0,57.1,18.7
+Bengkulu - Pengamatan 2691,68.5,84.2,36.5
+Kota Bengkulu - Pengamatan 2692,157.9,77.9,36.0
+Rejang Lebong - Pengamatan 2693,117.5,30.0,21.1
+Bengkulu Utara - Pengamatan 2694,22.9,49.2,29.0
+Bengkulu Selatan - Pengamatan 2695,137.1,47.9,19.7
+Seluma - Pengamatan 2696,127.5,30.6,31.1
+Kaur - Pengamatan 2697,87.8,79.4,20.5
+Mukomuko - Pengamatan 2698,71.4,14.8,30.9
+Lebong - Pengamatan 2699,38.5,23.0,32.8
+Kepahiang - Pengamatan 2700,105.6,12.6,26.1
+Bengkulu - Pengamatan 2701,114.5,18.6,36.5
+Kota Bengkulu - Pengamatan 2702,144.4,70.1,21.6
+Rejang Lebong - Pengamatan 2703,41.2,45.5,35.8
+Bengkulu Utara - Pengamatan 2704,19.7,16.5,28.2
+Bengkulu Selatan - Pengamatan 2705,116.1,12.7,31.5
+Seluma - Pengamatan 2706,139.5,84.2,33.1
+Kaur - Pengamatan 2707,96.1,59.7,24.9
+Mukomuko - Pengamatan 2708,114.8,67.6,25.0
+Lebong - Pengamatan 2709,102.7,52.8,35.0
+Kepahiang - Pengamatan 2710,129.4,24.0,19.4
+Bengkulu - Pengamatan 2711,14.0,12.6,32.6
+Kota Bengkulu - Pengamatan 2712,150.0,68.3,19.4
+Rejang Lebong - Pengamatan 2713,58.8,77.5,37.0
+Bengkulu Utara - Pengamatan 2714,92.3,5.1,18.3
+Bengkulu Selatan - Pengamatan 2715,85.7,77.0,37.6
+Seluma - Pengamatan 2716,51.1,36.0,31.3
+Kaur - Pengamatan 2717,127.5,49.2,29.6
+Mukomuko - Pengamatan 2718,35.5,38.6,28.3
+Lebong - Pengamatan 2719,73.7,17.3,36.8
+Kepahiang - Pengamatan 2720,134.0,47.5,26.6
+Bengkulu - Pengamatan 2721,96.2,17.4,31.0
+Kota Bengkulu - Pengamatan 2722,128.2,64.8,29.6
+Rejang Lebong - Pengamatan 2723,49.4,89.2,19.6
+Bengkulu Utara - Pengamatan 2724,159.5,65.1,27.0
+Bengkulu Selatan - Pengamatan 2725,132.6,47.1,31.8
+Seluma - Pengamatan 2726,60.3,88.4,24.0
+Kaur - Pengamatan 2727,132.5,22.9,32.4
+Mukomuko - Pengamatan 2728,129.7,64.5,18.1
+Lebong - Pengamatan 2729,138.5,20.2,27.2
+Kepahiang - Pengamatan 2730,62.7,88.7,30.8
+Bengkulu - Pengamatan 2731,135.8,89.2,28.5
+Kota Bengkulu - Pengamatan 2732,54.0,62.6,37.8
+Rejang Lebong - Pengamatan 2733,121.2,38.2,28.1
+Bengkulu Utara - Pengamatan 2734,45.3,64.2,21.1
+Bengkulu Selatan - Pengamatan 2735,137.0,38.5,19.7
+Seluma - Pengamatan 2736,120.4,54.3,33.9
+Kaur - Pengamatan 2737,136.0,65.3,26.6
+Mukomuko - Pengamatan 2738,26.2,16.7,31.6
+Lebong - Pengamatan 2739,46.6,17.3,21.6
+Kepahiang - Pengamatan 2740,119.7,67.5,17.2
+Bengkulu - Pengamatan 2741,116.2,53.9,31.2
+Kota Bengkulu - Pengamatan 2742,158.2,17.5,37.0
+Rejang Lebong - Pengamatan 2743,68.3,76.5,36.4
+Bengkulu Utara - Pengamatan 2744,15.4,87.8,20.8
+Bengkulu Selatan - Pengamatan 2745,8.4,88.3,30.7
+Seluma - Pengamatan 2746,94.9,87.4,30.2
+Kaur - Pengamatan 2747,64.6,7.9,22.1
+Mukomuko - Pengamatan 2748,78.2,63.5,37.0
+Lebong - Pengamatan 2749,104.4,36.9,31.5
+Kepahiang - Pengamatan 2750,127.3,61.0,33.3
+Bengkulu - Pengamatan 2751,138.4,60.3,22.8
+Kota Bengkulu - Pengamatan 2752,104.5,36.2,19.5
+Rejang Lebong - Pengamatan 2753,13.2,46.6,31.0
+Bengkulu Utara - Pengamatan 2754,81.6,7.0,29.0
+Bengkulu Selatan - Pengamatan 2755,91.6,28.3,32.7
+Seluma - Pengamatan 2756,127.1,20.4,27.2
+Kaur - Pengamatan 2757,103.1,41.9,29.0
+Mukomuko - Pengamatan 2758,15.9,10.4,36.1
+Lebong - Pengamatan 2759,127.2,20.7,34.1
+Kepahiang - Pengamatan 2760,3.2,52.3,28.3
+Bengkulu - Pengamatan 2761,130.0,46.5,27.9
+Kota Bengkulu - Pengamatan 2762,93.6,65.7,33.6
+Rejang Lebong - Pengamatan 2763,19.9,69.0,37.3
+Bengkulu Utara - Pengamatan 2764,143.6,20.4,29.6
+Bengkulu Selatan - Pengamatan 2765,28.8,52.2,33.8
+Seluma - Pengamatan 2766,19.7,15.9,21.3
+Kaur - Pengamatan 2767,25.8,52.8,34.9
+Mukomuko - Pengamatan 2768,5.6,88.3,27.6
+Lebong - Pengamatan 2769,58.2,51.3,25.9
+Kepahiang - Pengamatan 2770,151.2,5.0,23.3
+Bengkulu - Pengamatan 2771,151.4,49.2,33.4
+Kota Bengkulu - Pengamatan 2772,105.5,42.8,29.1
+Rejang Lebong - Pengamatan 2773,111.2,49.4,37.7
+Bengkulu Utara - Pengamatan 2774,56.3,50.7,21.4
+Bengkulu Selatan - Pengamatan 2775,15.8,74.7,22.0
+Seluma - Pengamatan 2776,30.1,30.5,34.5
+Kaur - Pengamatan 2777,153.2,56.2,21.5
+Mukomuko - Pengamatan 2778,57.5,15.9,30.1
+Lebong - Pengamatan 2779,11.9,26.7,25.0
+Kepahiang - Pengamatan 2780,144.6,39.0,18.7
+Bengkulu - Pengamatan 2781,40.7,41.2,31.6
+Kota Bengkulu - Pengamatan 2782,85.7,11.0,32.4
+Rejang Lebong - Pengamatan 2783,159.3,64.2,21.0
+Bengkulu Utara - Pengamatan 2784,59.5,60.9,34.2
+Bengkulu Selatan - Pengamatan 2785,96.8,40.7,20.2
+Seluma - Pengamatan 2786,158.8,41.9,17.5
+Kaur - Pengamatan 2787,96.6,11.6,19.6
+Mukomuko - Pengamatan 2788,17.6,51.6,18.4
+Lebong - Pengamatan 2789,102.4,35.8,24.0
+Kepahiang - Pengamatan 2790,43.7,78.9,21.7
+Bengkulu - Pengamatan 2791,1.6,37.1,37.3
+Kota Bengkulu - Pengamatan 2792,60.6,13.9,36.4
+Rejang Lebong - Pengamatan 2793,28.1,66.9,23.4
+Bengkulu Utara - Pengamatan 2794,131.4,46.6,28.1
+Bengkulu Selatan - Pengamatan 2795,112.1,78.6,28.6
+Seluma - Pengamatan 2796,97.2,81.2,20.6
+Kaur - Pengamatan 2797,151.4,38.1,24.2
+Mukomuko - Pengamatan 2798,118.6,87.3,28.2
+Lebong - Pengamatan 2799,95.1,77.2,27.0
+Kepahiang - Pengamatan 2800,20.4,5.8,27.8
+Bengkulu - Pengamatan 2801,24.9,15.7,25.0
+Kota Bengkulu - Pengamatan 2802,117.7,9.5,32.2
+Rejang Lebong - Pengamatan 2803,155.9,65.1,22.2
+Bengkulu Utara - Pengamatan 2804,97.4,65.1,20.8
+Bengkulu Selatan - Pengamatan 2805,157.8,72.9,27.5
+Seluma - Pengamatan 2806,44.1,41.4,36.8
+Kaur - Pengamatan 2807,141.0,74.2,23.4
+Mukomuko - Pengamatan 2808,137.3,85.5,25.5
+Lebong - Pengamatan 2809,50.0,12.7,18.7
+Kepahiang - Pengamatan 2810,116.8,85.3,20.5
+Bengkulu - Pengamatan 2811,9.2,68.2,28.6
+Kota Bengkulu - Pengamatan 2812,78.9,79.3,37.2
+Rejang Lebong - Pengamatan 2813,67.8,48.2,32.3
+Bengkulu Utara - Pengamatan 2814,76.7,48.8,38.0
+Bengkulu Selatan - Pengamatan 2815,142.1,64.3,25.5
+Seluma - Pengamatan 2816,98.6,82.4,32.7
+Kaur - Pengamatan 2817,114.3,64.7,32.7
+Mukomuko - Pengamatan 2818,39.1,67.8,37.0
+Lebong - Pengamatan 2819,131.7,79.8,28.1
+Kepahiang - Pengamatan 2820,97.5,56.6,37.3
+Bengkulu - Pengamatan 2821,107.9,80.0,28.0
+Kota Bengkulu - Pengamatan 2822,36.0,11.4,34.6
+Rejang Lebong - Pengamatan 2823,82.2,86.0,25.9
+Bengkulu Utara - Pengamatan 2824,60.7,36.7,19.4
+Bengkulu Selatan - Pengamatan 2825,146.2,26.2,28.3
+Seluma - Pengamatan 2826,122.6,15.0,23.3
+Kaur - Pengamatan 2827,47.0,23.1,32.5
+Mukomuko - Pengamatan 2828,91.0,23.5,23.4
+Lebong - Pengamatan 2829,149.3,59.7,34.3
+Kepahiang - Pengamatan 2830,5.7,44.4,30.0
+Bengkulu - Pengamatan 2831,78.1,35.2,29.9
+Kota Bengkulu - Pengamatan 2832,52.6,35.1,17.1
+Rejang Lebong - Pengamatan 2833,142.4,20.8,24.4
+Bengkulu Utara - Pengamatan 2834,16.2,46.8,18.8
+Bengkulu Selatan - Pengamatan 2835,82.3,18.1,19.6
+Seluma - Pengamatan 2836,78.0,18.2,30.8
+Kaur - Pengamatan 2837,36.2,38.6,23.3
+Mukomuko - Pengamatan 2838,68.5,20.5,34.0
+Lebong - Pengamatan 2839,17.4,42.3,34.6
+Kepahiang - Pengamatan 2840,25.9,35.1,26.1
+Bengkulu - Pengamatan 2841,57.5,79.0,21.2
+Kota Bengkulu - Pengamatan 2842,30.3,8.4,25.3
+Rejang Lebong - Pengamatan 2843,119.0,81.6,20.4
+Bengkulu Utara - Pengamatan 2844,31.8,45.7,31.0
+Bengkulu Selatan - Pengamatan 2845,42.5,40.8,28.6
+Seluma - Pengamatan 2846,128.0,65.7,23.8
+Kaur - Pengamatan 2847,122.3,80.0,27.5
+Mukomuko - Pengamatan 2848,147.8,76.7,25.2
+Lebong - Pengamatan 2849,17.6,14.2,17.4
+Kepahiang - Pengamatan 2850,24.9,47.5,33.1
+Bengkulu - Pengamatan 2851,37.8,62.7,24.2
+Kota Bengkulu - Pengamatan 2852,156.2,67.7,26.1
+Rejang Lebong - Pengamatan 2853,46.3,46.3,33.0
+Bengkulu Utara - Pengamatan 2854,39.6,18.0,27.7
+Bengkulu Selatan - Pengamatan 2855,39.9,70.2,35.1
+Seluma - Pengamatan 2856,159.1,26.0,34.2
+Kaur - Pengamatan 2857,31.7,65.0,34.0
+Mukomuko - Pengamatan 2858,112.2,47.7,20.8
+Lebong - Pengamatan 2859,158.8,55.3,30.3
+Kepahiang - Pengamatan 2860,36.7,16.2,17.8
+Bengkulu - Pengamatan 2861,158.5,84.0,26.0
+Kota Bengkulu - Pengamatan 2862,98.6,12.7,18.1
+Rejang Lebong - Pengamatan 2863,65.2,31.0,30.3
+Bengkulu Utara - Pengamatan 2864,37.0,33.6,27.1
+Bengkulu Selatan - Pengamatan 2865,81.6,59.7,23.4
+Seluma - Pengamatan 2866,43.1,28.8,24.4
+Kaur - Pengamatan 2867,66.9,32.2,18.0
+Mukomuko - Pengamatan 2868,6.5,9.4,32.6
+Lebong - Pengamatan 2869,33.9,45.1,36.1
+Kepahiang - Pengamatan 2870,16.1,20.7,36.9
+Bengkulu - Pengamatan 2871,58.2,30.9,19.0
+Kota Bengkulu - Pengamatan 2872,2.2,51.9,35.1
+Rejang Lebong - Pengamatan 2873,53.0,68.0,24.6
+Bengkulu Utara - Pengamatan 2874,124.6,50.0,24.8
+Bengkulu Selatan - Pengamatan 2875,104.0,22.9,25.1
+Seluma - Pengamatan 2876,142.0,16.1,32.6
+Kaur - Pengamatan 2877,19.3,54.9,36.2
+Mukomuko - Pengamatan 2878,104.7,21.2,31.8
+Lebong - Pengamatan 2879,148.1,11.4,28.5
+Kepahiang - Pengamatan 2880,54.9,66.7,37.8
+Bengkulu - Pengamatan 2881,32.3,66.3,17.9
+Kota Bengkulu - Pengamatan 2882,30.7,51.8,22.3
+Rejang Lebong - Pengamatan 2883,140.3,77.5,36.0
+Bengkulu Utara - Pengamatan 2884,156.0,81.1,26.4
+Bengkulu Selatan - Pengamatan 2885,114.8,82.4,18.4
+Seluma - Pengamatan 2886,67.0,84.2,27.6
+Kaur - Pengamatan 2887,3.5,55.9,31.6
+Mukomuko - Pengamatan 2888,20.6,8.9,28.9
+Lebong - Pengamatan 2889,127.1,64.0,32.6
+Kepahiang - Pengamatan 2890,63.6,63.2,35.3
+Bengkulu - Pengamatan 2891,155.4,19.1,32.8
+Kota Bengkulu - Pengamatan 2892,61.5,71.2,25.4
+Rejang Lebong - Pengamatan 2893,43.4,20.6,20.4
+Bengkulu Utara - Pengamatan 2894,34.8,64.2,35.5
+Bengkulu Selatan - Pengamatan 2895,126.5,43.7,31.9
+Seluma - Pengamatan 2896,84.0,30.8,21.6
+Kaur - Pengamatan 2897,113.3,51.9,20.6
+Mukomuko - Pengamatan 2898,7.3,25.2,17.8
+Lebong - Pengamatan 2899,23.7,80.1,36.5
+Kepahiang - Pengamatan 2900,43.3,72.2,30.5
+Bengkulu - Pengamatan 2901,39.8,75.0,28.2
+Kota Bengkulu - Pengamatan 2902,0.2,34.5,29.7
+Rejang Lebong - Pengamatan 2903,59.1,12.1,31.8
+Bengkulu Utara - Pengamatan 2904,87.9,66.4,25.6
+Bengkulu Selatan - Pengamatan 2905,97.8,32.6,18.2
+Seluma - Pengamatan 2906,130.5,75.0,21.6
+Kaur - Pengamatan 2907,154.4,20.0,37.4
+Mukomuko - Pengamatan 2908,86.0,88.2,33.3
+Lebong - Pengamatan 2909,124.9,14.0,32.7
+Kepahiang - Pengamatan 2910,61.1,60.6,35.3
+Bengkulu - Pengamatan 2911,101.5,51.8,34.2
+Kota Bengkulu - Pengamatan 2912,35.3,27.8,29.2
+Rejang Lebong - Pengamatan 2913,129.2,69.0,20.3
+Bengkulu Utara - Pengamatan 2914,37.1,66.7,24.7
+Bengkulu Selatan - Pengamatan 2915,144.3,13.0,20.8
+Seluma - Pengamatan 2916,29.6,78.3,21.0
+Kaur - Pengamatan 2917,78.5,67.0,30.6
+Mukomuko - Pengamatan 2918,3.4,18.8,20.7
+Lebong - Pengamatan 2919,63.1,56.7,18.5
+Kepahiang - Pengamatan 2920,11.5,25.8,36.1
+Bengkulu - Pengamatan 2921,155.3,13.5,28.1
+Kota Bengkulu - Pengamatan 2922,116.3,73.7,29.7
+Rejang Lebong - Pengamatan 2923,60.5,6.8,34.4
+Bengkulu Utara - Pengamatan 2924,122.2,59.8,17.9
+Bengkulu Selatan - Pengamatan 2925,39.7,12.1,20.0
+Seluma - Pengamatan 2926,100.4,6.1,37.3
+Kaur - Pengamatan 2927,153.2,14.0,32.5
+Mukomuko - Pengamatan 2928,54.1,65.1,21.2
+Lebong - Pengamatan 2929,76.9,52.8,26.3
+Kepahiang - Pengamatan 2930,26.1,33.2,20.2
+Bengkulu - Pengamatan 2931,8.9,63.8,30.2
+Kota Bengkulu - Pengamatan 2932,19.7,75.1,19.2
+Rejang Lebong - Pengamatan 2933,47.5,48.5,34.6
+Bengkulu Utara - Pengamatan 2934,22.7,82.5,17.5
+Bengkulu Selatan - Pengamatan 2935,68.3,17.5,30.8
+Seluma - Pengamatan 2936,36.1,79.7,25.1
+Kaur - Pengamatan 2937,141.5,74.9,19.4
+Mukomuko - Pengamatan 2938,27.1,14.4,19.1
+Lebong - Pengamatan 2939,152.9,35.4,29.9
+Kepahiang - Pengamatan 2940,18.9,83.5,36.3
+Bengkulu - Pengamatan 2941,143.3,56.4,20.7
+Kota Bengkulu - Pengamatan 2942,84.9,56.0,31.3
+Rejang Lebong - Pengamatan 2943,24.0,61.7,23.3
+Bengkulu Utara - Pengamatan 2944,130.8,34.6,19.2
+Bengkulu Selatan - Pengamatan 2945,146.6,61.2,36.6
+Seluma - Pengamatan 2946,129.7,65.5,18.6
+Kaur - Pengamatan 2947,0.3,84.3,20.1
+Mukomuko - Pengamatan 2948,104.9,32.2,25.2
+Lebong - Pengamatan 2949,115.4,71.8,27.0
+Kepahiang - Pengamatan 2950,10.8,54.1,37.2
+Bengkulu - Pengamatan 2951,44.6,12.7,37.9
+Kota Bengkulu - Pengamatan 2952,29.1,37.7,23.7
+Rejang Lebong - Pengamatan 2953,67.8,63.9,25.7
+Bengkulu Utara - Pengamatan 2954,127.0,33.3,33.8
+Bengkulu Selatan - Pengamatan 2955,104.6,25.9,25.8
+Seluma - Pengamatan 2956,79.5,50.4,28.2
+Kaur - Pengamatan 2957,131.4,37.7,29.2
+Mukomuko - Pengamatan 2958,67.5,54.1,31.6
+Lebong - Pengamatan 2959,119.7,64.8,21.9
+Kepahiang - Pengamatan 2960,0.5,89.5,17.4
+Bengkulu - Pengamatan 2961,89.3,86.4,36.3
+Kota Bengkulu - Pengamatan 2962,9.5,34.7,34.8
+Rejang Lebong - Pengamatan 2963,138.7,74.6,23.2
+Bengkulu Utara - Pengamatan 2964,23.1,77.5,37.4
+Bengkulu Selatan - Pengamatan 2965,146.1,25.6,34.4
+Seluma - Pengamatan 2966,8.9,16.7,37.2
+Kaur - Pengamatan 2967,112.6,37.1,17.6
+Mukomuko - Pengamatan 2968,154.4,36.6,31.7
+Lebong - Pengamatan 2969,106.0,11.3,34.6
+Kepahiang - Pengamatan 2970,139.3,7.6,24.7
+Bengkulu - Pengamatan 2971,12.6,11.6,29.0
+Kota Bengkulu - Pengamatan 2972,130.2,17.7,20.8
+Rejang Lebong - Pengamatan 2973,119.0,68.6,31.7
+Bengkulu Utara - Pengamatan 2974,47.9,40.0,24.1
+Bengkulu Selatan - Pengamatan 2975,125.0,64.1,23.0
+Seluma - Pengamatan 2976,24.9,79.9,17.7
+Kaur - Pengamatan 2977,120.2,47.8,17.2
+Mukomuko - Pengamatan 2978,133.2,62.8,35.4
+Lebong - Pengamatan 2979,88.7,75.5,36.3
+Kepahiang - Pengamatan 2980,80.3,65.3,25.9
+Bengkulu - Pengamatan 2981,25.1,87.7,28.0
+Kota Bengkulu - Pengamatan 2982,156.5,15.6,21.4
+Rejang Lebong - Pengamatan 2983,99.0,23.6,20.9
+Bengkulu Utara - Pengamatan 2984,119.4,52.5,34.7
+Bengkulu Selatan - Pengamatan 2985,130.6,44.8,23.6
+Seluma - Pengamatan 2986,102.7,75.3,20.5
+Kaur - Pengamatan 2987,128.5,60.0,21.1
+Mukomuko - Pengamatan 2988,17.3,11.6,29.7
+Lebong - Pengamatan 2989,135.5,7.4,22.9
+Kepahiang - Pengamatan 2990,86.7,10.6,29.5
+Bengkulu - Pengamatan 2991,121.0,31.3,28.6
+Kota Bengkulu - Pengamatan 2992,102.1,7.8,22.7
+Rejang Lebong - Pengamatan 2993,156.3,53.0,28.8
+Bengkulu Utara - Pengamatan 2994,126.4,8.9,23.6
+Bengkulu Selatan - Pengamatan 2995,151.0,5.7,24.5
+Seluma - Pengamatan 2996,45.2,38.8,21.1
+Kaur - Pengamatan 2997,120.3,66.7,37.5
+Mukomuko - Pengamatan 2998,112.4,13.3,25.6
+Lebong - Pengamatan 2999,118.6,13.6,34.0
+Kepahiang - Pengamatan 3000,24.0,54.9,25.0
